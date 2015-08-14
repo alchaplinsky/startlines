@@ -1,0 +1,517 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+
+    <!-- Always force latest IE rendering engine or request Chrome Frame -->
+    <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+
+    <!-- Use title if it's in the page YAML frontmatter -->
+    <title>Explore Startup Timelines</title>
+
+    <link href="/stylesheets/application-5a949668.css" rel="stylesheet" />
+    <script src="/javascripts/application-670ff10f.js"></script>
+  </head>
+
+  <body class="timelines timelines_twitter">
+    <div class='background blured' style=""></div>
+<div class="content">
+  <div class="header" style="background: #55ACEE">
+    <div class="container row">
+      <a class="icon-options" href="/timelines"></a>
+      <div class="name">Twitter</div>
+      <div class="likes">
+        <a href="javascript:void(0)" class="facebook-link icon-facebook"></a>
+        <a href="javascript:void(0)" class="twitter-link icon-twitter"></a>
+        <a href="javascript:void(0)" class="google-link icon-google"></a>
+        <a href="javascript:void(0)" class="pinterest-link icon-pinterest"></a>
+      </div>
+    </div>
+  </div>
+
+  <div id="main">
+    <article id="timeline">
+        <section>
+          <div class="date" style="color: #55ACEE">
+            01 January, 2004
+          </div>
+          <div class="details">
+            Odeo, Twitter's parent company, is started.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            01 January, 2005
+          </div>
+          <div class="details">
+            Odeo's podcasting service is released, with very little public response.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            26 February, 2006
+          </div>
+          <div class="details">
+            Jack Dorsey, Noah Glass, Evan Williams and Biz Stone discuss the idea of using text messaging to share statuses, and decide to work on the project. The original idea is attributed to Jack Dorsey, and called the status concept.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            01 March, 2006
+          </div>
+          <div class="details">
+            The name Twitter (spelt twttr at the time) is chosen for the service. The idea for the name is attributed to Noah Glass.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            21 March, 2006
+          </div>
+          <div class="details">
+            Twitter is officially set up and Jack Dorsey sends the first tweet.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            15 July, 2006
+          </div>
+          <div class="details">
+            Noah Glass tells Om Malik of GigaOm about Twitter (then called twttr), and Malik writes an article about it on GigaOm. This appears to be the first ever news coverage of Twitter, and a number of people, including Malik himself, have commented on the accuracy (or lack thereof) of its predictions from the perspective of hindsight.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            03 August, 2006
+          </div>
+          <div class="details">
+            Twitter users tweet about a mild (4.4 on the Richter scale) earthquake in California. The event helps Twitter's team see the potential of Twitter as a way for many people to contribute to the reporting of a live event, each from his or her own vantage point.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            01 September, 2006
+          </div>
+          <div class="details">
+            Twitter attempts to have a grand launch at the Love Parade, but gets very little traction there, with only 100 new signups.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            01 October, 2006
+          </div>
+          <div class="details">
+            Biz Stone, Evan Williams, Dorsey, and other members of Odeo, form Obvious Corporation and acquired Odeo, together with its assets—including Odeo.com and Twitter.com—from the investors and shareholders.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            12 March, 2007
+          </div>
+          <div class="details">
+            Twitter is highly successful at South by Southwest Interactive (SXSW) and gets a major bump in usage from the event. Commentator Steven Levy calls this a tipping point for Twitter.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            01 April, 2007
+          </div>
+          <div class="details">
+            Twitter spins off into its own company.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            26 June, 2007
+          </div>
+          <div class="details">
+            Twitter announces that it has closed a funding round led by Fred Wilson of Union Square Ventures. The five-million-dollar round values Twitter at $20 million.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            23 August, 2007
+          </div>
+          <div class="details">
+            The hashtag (#), first proposed by user Chris Messina, debuts on Twitter.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            24 June, 2008
+          </div>
+          <div class="details">
+            Twitter announces the closure of its second funding round, welcoming new investors Bijan Sabet of Spark Capital and Jeff Bezos of Bezos Expeditions. Existing partners Union Square Ventures and Digital Garage also invest more.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            16 October, 2008
+          </div>
+          <div class="details">
+            It is announced that Jack Dorsey has stepped down from the CEO role at Twitter, and Evan Williams takes over.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            13 February, 2009
+          </div>
+          <div class="details">
+            Twitter announces the closure of yet another funding round, with new investors Peter Fenton of Benchmark Capital and Todd Chaffee of Institutional Venture Partners.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            17 April, 2009
+          </div>
+          <div class="details">
+            Evan Williams appears alongside Ashton Kutcher on Oprah Winfrey's show to explain Twitter to Oprah's audience.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            20 April, 2009
+          </div>
+          <div class="details">
+            Executives from Twitter and WordPress head over to Iraq to expose the people there to social media and the Internet.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            30 April, 2009
+          </div>
+          <div class="details">
+            Twitter executives Biz Stone and Evan Williams are included in the TIME 100.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            15 June, 2009
+          </div>
+          <div class="details">
+            Twitter reschedules planned downtime for maintenance so as not to conflict with a large planned protest in Iran. Because a US State Department official had emailed Twitter about the planned protest, newspapers speculate that Twitter rescheduled its downtime because of pressure from the US government.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            22 January, 2010
+          </div>
+          <div class="details">
+            The first unassisted off-Earth Twitter message is posted from the International Space Station by NASA astronaut T. J. Creamer.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            13 April, 2010
+          </div>
+          <div class="details">
+            Twitter announces that it will start allowing for advertising in the form of promoted tweets -- "ordinary tweets that businesses and individuals want to highlight to a wider group of users."
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            04 October, 2010
+          </div>
+          <div class="details">
+            Evan Williams steps down as CEO, and Dick Costolo, the erstwhile COO, takes over as CEO.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            05 April, 2011
+          </div>
+          <div class="details">
+            Twitter tests a new homepage and phased out the "Old Twitter."  However, a glitch came about after the page was launched, so the previous "retro" homepage was still in use until the issues were resolved; the new homepage was reintroduced on April 20.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            05 July, 2011
+          </div>
+          <div class="details">
+            Twitter acquires BackType, a real-time social analytics platform.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            08 September, 2011
+          </div>
+          <div class="details">
+            Twitter closes its Series G round, raising $800 million at a $8 billion valuation. Of the $800 million, $400 million buys off shares from existing investors and the remaining $400 million goes to the company.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            08 December, 2011
+          </div>
+          <div class="details">
+            Twitter overhauls its website once more to feature the "Fly" design, which the service says is easier for new users to follow and promotes advertising. In addition to the Home tab, the Connect and Discover tabs are introduced along with a redesigned profile and timeline of Tweets. The site's layout is compared to that of Facebook.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            21 February, 2012
+          </div>
+          <div class="details">
+            Twitter announces a parternship with Russian search engine Yandex. Yandex, a Russian search engine, finds value within the partnership due to Twitter’s real time news feeds. Twitter’s director of business development explained that it is important to have Twitter content where Twitter users go.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            21 March, 2012
+          </div>
+          <div class="details">
+            Twitter celebrates its sixth birthday while also announcing that it has 140 million users and sees 340 million tweets per day. The number of users is up 40% from their September 2011 number, which was said to have been at 100 million at the time.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            01 April, 2012
+          </div>
+          <div class="details">
+            Twitter announces that it is opening an office in Detroit, with the aim of working with automotive brands and advertising agencies. Twitter also expanded its office in Dublin.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            05 June, 2012
+          </div>
+          <div class="details">
+            A modified logo is unveiled through the company blog, removing the text to showcase the slightly redesigned bird as the sole symbol of Twitter.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            05 October, 2012
+          </div>
+          <div class="details">
+            Twitter acquired a video clip company called Vine that launches (later) in January 2013. Twitter released Vine as a standalone app that allows users to create and share six-second looping video clips on January 24, 2013. Vine videos shared on Twitter are visible directly in users' Twitter feeds. Due to an influx of inappropriate content, it is now rated 17+ in Apple's app store.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            18 December, 2012
+          </div>
+          <div class="details">
+            Twitter announces it had surpassed 200 million monthly active users. Twitter hit 100 million monthly active users in September 2011.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            18 April, 2013
+          </div>
+          <div class="details">
+            Twitter launches a music app called Twitter Music for the iPhone.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            28 August, 2013
+          </div>
+          <div class="details">
+            Twitter acquires Trendrr, a real-time social data company.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            09 September, 2013
+          </div>
+          <div class="details">
+            Twitter acquires MoPub.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            12 September, 2013
+          </div>
+          <div class="details">
+            Twitter announces that it has filed papers with the U.S. Securities and Exchange Commission ahead of a planned stock market listing.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            04 October, 2013
+          </div>
+          <div class="details">
+            Twitter releases an 800-page prospectus in preparation for the IPO.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            06 October, 2013
+          </div>
+          <div class="details">
+            On November 6, 70 million shares are priced at US$26 and issued by lead underwriter Goldman Sachs. On November 7, trading of the shares begins on the New York Stock Exchange. The share closes at US$44.90, giving the company a valuation of around US$31 billion.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            19 June, 2014
+          </div>
+          <div class="details">
+            Twitter acquires SnappyTV.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            30 June, 2014
+          </div>
+          <div class="details">
+            Twitter confirms acquisition of mobile ad retargeting startup TapCommerce.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            31 July, 2014
+          </div>
+          <div class="details">
+            Twitter acquires password security startup Mitro and open sources the product.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            12 November, 2014
+          </div>
+          <div class="details">
+            Twitter announces "Instant Timeline"—a way to show users who have just created accounts interesting content even before they have followed anybody. Around the same time, Twitter announces that it will make the timeline more customized, highlighting to a user the most important tweets while they were away, rather than simply showing a reverse chronological feed. Other features announced include better video capability and the ability to share public tweets privately with one's followers to discuss them.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            02 December, 2014
+          </div>
+          <div class="details">
+            Twitter announces a new suite of anti-harassment tools and promises faster response times for abuse complaints.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            20 January, 2015
+          </div>
+          <div class="details">
+            Twitter acquires India-based mobile marketing startup ZipDial.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            21 January, 2015
+          </div>
+          <div class="details">
+            Twitter officially launches its "While You Were Away" feature.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            17 February, 2015
+          </div>
+          <div class="details">
+            Twitter lets people share team accounts without sharing passwords, with its new TweetDeck Team feature.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            05 March, 2015
+          </div>
+          <div class="details">
+            Twitter announces that it will tap data from its Marketing Platform Partners and allow publishers to target ads to specific audiences based on that data.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            09 March, 2015
+          </div>
+          <div class="details">
+            Twitter acquires Periscope, a live video streaming startup.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            23 March, 2015
+          </div>
+          <div class="details">
+            Twitter starts rolling out a "Quality Filter" to verified iOS users so that people can more easily keep bullying and unpleasant tweets out of their stream. A number of news articles commented that it worked quite well.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            31 March, 2015
+          </div>
+          <div class="details">
+            Twitter publicly launches Curator, a real-time search and filtering feature for media outlets, that some commentators call a Storify competitor.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            02 April, 2015
+          </div>
+          <div class="details">
+            Twitter acquires TenXer, a platform for developers and engineers to collaborate more effectively.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            28 April, 2015
+          </div>
+          <div class="details">
+            Twitter acquires TellApart, an ad technology company with rich user profiles, and partners with DoubleClick, Google's ad exchange.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            28 April, 2015
+          </div>
+          <div class="details">
+            Twitter shares fall in price by about 18% based on their disappointing quarterly revenue ($436 million), earning, and user growth numbers. The drop begins even before Twitter's official announcement because the results are scraped by financial intelligence firm Selerity from Twitter's website.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            18 May, 2015
+          </div>
+          <div class="details">
+            Twitter completes the rollout of its new search interface for logged-in web users.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            19 May, 2015
+          </div>
+          <div class="details">
+            Google adds tweets to its mobile search results.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            11 June, 2015
+          </div>
+          <div class="details">
+            Dick Costolo steps down as CEO, co-founder Jack Dorsey returns as interim CEO. Costolo will remain on the Board. Shares are up 3% on the announcement.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #55ACEE">
+            17 June, 2015
+          </div>
+          <div class="details">
+            Twitter acquires Cambridge-based machine learning startup Whetlab.
+          </div>
+        </section>
+  	</article>
+  </div>
+
+  <div class="timeline">
+    <div class="container">
+      <div class="edge"></div>
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+$(document).ready(function(){
+  timeline = new Timeline([{"date":"2004-01-01","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"Odeo, Twitter's parent company, is started."},{"date":"2005-01-01","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"Odeo's podcasting service is released, with very little public response."},{"date":"2006-02-26","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"Jack Dorsey, Noah Glass, Evan Williams and Biz Stone discuss the idea of using text messaging to share statuses, and decide to work on the project. The original idea is attributed to Jack Dorsey, and called the status concept."},{"date":"2006-03-01","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"The name Twitter (spelt twttr at the time) is chosen for the service. The idea for the name is attributed to Noah Glass."},{"date":"2006-03-21","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"Twitter is officially set up and Jack Dorsey sends the first tweet."},{"date":"2006-07-15","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"Noah Glass tells Om Malik of GigaOm about Twitter (then called twttr), and Malik writes an article about it on GigaOm. This appears to be the first ever news coverage of Twitter, and a number of people, including Malik himself, have commented on the accuracy (or lack thereof) of its predictions from the perspective of hindsight."},{"date":"2006-08-03","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"Twitter users tweet about a mild (4.4 on the Richter scale) earthquake in California. The event helps Twitter's team see the potential of Twitter as a way for many people to contribute to the reporting of a live event, each from his or her own vantage point."},{"date":"2006-09-01","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"Twitter attempts to have a grand launch at the Love Parade, but gets very little traction there, with only 100 new signups."},{"date":"2006-10-01","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"Biz Stone, Evan Williams, Dorsey, and other members of Odeo, form Obvious Corporation and acquired Odeo, together with its assets—including Odeo.com and Twitter.com—from the investors and shareholders."},{"date":"2007-03-12","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"Twitter is highly successful at South by Southwest Interactive (SXSW) and gets a major bump in usage from the event. Commentator Steven Levy calls this a tipping point for Twitter."},{"date":"2007-04-01","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"Twitter spins off into its own company."},{"date":"2007-06-26","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"Twitter announces that it has closed a funding round led by Fred Wilson of Union Square Ventures. The five-million-dollar round values Twitter at $20 million."},{"date":"2007-08-23","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"The hashtag (#), first proposed by user Chris Messina, debuts on Twitter."},{"date":"2008-06-24","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"Twitter announces the closure of its second funding round, welcoming new investors Bijan Sabet of Spark Capital and Jeff Bezos of Bezos Expeditions. Existing partners Union Square Ventures and Digital Garage also invest more."},{"date":"2008-10-16","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"It is announced that Jack Dorsey has stepped down from the CEO role at Twitter, and Evan Williams takes over."},{"date":"2009-02-13","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"Twitter announces the closure of yet another funding round, with new investors Peter Fenton of Benchmark Capital and Todd Chaffee of Institutional Venture Partners."},{"date":"2009-04-17","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"Evan Williams appears alongside Ashton Kutcher on Oprah Winfrey's show to explain Twitter to Oprah's audience."},{"date":"2009-04-20","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"Executives from Twitter and WordPress head over to Iraq to expose the people there to social media and the Internet."},{"date":"2009-04-30","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"Twitter executives Biz Stone and Evan Williams are included in the TIME 100."},{"date":"2009-06-15","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"Twitter reschedules planned downtime for maintenance so as not to conflict with a large planned protest in Iran. Because a US State Department official had emailed Twitter about the planned protest, newspapers speculate that Twitter rescheduled its downtime because of pressure from the US government."},{"date":"2010-01-22","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"The first unassisted off-Earth Twitter message is posted from the International Space Station by NASA astronaut T. J. Creamer."},{"date":"2010-04-13","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"Twitter announces that it will start allowing for advertising in the form of promoted tweets -- \"ordinary tweets that businesses and individuals want to highlight to a wider group of users.\""},{"date":"2010-10-04","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"Evan Williams steps down as CEO, and Dick Costolo, the erstwhile COO, takes over as CEO."},{"date":"2011-04-05","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"Twitter tests a new homepage and phased out the \"Old Twitter.\"  However, a glitch came about after the page was launched, so the previous \"retro\" homepage was still in use until the issues were resolved; the new homepage was reintroduced on April 20."},{"date":"2011-07-05","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"Twitter acquires BackType, a real-time social analytics platform."},{"date":"2011-09-08","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"Twitter closes its Series G round, raising $800 million at a $8 billion valuation. Of the $800 million, $400 million buys off shares from existing investors and the remaining $400 million goes to the company."},{"date":"2011-12-08","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"Twitter overhauls its website once more to feature the \"Fly\" design, which the service says is easier for new users to follow and promotes advertising. In addition to the Home tab, the Connect and Discover tabs are introduced along with a redesigned profile and timeline of Tweets. The site's layout is compared to that of Facebook."},{"date":"2012-02-21","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"Twitter announces a parternship with Russian search engine Yandex. Yandex, a Russian search engine, finds value within the partnership due to Twitter’s real time news feeds. Twitter’s director of business development explained that it is important to have Twitter content where Twitter users go."},{"date":"2012-03-21","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"Twitter celebrates its sixth birthday while also announcing that it has 140 million users and sees 340 million tweets per day. The number of users is up 40% from their September 2011 number, which was said to have been at 100 million at the time."},{"date":"2012-04-01","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"Twitter announces that it is opening an office in Detroit, with the aim of working with automotive brands and advertising agencies. Twitter also expanded its office in Dublin."},{"date":"2012-06-05","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"A modified logo is unveiled through the company blog, removing the text to showcase the slightly redesigned bird as the sole symbol of Twitter."},{"date":"2012-10-05","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"Twitter acquired a video clip company called Vine that launches (later) in January 2013. Twitter released Vine as a standalone app that allows users to create and share six-second looping video clips on January 24, 2013. Vine videos shared on Twitter are visible directly in users' Twitter feeds. Due to an influx of inappropriate content, it is now rated 17+ in Apple's app store."},{"date":"2012-12-18","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"Twitter announces it had surpassed 200 million monthly active users. Twitter hit 100 million monthly active users in September 2011."},{"date":"2013-04-18","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"Twitter launches a music app called Twitter Music for the iPhone."},{"date":"2013-08-28","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"Twitter acquires Trendrr, a real-time social data company."},{"date":"2013-09-09","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"Twitter acquires MoPub."},{"date":"2013-09-12","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"Twitter announces that it has filed papers with the U.S. Securities and Exchange Commission ahead of a planned stock market listing."},{"date":"2013-10-04","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"Twitter releases an 800-page prospectus in preparation for the IPO."},{"date":"2013-10-06","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"On November 6, 70 million shares are priced at US$26 and issued by lead underwriter Goldman Sachs. On November 7, trading of the shares begins on the New York Stock Exchange. The share closes at US$44.90, giving the company a valuation of around US$31 billion."},{"date":"2014-06-19","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"Twitter acquires SnappyTV."},{"date":"2014-06-30","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"Twitter confirms acquisition of mobile ad retargeting startup TapCommerce."},{"date":"2014-07-31","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"Twitter acquires password security startup Mitro and open sources the product."},{"date":"2014-11-12","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"Twitter announces \"Instant Timeline\"—a way to show users who have just created accounts interesting content even before they have followed anybody. Around the same time, Twitter announces that it will make the timeline more customized, highlighting to a user the most important tweets while they were away, rather than simply showing a reverse chronological feed. Other features announced include better video capability and the ability to share public tweets privately with one's followers to discuss them."},{"date":"2014-12-02","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"Twitter announces a new suite of anti-harassment tools and promises faster response times for abuse complaints."},{"date":"2015-01-20","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"Twitter acquires India-based mobile marketing startup ZipDial."},{"date":"2015-01-21","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"Twitter officially launches its \"While You Were Away\" feature."},{"date":"2015-02-17","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"Twitter lets people share team accounts without sharing passwords, with its new TweetDeck Team feature."},{"date":"2015-03-05","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"Twitter announces that it will tap data from its Marketing Platform Partners and allow publishers to target ads to specific audiences based on that data."},{"date":"2015-03-09","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"Twitter acquires Periscope, a live video streaming startup."},{"date":"2015-03-23","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"Twitter starts rolling out a \"Quality Filter\" to verified iOS users so that people can more easily keep bullying and unpleasant tweets out of their stream. A number of news articles commented that it worked quite well."},{"date":"2015-03-31","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"Twitter publicly launches Curator, a real-time search and filtering feature for media outlets, that some commentators call a Storify competitor."},{"date":"2015-04-02","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"Twitter acquires TenXer, a platform for developers and engineers to collaborate more effectively."},{"date":"2015-04-28","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"Twitter acquires TellApart, an ad technology company with rich user profiles, and partners with DoubleClick, Google's ad exchange."},{"date":"2015-04-28","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"Twitter shares fall in price by about 18% based on their disappointing quarterly revenue ($436 million), earning, and user growth numbers. The drop begins even before Twitter's official announcement because the results are scraped by financial intelligence firm Selerity from Twitter's website."},{"date":"2015-05-18","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"Twitter completes the rollout of its new search interface for logged-in web users."},{"date":"2015-05-19","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"Google adds tweets to its mobile search results."},{"date":"2015-06-11","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"Dick Costolo steps down as CEO, co-founder Jack Dorsey returns as interim CEO. Costolo will remain on the Board. Shares are up 3% on the announcement."},{"date":"2015-06-17","image":"http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg","text":"Twitter acquires Cambridge-based machine learning startup Whetlab."}], '#55ACEE')
+  shares = new Share('/timelines/twitter')
+});
+</script>
+
+  </body>
+
+</html>

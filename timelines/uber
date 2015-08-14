@@ -1,0 +1,261 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+
+    <!-- Always force latest IE rendering engine or request Chrome Frame -->
+    <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+
+    <!-- Use title if it's in the page YAML frontmatter -->
+    <title>Explore Startup Timelines</title>
+
+    <link href="/stylesheets/application-5a949668.css" rel="stylesheet" />
+    <script src="/javascripts/application-670ff10f.js"></script>
+  </head>
+
+  <body class="timelines timelines_uber">
+    <div class='background blured' style=""></div>
+<div class="content">
+  <div class="header" style="background: #252534">
+    <div class="container row">
+      <a class="icon-options" href="/timelines"></a>
+      <div class="name">Uber</div>
+      <div class="likes">
+        <a href="javascript:void(0)" class="facebook-link icon-facebook"></a>
+        <a href="javascript:void(0)" class="twitter-link icon-twitter"></a>
+        <a href="javascript:void(0)" class="google-link icon-google"></a>
+        <a href="javascript:void(0)" class="pinterest-link icon-pinterest"></a>
+      </div>
+    </div>
+  </div>
+
+  <div id="main">
+    <article id="timeline">
+        <section>
+          <div class="date" style="color: #252534">
+            01 March, 2009
+          </div>
+          <div class="details">
+            Uber founded as UberCab. 
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #252534">
+            01 July, 2010
+          </div>
+          <div class="details">
+            Uber goes live for the first time in San Francisco.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #252534">
+            01 December, 2010
+          </div>
+          <div class="details">
+            Ryan Graves steps down as CEO in favor of Travis Kalanick.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #252534">
+            01 February, 2011
+          </div>
+          <div class="details">
+            Uber raises $11 million in Series A round led by Benchmark Capital.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #252534">
+            01 May, 2011
+          </div>
+          <div class="details">
+            Uber goes live in New York City.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #252534">
+            01 December, 2011
+          </div>
+          <div class="details">
+            Uber raises $37 million in Series B round, including investors such as Goldman Sachs, Menlo Ventures, and Bezos Expeditions.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #252534">
+            01 December, 2011
+          </div>
+          <div class="details">
+            Uber expands beyond the United States, starting by expanding into Paris, France. 
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #252534">
+            01 July, 2012
+          </div>
+          <div class="details">
+            Uber announces UberX, a service that uses lower-cost hybrid vehicles.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #252534">
+            01 July, 2012
+          </div>
+          <div class="details">
+            Uber launches in London, United Kingdom.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #252534">
+            01 August, 2012
+          </div>
+          <div class="details">
+            Lyft, a competitor to Uber, launches in San Francisco.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #252534">
+            01 August, 2013
+          </div>
+          <div class="details">
+            Uber raises $258 million in Series C round, with investors including Google Ventures.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #252534">
+            01 August, 2013
+          </div>
+          <div class="details">
+            Uber expands to India, launching its first product in Bangalore. 
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #252534">
+            01 August, 2013
+          </div>
+          <div class="details">
+            Uber expands to Africa, launches its first product in Johannesburg, South Africa. 
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #252534">
+            01 April, 2014
+          </div>
+          <div class="details">
+            Uber launches Uber Rush in New York City, a courier service using bicycle messengers to deliver packages. This marks the beginning of Uber's transition into a logistics company. 
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #252534">
+            01 June, 2014
+          </div>
+          <div class="details">
+            Uber raises $1.2 billion in a Series D round, with a valuation of over $18 billion.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #252534">
+            01 July, 2014
+          </div>
+          <div class="details">
+            Uber officially launches in China, starting with Beijing. 
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #252534">
+            01 July, 2014
+          </div>
+          <div class="details">
+            Uber officially launches in Lagos, Nigeria, expanding its presence to Western Africa. 
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #252534">
+            01 August, 2014
+          </div>
+          <div class="details">
+            Uber announces UberPool, which lets riders share rides based on proximity.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #252534">
+            01 August, 2014
+          </div>
+          <div class="details">
+            Uber announces a "test" for a Corner Store, which allows customers to order basic items.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #252534">
+            01 December, 2014
+          </div>
+          <div class="details">
+            Uber raises $600 million in Series E round from Baidu.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #252534">
+            01 January, 2015
+          </div>
+          <div class="details">
+            Uber launches its first product in East Africa, in Nairobi, Kenya. 
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #252534">
+            01 January, 2015
+          </div>
+          <div class="details">
+            Uber launches Uber Cargo, which allows people to transport packages via Uber drivers. This starts in Hong Kong, and marks the transition of Uber into a logistics company.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #252534">
+            01 February, 2015
+          </div>
+          <div class="details">
+            Uber opens robotics research facility In Pittsburgh to build self-driving cars.  In May, Uber poaches 50 employees from Carnegie Mellon's National Robotics Engineering Center. 
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #252534">
+            01 June, 2015
+          </div>
+          <div class="details">
+            Uber makes its first public acquisition, a map startup called deCarta. 
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #252534">
+            01 June, 2015
+          </div>
+          <div class="details">
+            California Labor Commission deems Uber drivers as employees. 
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #252534">
+            01 July, 2015
+          </div>
+          <div class="details">
+            Administrative judge recommends that Uber be fined $7.3 million and suspended from operating in California. 
+          </div>
+        </section>
+  	</article>
+  </div>
+
+  <div class="timeline">
+    <div class="container">
+      <div class="edge"></div>
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+$(document).ready(function(){
+  timeline = new Timeline([{"date":"2009-03-01","image":"","text":"Uber founded as UberCab. "},{"date":"2010-07-01","image":"","text":"Uber goes live for the first time in San Francisco."},{"date":"2010-12-01","image":"","text":"Ryan Graves steps down as CEO in favor of Travis Kalanick."},{"date":"2011-02-01","image":"","text":"Uber raises $11 million in Series A round led by Benchmark Capital."},{"date":"2011-05-01","image":"","text":"Uber goes live in New York City."},{"date":"2011-12-01","image":"","text":"Uber raises $37 million in Series B round, including investors such as Goldman Sachs, Menlo Ventures, and Bezos Expeditions."},{"date":"2011-12-01","image":"","text":"Uber expands beyond the United States, starting by expanding into Paris, France. "},{"date":"2012-07-01","image":"","text":"Uber announces UberX, a service that uses lower-cost hybrid vehicles."},{"date":"2012-07-01","image":"","text":"Uber launches in London, United Kingdom."},{"date":"2012-08-01","image":"","text":"Lyft, a competitor to Uber, launches in San Francisco."},{"date":"2013-08-01","image":"","text":"Uber raises $258 million in Series C round, with investors including Google Ventures."},{"date":"2013-08-01","image":"","text":"Uber expands to India, launching its first product in Bangalore. "},{"date":"2013-08-01","image":"","text":"Uber expands to Africa, launches its first product in Johannesburg, South Africa. "},{"date":"2014-04-01","image":"","text":"Uber launches Uber Rush in New York City, a courier service using bicycle messengers to deliver packages. This marks the beginning of Uber's transition into a logistics company. "},{"date":"2014-06-01","image":"","text":"Uber raises $1.2 billion in a Series D round, with a valuation of over $18 billion."},{"date":"2014-07-01","image":"","text":"Uber officially launches in China, starting with Beijing. "},{"date":"2014-07-01","image":"","text":"Uber officially launches in Lagos, Nigeria, expanding its presence to Western Africa. "},{"date":"2014-08-01","image":"","text":"Uber announces UberPool, which lets riders share rides based on proximity."},{"date":"2014-08-01","image":"","text":"Uber announces a \"test\" for a Corner Store, which allows customers to order basic items."},{"date":"2014-12-01","image":"","text":"Uber raises $600 million in Series E round from Baidu."},{"date":"2015-01-01","image":"","text":"Uber launches its first product in East Africa, in Nairobi, Kenya. "},{"date":"2015-01-01","image":"","text":"Uber launches Uber Cargo, which allows people to transport packages via Uber drivers. This starts in Hong Kong, and marks the transition of Uber into a logistics company."},{"date":"2015-02-01","image":"","text":"Uber opens robotics research facility In Pittsburgh to build self-driving cars.  In May, Uber poaches 50 employees from Carnegie Mellon's National Robotics Engineering Center. "},{"date":"2015-06-01","image":"","text":"Uber makes its first public acquisition, a map startup called deCarta. "},{"date":"2015-06-01","image":"","text":"California Labor Commission deems Uber drivers as employees. "},{"date":"2015-07-01","image":"","text":"Administrative judge recommends that Uber be fined $7.3 million and suspended from operating in California. "}], '#252534')
+  shares = new Share('/timelines/uber')
+});
+</script>
+
+  </body>
+
+</html>

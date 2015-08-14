@@ -1,0 +1,221 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+
+    <!-- Always force latest IE rendering engine or request Chrome Frame -->
+    <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+
+    <!-- Use title if it's in the page YAML frontmatter -->
+    <title>Explore Startup Timelines</title>
+
+    <link href="/stylesheets/application-5a949668.css" rel="stylesheet" />
+    <script src="/javascripts/application-670ff10f.js"></script>
+  </head>
+
+  <body class="timelines timelines_foursquare">
+    <div class='background blured' style=""></div>
+<div class="content">
+  <div class="header" style="background: #2d5be3">
+    <div class="container row">
+      <a class="icon-options" href="/timelines"></a>
+      <div class="name">Foursquare</div>
+      <div class="likes">
+        <a href="javascript:void(0)" class="facebook-link icon-facebook"></a>
+        <a href="javascript:void(0)" class="twitter-link icon-twitter"></a>
+        <a href="javascript:void(0)" class="google-link icon-google"></a>
+        <a href="javascript:void(0)" class="pinterest-link icon-pinterest"></a>
+      </div>
+    </div>
+  </div>
+
+  <div id="main">
+    <article id="timeline">
+        <section>
+          <div class="date" style="color: #2d5be3">
+            23 March, 2009
+          </div>
+          <div class="details">
+            The service was created in late 2008 and launched in 2009 on March 23 by Dennis Crowley and Naveen Selvadurai.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #2d5be3">
+            01 January, 2010
+          </div>
+          <div class="details">
+            Foursquare changes their location model to allow check-ins from any location worldwide.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #2d5be3">
+            01 September, 2010
+          </div>
+          <div class="details">
+            Foursquare announces version 2.0 of its check-in app which would help to direct users to new locations and activities, rather than just sharing their location with friends.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #2d5be3">
+            21 February, 2011
+          </div>
+          <div class="details">
+            Foursquare reaches 7 million users IDs.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #2d5be3">
+            08 March, 2011
+          </div>
+          <div class="details">
+            Foursquare 3.0 is released for Android and iPhone users.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #2d5be3">
+            04 July, 2011
+          </div>
+          <div class="details">
+            An official Foursquare application for Windows Phone 7 also has all features.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #2d5be3">
+            08 August, 2011
+          </div>
+          <div class="details">
+            President Barack Obama joins Foursquare, with the intention that the staff at the White House would use the service to post tips from places the president has visited.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #2d5be3">
+            12 October, 2011
+          </div>
+          <div class="details">
+            Foursquare 4.0 was released for the iPhone, with other platforms following after. The update added a new feature called "Radar", powered by Foursquare's "Explore" algorithm.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #2d5be3">
+            01 March, 2012
+          </div>
+          <div class="details">
+            Foursquare announces they would no longer be using Google Maps for their platform, instead moving to OpenStreetMap, via MapBox rendering and style. Foursquare stated they were happier to promote crowd-sourced, open data.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #2d5be3">
+            07 June, 2012
+          </div>
+          <div class="details">
+            Foursquare launches a major redesign, which they described as a "whole new app". The app's "explore" function will now allow users to browse locations by category or conduct a specific search like "free wi-fi" or "dumplings"
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #2d5be3">
+            05 November, 2012
+          </div>
+          <div class="details">
+            Foursquare announces an update to their iOS mobile app that will showcase a ratings system to locations on a one to ten scale. The ratings will be based on tips, dislikes and ratings from previous check-ins.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #2d5be3">
+            07 November, 2012
+          </div>
+          <div class="details">
+            Foursquare announces another update to their iOS mobile app, allowing users to check in to a location with Facebook friends who do not use the service themselves.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #2d5be3">
+            21 November, 2012
+          </div>
+          <div class="details">
+            Foursquare announces a Recently Opened feature to its iOS app, allowing users to find recently opened locations in their areas.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #2d5be3">
+            10 April, 2013
+          </div>
+          <div class="details">
+            Release of Foursquare 6.0
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #2d5be3">
+            05 December, 2013
+          </div>
+          <div class="details">
+            Release of Foursquare 7.0
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #2d5be3">
+            04 February, 2014
+          </div>
+          <div class="details">
+            Microsoft announced a partnership with Foursquare, giving access to their users’ physical movements and preferences. This data can be used to personalize search results on the search engine Bing.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #2d5be3">
+            05 May, 2014
+          </div>
+          <div class="details">
+            Foursquare 8.0 and Swarm 1.0 - Splitting the Service. Users can not chek-in within Foursquare anymore, this functionality is moved to Swarm.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #2d5be3">
+            14 February, 2015
+          </div>
+          <div class="details">
+            Foursquare’s Latest Update Makes It Officially A City Guide. 
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #2d5be3">
+            16 March, 2015
+          </div>
+          <div class="details">
+            Foursquare has launched Pinpoint, a new advertising platform that takes advantage of its 7 billion check-ins and 55 million worldwide users to pull together its data.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #2d5be3">
+            02 June, 2015
+          </div>
+          <div class="details">
+            Starting today, users can book an Uber straight from the Foursquare app.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #2d5be3">
+            23 June, 2015
+          </div>
+          <div class="details">
+            Mayorships feature is added to swarm, as it formely was in Foursquare.
+          </div>
+        </section>
+  	</article>
+  </div>
+
+  <div class="timeline">
+    <div class="container">
+      <div class="edge"></div>
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+$(document).ready(function(){
+  timeline = new Timeline([{"date":"2009-03-23","image":"","text":"The service was created in late 2008 and launched in 2009 on March 23 by Dennis Crowley and Naveen Selvadurai."},{"date":"2010-01-01","image":"","text":"Foursquare changes their location model to allow check-ins from any location worldwide."},{"date":"2010-09-01","image":"","text":"Foursquare announces version 2.0 of its check-in app which would help to direct users to new locations and activities, rather than just sharing their location with friends."},{"date":"2011-02-21","image":"","text":"Foursquare reaches 7 million users IDs."},{"date":"2011-03-08","image":"","text":"Foursquare 3.0 is released for Android and iPhone users."},{"date":"2011-07-04","image":"","text":"An official Foursquare application for Windows Phone 7 also has all features."},{"date":"2011-08-08","image":"","text":"President Barack Obama joins Foursquare, with the intention that the staff at the White House would use the service to post tips from places the president has visited."},{"date":"2011-10-12","image":"","text":"Foursquare 4.0 was released for the iPhone, with other platforms following after. The update added a new feature called \"Radar\", powered by Foursquare's \"Explore\" algorithm."},{"date":"2012-03-01","image":"","text":"Foursquare announces they would no longer be using Google Maps for their platform, instead moving to OpenStreetMap, via MapBox rendering and style. Foursquare stated they were happier to promote crowd-sourced, open data."},{"date":"2012-06-07","image":"","text":"Foursquare launches a major redesign, which they described as a \"whole new app\". The app's \"explore\" function will now allow users to browse locations by category or conduct a specific search like \"free wi-fi\" or \"dumplings\""},{"date":"2012-11-05","image":"","text":"Foursquare announces an update to their iOS mobile app that will showcase a ratings system to locations on a one to ten scale. The ratings will be based on tips, dislikes and ratings from previous check-ins."},{"date":"2012-11-07","image":"","text":"Foursquare announces another update to their iOS mobile app, allowing users to check in to a location with Facebook friends who do not use the service themselves."},{"date":"2012-11-21","image":"","text":"Foursquare announces a Recently Opened feature to its iOS app, allowing users to find recently opened locations in their areas."},{"date":"2013-04-10","image":"","text":"Release of Foursquare 6.0"},{"date":"2013-12-05","image":"","text":"Release of Foursquare 7.0"},{"date":"2014-02-04","image":"","text":"Microsoft announced a partnership with Foursquare, giving access to their users’ physical movements and preferences. This data can be used to personalize search results on the search engine Bing."},{"date":"2014-05-05","image":"","text":"Foursquare 8.0 and Swarm 1.0 - Splitting the Service. Users can not chek-in within Foursquare anymore, this functionality is moved to Swarm."},{"date":"2015-02-14","image":"","text":"Foursquare’s Latest Update Makes It Officially A City Guide. "},{"date":"2015-03-16","image":"","text":"Foursquare has launched Pinpoint, a new advertising platform that takes advantage of its 7 billion check-ins and 55 million worldwide users to pull together its data."},{"date":"2015-06-02","image":"","text":"Starting today, users can book an Uber straight from the Foursquare app."},{"date":"2015-06-23","image":"","text":"Mayorships feature is added to swarm, as it formely was in Foursquare."}], '#2d5be3')
+  shares = new Share('/timelines/foursquare')
+});
+</script>
+
+  </body>
+
+</html>

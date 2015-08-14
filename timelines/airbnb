@@ -1,0 +1,381 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+
+    <!-- Always force latest IE rendering engine or request Chrome Frame -->
+    <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+
+    <!-- Use title if it's in the page YAML frontmatter -->
+    <title>Explore Startup Timelines</title>
+
+    <link href="/stylesheets/application-5a949668.css" rel="stylesheet" />
+    <script src="/javascripts/application-670ff10f.js"></script>
+  </head>
+
+  <body class="timelines timelines_airbnb">
+    <div class='background blured' style=""></div>
+<div class="content">
+  <div class="header" style="background: #FF5A60">
+    <div class="container row">
+      <a class="icon-options" href="/timelines"></a>
+      <div class="name">Airbnb</div>
+      <div class="likes">
+        <a href="javascript:void(0)" class="facebook-link icon-facebook"></a>
+        <a href="javascript:void(0)" class="twitter-link icon-twitter"></a>
+        <a href="javascript:void(0)" class="google-link icon-google"></a>
+        <a href="javascript:void(0)" class="pinterest-link icon-pinterest"></a>
+      </div>
+    </div>
+  </div>
+
+  <div id="main">
+    <article id="timeline">
+        <section>
+          <div class="date" style="color: #FF5A60">
+            01 October, 2007
+          </div>
+          <div class="details">
+            Brian Chesky and Joe Gebbia create the initial concept for AirBed & Breakfast during the Industrial Design Conference held by Industrial Designers Society of America. The original site offers short-term living quarters, breakfast and a unique business networking opportunity for attendees who were unable to book a hotel in the saturated market. Chesky and Gebbia themselves use Airbnb to help meet the rent for their loft in San Francisco.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #FF5A60">
+            01 February, 2008
+          </div>
+          <div class="details">
+            Harvard University graduate and technical architect Nathan Blecharczyk joins as the third co-founder of AirBed & Breakfast.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #FF5A60">
+            11 August, 2008
+          </div>
+          <div class="details">
+            The Airbedandbreakfast.com website launches.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #FF5A60">
+            01 August, 2008
+          </div>
+          <div class="details">
+            In order to raise enough seed money to sustain their business, Airbnb sells cereal boxes for Barack Obama and John McCain. They sell 800 boxes at $40 each, netting $30,000 in funding for the company. Their most successful single sale event is the Democratic National Convention in November 2008.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #FF5A60">
+            01 January, 2009
+          </div>
+          <div class="details">
+            Airbnb is accepted into Y Combinator's Winter 2009 batch and receives $20,000 in funding. Y Combinator co-founder Paul Graham says that even though he is not a fan of Airbnb's idea, he is impressed by their creative methods for bootstrapping their funding situation by selling cereal.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #FF5A60">
+            01 March, 2009
+          </div>
+          <div class="details">
+            The website name is shortened from Airbedandbreakfast.com to Airbnb.com, and the site's content has expanded from air beds and shared spaces to a variety of properties including entire homes and apartments, private rooms, castles, boats, manors, tree houses, tipis, igloos, private islands and other properties.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #FF5A60">
+            21 June, 2010
+          </div>
+          <div class="details">
+            In response to increasing overcrowding at his residence, that is doubling up as an Airbnb office, co-founder and CEO Brian Chesky decides to move out of his apartment and live using Airbnb for a few months.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #FF5A60">
+            01 November, 2010
+          </div>
+          <div class="details">
+            Airbnb receives $7.2 million in Series A funding from Greylock Partners and Sequoia Capital, and announces that out of 700,000 nights booked, 80% had occurred in the past six months.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #FF5A60">
+            01 February, 2011
+          </div>
+          <div class="details">
+            Airbnb announces its 1 millionth booking since the website launch in August 2008.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #FF5A60">
+            16 March, 2011
+          </div>
+          <div class="details">
+            Venture capitalist Fred Wilson publishes a blog post saying that his firm's decision not to invest in Airbnb was a mistake. The next day, Y Combinator co-founder Paul Graham publishes (with permission) correspondence between himself and Fred Wilson about the possibility of Wilson investing in Airbnb.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #FF5A60">
+            25 May, 2011
+          </div>
+          <div class="details">
+            Actor and partner at A-Grade Investments, Ashton Kutcher, announces a significant investment in the company and his role as a strategic brand advisor for the company.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #FF5A60">
+            31 May, 2011
+          </div>
+          <div class="details">
+            Airbnb acquires Accoleo, a small German clone of its service, thereby expanding to Germany.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #FF5A60">
+            29 June, 2011
+          </div>
+          <div class="details">
+            A woman, writing online under the name EJ, wrote on her blog that she had rented her apartment out using Airbnb and found that it was completely trashed with many of her valuable personal items stolen. The post was picked up on Hacker News and by Michael Arrington for TechCrunch. Airbnb investor Paul Graham wrote a note defending Airbnb and critical of Arrington, which received media circulation and criticism. On August 1, Airbnb CEO Brian Chesky wrote a blog post apologizing for Airbnb's initially tepid response, and announcing a suite of features as part of the new Airbnb Safety Program: Airbnb Guarantee of $50,000 for hosts such as EJ who report property damage, a 24-hour customer hotline, a doubling of customer support, and more responsiveness to customer concerns.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #FF5A60">
+            24 July, 2011
+          </div>
+          <div class="details">
+            Airbnb raises $112 million in additional funding. The investment round is led by Andreessen Horowitz and other investors include DST Global Solutions and General Catalyst Partners.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #FF5A60">
+            01 October, 2011
+          </div>
+          <div class="details">
+            An email allegedly written by Chamath Palihapitiya to Airbnb CEO Brian Chesky, that was critical of the manner in which Airbnb was structuring its funding round, is leaked to Kara Swisher of AllThingsD. A follow-up reveals that new aspects of the deal are in development that might alleviate some of the concerns expressed by Palihapitiya, and he is reconsidering his decision not to invest in the funding round. He also expressed regret about the email being leaked, and he said that he was not responsible for the leak.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #FF5A60">
+            01 October, 2011
+          </div>
+          <div class="details">
+            Airbnb opens up its second international office in London in the United Kingdom.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #FF5A60">
+            01 January, 2012
+          </div>
+          <div class="details">
+            Airbnb announces its 5 millionth booking.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #FF5A60">
+            01 January, 2012
+          </div>
+          <div class="details">
+            Airbnb opens six international offices, in the cities Paris, Milan, Barcelona, Copenhagen, Moscow, and São Paulo. These are in addition to existing offices in San Francisco, London, Hamburg, and Berlin where Airbnb maintains its international presence for the EMEA markets within a German incubator space.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #FF5A60">
+            01 June, 2012
+          </div>
+          <div class="details">
+            Airbnb announces its 10 millionth booking.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #FF5A60">
+            25 July, 2012
+          </div>
+          <div class="details">
+            Shortly before the 2012 Summer Olympics Airbnb acquires London-based rival CrashPadder, subsequently adding six thousand international listings to its existing inventory.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #FF5A60">
+            02 November, 2012
+          </div>
+          <div class="details">
+            Airbnb co-founder and CEO Chesky announces his focus on Australia, the second largest Airbnb market behind the United States, as well as Thailand and Indonesia. To support this effort, Airbnb opens its 11th office in Sydney. The Australian consumer accounts for one-tenth of the Airbnb user base.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #FF5A60">
+            12 November, 2012
+          </div>
+          <div class="details">
+            Airbnb announces its strategy to move more aggressively into the Asian market with the launch of their newest headquarters in Singapore. The company's goal is to acquire an additional 2 million properties within the continent.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #FF5A60">
+            13 November, 2012
+          </div>
+          <div class="details">
+            Airbnb acquires NabeWise, a city guide that aggregates curated information for specified locations, in November 2012. This acquisition shifts the company focus toward offering hyperlocal recommendations to travelers.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #FF5A60">
+            13 December, 2012
+          </div>
+          <div class="details">
+            Airbnb announces the acquisition of Localmind. Localmind is a location-based question and answer platform that allows users to post questions about specific locations online. These questions are then answered in real-time by experts on the specified territories.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #FF5A60">
+            01 September, 2013
+          </div>
+          <div class="details">
+            Airbnb announces that European headquarters would be located in Dublin, Ireland.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #FF5A60">
+            31 January, 2014
+          </div>
+          <div class="details">
+            Airbnb announces plans to partner with home cleaning services whereby the home cleaning service is available at a discount to those who are about to host people via Airbnb, in order to incentivize hosts to prepare homes well for guests and also give guests a more standardized experience. Prospective partners include Homejoy and Handybook.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #FF5A60">
+            14 March, 2014
+          </div>
+          <div class="details">
+            Airbnb announces plans to open a new "operational headquarters" for North America in Portland, Oregon, in summer 2014, but indicated that its main North American headquarters would remain in San Francisco.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #FF5A60">
+            01 April, 2014
+          </div>
+          <div class="details">
+            It is announced in April that Airbnb is getting an investment by TPG Capital at a valuation of approximately $10 billion. The amount of funding is variously reported as $450 million and $500 million. On August 1, the round is revealed to be a $475 million round.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #FF5A60">
+            16 July, 2014
+          </div>
+          <div class="details">
+            Airbnb reveals design revisions to their site and mobile app, and introduced a new logo. Some consider the new icon to be visually similar to genitalia, but a consumer survey by Survata shows only a minority of respondents thought this was the case.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #FF5A60">
+            21 July, 2014
+          </div>
+          <div class="details">
+            Airbnb announces that its home cleaning trial will be in three cities, and lists Handybook as its sole partner. Homejoy, which had earlier been listed as a partner, is dropped.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #FF5A60">
+            28 July, 2014
+          </div>
+          <div class="details">
+            Airbnb announces a parternship with Concur, an expense reporting service for businesses, to make it easier for business travelers to report Airbnb stays as business expenses.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #FF5A60">
+            17 September, 2014
+          </div>
+          <div class="details">
+            Airbnb announces that it will start collecting and remitting a 14% tax for short-term rentals in San Francisco starting October 1.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #FF5A60">
+            23 October, 2014
+          </div>
+          <div class="details">
+            Airbnb announces arrangements for an employee stock sale. Valuations for the sale are rumored at around $13 billion.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #FF5A60">
+            27 October, 2014
+          </div>
+          <div class="details">
+            San Francisco Mayor Ed Lee signs a law making short-term rentals legal in San Francisco, thereby legalizing Airbnb. The law gets the moniker of "Airbnb law" because Airbnb is the most affected company.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #FF5A60">
+            03 November, 2014
+          </div>
+          <div class="details">
+            Vacation rental company HomeAway sues San Francisco for the Airbnb Law.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #FF5A60">
+            20 November, 2014
+          </div>
+          <div class="details">
+            Airbnb expands its liability insurance program for hosts and landlords. Whereas the initial liability insurance program was limited to property damage due to the guest, the new program $1 million worth of protection in the case a guest is accidentally injured anywhere in a host’s building or on their property during their stay. Rentals starting January 15, 2015 will automatically be covered under the new program.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #FF5A60">
+            30 January, 2015
+          </div>
+          <div class="details">
+            Airbnb announes that it will start collecting taxes in Amsterdam, San Jose, Chicago, and Washington, D.C.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #FF5A60">
+            25 February, 2015
+          </div>
+          <div class="details">
+            Airbnb announces a partnership with Deutsche Telekom, the parent company of T-Mobile, to have its app pre-installed on mobile phones in 13 countries. Those who register for the service via DT will get 30 euros of vouchers to stay in Airbnb rooms.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #FF5A60">
+            29 April, 2015
+          </div>
+          <div class="details">
+            Airbnb launches an official iPad app.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #FF5A60">
+            04 June, 2015
+          </div>
+          <div class="details">
+            Airbnb adds a pricing recommendation tool, called Price Tips, offering suggestions on appropriate prices for people renting our apartments.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #FF5A60">
+            28 June, 2015
+          </div>
+          <div class="details">
+            Airbnb closes $1.5 billion in additional funding, bringing its funding total to $2.3 billion. The valuation for the round is $25.5 billion. Both the amount raised and the valuation are higher than those originally projected when rumors of the round originally circulated in late February/early March (when the numbers were $1 billion and $20 billion respectively).
+          </div>
+        </section>
+  	</article>
+  </div>
+
+  <div class="timeline">
+    <div class="container">
+      <div class="edge"></div>
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+$(document).ready(function(){
+  timeline = new Timeline([{"date":"2007-10-01","image":"","text":"Brian Chesky and Joe Gebbia create the initial concept for AirBed & Breakfast during the Industrial Design Conference held by Industrial Designers Society of America. The original site offers short-term living quarters, breakfast and a unique business networking opportunity for attendees who were unable to book a hotel in the saturated market. Chesky and Gebbia themselves use Airbnb to help meet the rent for their loft in San Francisco."},{"date":"2008-02-01","image":"","text":"Harvard University graduate and technical architect Nathan Blecharczyk joins as the third co-founder of AirBed & Breakfast."},{"date":"2008-08-11","image":"","text":"The Airbedandbreakfast.com website launches."},{"date":"2008-08-01","image":"","text":"In order to raise enough seed money to sustain their business, Airbnb sells cereal boxes for Barack Obama and John McCain. They sell 800 boxes at $40 each, netting $30,000 in funding for the company. Their most successful single sale event is the Democratic National Convention in November 2008."},{"date":"2009-01-01","image":"","text":"Airbnb is accepted into Y Combinator's Winter 2009 batch and receives $20,000 in funding. Y Combinator co-founder Paul Graham says that even though he is not a fan of Airbnb's idea, he is impressed by their creative methods for bootstrapping their funding situation by selling cereal."},{"date":"2009-03-01","image":"","text":"The website name is shortened from Airbedandbreakfast.com to Airbnb.com, and the site's content has expanded from air beds and shared spaces to a variety of properties including entire homes and apartments, private rooms, castles, boats, manors, tree houses, tipis, igloos, private islands and other properties."},{"date":"2010-06-21","image":"","text":"In response to increasing overcrowding at his residence, that is doubling up as an Airbnb office, co-founder and CEO Brian Chesky decides to move out of his apartment and live using Airbnb for a few months."},{"date":"2010-11-01","image":"","text":"Airbnb receives $7.2 million in Series A funding from Greylock Partners and Sequoia Capital, and announces that out of 700,000 nights booked, 80% had occurred in the past six months."},{"date":"2011-02-01","image":"","text":"Airbnb announces its 1 millionth booking since the website launch in August 2008."},{"date":"2011-03-16","image":"","text":"Venture capitalist Fred Wilson publishes a blog post saying that his firm's decision not to invest in Airbnb was a mistake. The next day, Y Combinator co-founder Paul Graham publishes (with permission) correspondence between himself and Fred Wilson about the possibility of Wilson investing in Airbnb."},{"date":"2011-05-25","image":"","text":"Actor and partner at A-Grade Investments, Ashton Kutcher, announces a significant investment in the company and his role as a strategic brand advisor for the company."},{"date":"2011-05-31","image":"","text":"Airbnb acquires Accoleo, a small German clone of its service, thereby expanding to Germany."},{"date":"2011-06-29","image":"","text":"A woman, writing online under the name EJ, wrote on her blog that she had rented her apartment out using Airbnb and found that it was completely trashed with many of her valuable personal items stolen. The post was picked up on Hacker News and by Michael Arrington for TechCrunch. Airbnb investor Paul Graham wrote a note defending Airbnb and critical of Arrington, which received media circulation and criticism. On August 1, Airbnb CEO Brian Chesky wrote a blog post apologizing for Airbnb's initially tepid response, and announcing a suite of features as part of the new Airbnb Safety Program: Airbnb Guarantee of $50,000 for hosts such as EJ who report property damage, a 24-hour customer hotline, a doubling of customer support, and more responsiveness to customer concerns."},{"date":"2011-07-24","image":"","text":"Airbnb raises $112 million in additional funding. The investment round is led by Andreessen Horowitz and other investors include DST Global Solutions and General Catalyst Partners."},{"date":"2011-10-01","image":"","text":"An email allegedly written by Chamath Palihapitiya to Airbnb CEO Brian Chesky, that was critical of the manner in which Airbnb was structuring its funding round, is leaked to Kara Swisher of AllThingsD. A follow-up reveals that new aspects of the deal are in development that might alleviate some of the concerns expressed by Palihapitiya, and he is reconsidering his decision not to invest in the funding round. He also expressed regret about the email being leaked, and he said that he was not responsible for the leak."},{"date":"2011-10-01","image":"","text":"Airbnb opens up its second international office in London in the United Kingdom."},{"date":"2012-01-01","image":"","text":"Airbnb announces its 5 millionth booking."},{"date":"2012-01-01","image":"","text":"Airbnb opens six international offices, in the cities Paris, Milan, Barcelona, Copenhagen, Moscow, and São Paulo. These are in addition to existing offices in San Francisco, London, Hamburg, and Berlin where Airbnb maintains its international presence for the EMEA markets within a German incubator space."},{"date":"2012-06-01","image":"","text":"Airbnb announces its 10 millionth booking."},{"date":"2012-07-25","image":"","text":"Shortly before the 2012 Summer Olympics Airbnb acquires London-based rival CrashPadder, subsequently adding six thousand international listings to its existing inventory."},{"date":"2012-11-02","image":"","text":"Airbnb co-founder and CEO Chesky announces his focus on Australia, the second largest Airbnb market behind the United States, as well as Thailand and Indonesia. To support this effort, Airbnb opens its 11th office in Sydney. The Australian consumer accounts for one-tenth of the Airbnb user base."},{"date":"2012-11-12","image":"","text":"Airbnb announces its strategy to move more aggressively into the Asian market with the launch of their newest headquarters in Singapore. The company's goal is to acquire an additional 2 million properties within the continent."},{"date":"2012-11-13","image":"","text":"Airbnb acquires NabeWise, a city guide that aggregates curated information for specified locations, in November 2012. This acquisition shifts the company focus toward offering hyperlocal recommendations to travelers."},{"date":"2012-12-13","image":"","text":"Airbnb announces the acquisition of Localmind. Localmind is a location-based question and answer platform that allows users to post questions about specific locations online. These questions are then answered in real-time by experts on the specified territories."},{"date":"2013-09-01","image":"","text":"Airbnb announces that European headquarters would be located in Dublin, Ireland."},{"date":"2014-01-31","image":"","text":"Airbnb announces plans to partner with home cleaning services whereby the home cleaning service is available at a discount to those who are about to host people via Airbnb, in order to incentivize hosts to prepare homes well for guests and also give guests a more standardized experience. Prospective partners include Homejoy and Handybook."},{"date":"2014-03-14","image":"","text":"Airbnb announces plans to open a new \"operational headquarters\" for North America in Portland, Oregon, in summer 2014, but indicated that its main North American headquarters would remain in San Francisco."},{"date":"2014-04-01","image":"","text":"It is announced in April that Airbnb is getting an investment by TPG Capital at a valuation of approximately $10 billion. The amount of funding is variously reported as $450 million and $500 million. On August 1, the round is revealed to be a $475 million round."},{"date":"2014-07-16","image":"","text":"Airbnb reveals design revisions to their site and mobile app, and introduced a new logo. Some consider the new icon to be visually similar to genitalia, but a consumer survey by Survata shows only a minority of respondents thought this was the case."},{"date":"2014-07-21","image":"","text":"Airbnb announces that its home cleaning trial will be in three cities, and lists Handybook as its sole partner. Homejoy, which had earlier been listed as a partner, is dropped."},{"date":"2014-07-28","image":"","text":"Airbnb announces a parternship with Concur, an expense reporting service for businesses, to make it easier for business travelers to report Airbnb stays as business expenses."},{"date":"2014-09-17","image":"","text":"Airbnb announces that it will start collecting and remitting a 14% tax for short-term rentals in San Francisco starting October 1."},{"date":"2014-10-23","image":"","text":"Airbnb announces arrangements for an employee stock sale. Valuations for the sale are rumored at around $13 billion."},{"date":"2014-10-27","image":"","text":"San Francisco Mayor Ed Lee signs a law making short-term rentals legal in San Francisco, thereby legalizing Airbnb. The law gets the moniker of \"Airbnb law\" because Airbnb is the most affected company."},{"date":"2014-11-03","image":"","text":"Vacation rental company HomeAway sues San Francisco for the Airbnb Law."},{"date":"2014-11-20","image":"","text":"Airbnb expands its liability insurance program for hosts and landlords. Whereas the initial liability insurance program was limited to property damage due to the guest, the new program $1 million worth of protection in the case a guest is accidentally injured anywhere in a host’s building or on their property during their stay. Rentals starting January 15, 2015 will automatically be covered under the new program."},{"date":"2015-01-30","image":"","text":"Airbnb announes that it will start collecting taxes in Amsterdam, San Jose, Chicago, and Washington, D.C."},{"date":"2015-02-25","image":"","text":"Airbnb announces a partnership with Deutsche Telekom, the parent company of T-Mobile, to have its app pre-installed on mobile phones in 13 countries. Those who register for the service via DT will get 30 euros of vouchers to stay in Airbnb rooms."},{"date":"2015-04-29","image":"","text":"Airbnb launches an official iPad app."},{"date":"2015-06-04","image":"","text":"Airbnb adds a pricing recommendation tool, called Price Tips, offering suggestions on appropriate prices for people renting our apartments."},{"date":"2015-06-28","image":"","text":"Airbnb closes $1.5 billion in additional funding, bringing its funding total to $2.3 billion. The valuation for the round is $25.5 billion. Both the amount raised and the valuation are higher than those originally projected when rumors of the round originally circulated in late February/early March (when the numbers were $1 billion and $20 billion respectively)."}], '#FF5A60')
+  shares = new Share('/timelines/airbnb')
+});
+</script>
+
+  </body>
+
+</html>

@@ -1,0 +1,125 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+
+    <!-- Always force latest IE rendering engine or request Chrome Frame -->
+    <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+
+    <!-- Use title if it's in the page YAML frontmatter -->
+    <title>Explore Startup Timelines</title>
+
+    <link href="/stylesheets/application-5a949668.css" rel="stylesheet" />
+    <script src="/javascripts/application-670ff10f.js"></script>
+  </head>
+
+  <body class="timelines timelines_slack">
+    <div class='background blured' style=""></div>
+<div class="content">
+  <div class="header" style="background: #56B68B">
+    <div class="container row">
+      <a class="icon-options" href="/timelines"></a>
+      <div class="name">Slack</div>
+      <div class="likes">
+        <a href="javascript:void(0)" class="facebook-link icon-facebook"></a>
+        <a href="javascript:void(0)" class="twitter-link icon-twitter"></a>
+        <a href="javascript:void(0)" class="google-link icon-google"></a>
+        <a href="javascript:void(0)" class="pinterest-link icon-pinterest"></a>
+      </div>
+    </div>
+  </div>
+
+  <div id="main">
+    <article id="timeline">
+        <section>
+          <div class="date" style="color: #56B68B">
+            01 August, 2013
+          </div>
+          <div class="details">
+            Slack was launched in August 2013, and signed up 8000 customers within 24 hours of launch.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #56B68B">
+            01 April, 2014
+          </div>
+          <div class="details">
+            The company originally raised nearly $43 million.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #56B68B">
+            01 October, 2014
+          </div>
+          <div class="details">
+            The company raises $120 million in venture capital with a $1.2 billion valuation led by Kleiner Perkins Caufield & Byers and Google Ventures.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #56B68B">
+            01 January, 2015
+          </div>
+          <div class="details">
+            Slack announced the acquisition of Screenhero, which will be integrated into the Slack software to add voice, video, and screen sharing.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #56B68B">
+            01 February, 2015
+          </div>
+          <div class="details">
+            Company declares that it was adding around 10,000 new daily active users each week, and had more than 135,000 paying customers spread across 60,000 teams.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #56B68B">
+            01 March, 2015
+          </div>
+          <div class="details">
+            Slack signs a deal with investors to raise up to $160 million in a funding round that values the company at $2.76 billion. New investors include Institutional Venture Partners, Horizons Ventures, Index Ventures and DST Global.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #56B68B">
+            18 March, 2015
+          </div>
+          <div class="details">
+            Slack provides apps for Mac, iOS, and Android, and released an official Windows client.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #56B68B">
+            01 April, 2015
+          </div>
+          <div class="details">
+            The company raises another $160 million.
+          </div>
+        </section>
+        <section>
+          <div class="date" style="color: #56B68B">
+            01 July, 2015
+          </div>
+          <div class="details">
+            Slack adds Emoji Reactions, giving users the ability to add emoji buttons to their messages, which other users can then click on to express their reactions to messages.
+          </div>
+        </section>
+  	</article>
+  </div>
+
+  <div class="timeline">
+    <div class="container">
+      <div class="edge"></div>
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+$(document).ready(function(){
+  timeline = new Timeline([{"date":"2013-08-01","image":"","text":"Slack was launched in August 2013, and signed up 8000 customers within 24 hours of launch."},{"date":"2014-04-01","image":"","text":"The company originally raised nearly $43 million."},{"date":"2014-10-01","image":"","text":"The company raises $120 million in venture capital with a $1.2 billion valuation led by Kleiner Perkins Caufield & Byers and Google Ventures."},{"date":"2015-01-01","image":"","text":"Slack announced the acquisition of Screenhero, which will be integrated into the Slack software to add voice, video, and screen sharing."},{"date":"2015-02-01","image":"","text":"Company declares that it was adding around 10,000 new daily active users each week, and had more than 135,000 paying customers spread across 60,000 teams."},{"date":"2015-03-01","image":"","text":"Slack signs a deal with investors to raise up to $160 million in a funding round that values the company at $2.76 billion. New investors include Institutional Venture Partners, Horizons Ventures, Index Ventures and DST Global."},{"date":"2015-03-18","image":"","text":"Slack provides apps for Mac, iOS, and Android, and released an official Windows client."},{"date":"2015-04-01","image":"","text":"The company raises another $160 million."},{"date":"2015-07-01","image":"","text":"Slack adds Emoji Reactions, giving users the ability to add emoji buttons to their messages, which other users can then click on to express their reactions to messages."}], '#56B68B')
+  shares = new Share('/timelines/slack')
+});
+</script>
+
+  </body>
+
+</html>

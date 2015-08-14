@@ -1,0 +1,1 @@
+(function(){window.Layout=function(){function t(){this.updateHeight(),$(window).resize(function(t){return function(){return t.updateHeight()}}(this))}return t.prototype.updateHeight=function(){return $(".fader").height($(document).height())},t}(),$(function(){var t;return t=new Layout})}).call(this);
