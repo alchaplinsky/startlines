@@ -20,11 +20,10 @@ pages.each do |page_path|
   # Make requests to /page/ load the content at /pages/page.html.any.extension
   proxy "/#{page}/index.html", "/pages/#{page}.html", :ignore => true
 end
-
 @timelines = Timeline.all
 
 @timelines.map{|t| t.attributes[:name].downcase }.each do |id|
-  proxy "/timelines/#{id}", "/pages/timeline.html", locals: { timeline: Timeline.find(id)}
+  proxy "/timelines/#{id}/index.html", "/pages/timeline.html", locals: { timeline: Timeline.find(id)}, ignore: true
 end
 
 # Autoprefixer
