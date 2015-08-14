@@ -27,6 +27,12 @@ end
   proxy "/timelines/#{id}", "/pages/timeline.html", locals: { timeline: Timeline.find(id)}
 end
 
+# Autoprefixer
+activate :autoprefixer do |config|
+  config.browsers = ['last 2 versions', '> 1%']
+  config.cascade  = false
+end
+
 # Per-page layout changes:
 #
 # With no layout
@@ -68,6 +74,12 @@ set :css_dir, 'stylesheets'
 set :js_dir, 'javascripts'
 
 set :images_dir, 'images'
+
+activate :deploy do |deploy|
+  deploy.method = :git
+  deploy.branch = "gh-pages"
+  deploy.clean = true
+end
 
 # Build-specific configuration
 configure :build do
