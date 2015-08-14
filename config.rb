@@ -68,6 +68,7 @@ end
 #     "Helping"
 #   end
 # end
+set :relative_links, true
 
 set :css_dir, 'stylesheets'
 
