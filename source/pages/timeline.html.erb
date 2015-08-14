@@ -38,6 +38,6 @@
 <script type="text/javascript">
 $(document).ready(function(){
   timeline = new Timeline(<%= MultiJson.dump(timeline[:entries]).html_safe%>, '<%=timeline[:color]%>')
-  shares = new Share('/timelines/<%= timeline[:name].downcase%>')
+  shares = new Share('http://www.startlin.es/timelines/<%= timeline[:name].downcase%>')
 });
 </script>
