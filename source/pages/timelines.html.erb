@@ -1,0 +1,30 @@
+<div class="container">
+  <div class="logo">
+    <a href="<%= root_path%>"><i class="icon-atom"></i></a>
+  </div>
+  <div class="grid">
+    <h2>Explore Startups Timelines </h2>
+    <div class="row">
+      <% @timelines.each do |timeline|%>
+        <div class="cell">
+          <a href="/timelines/<%= timeline[:name].downcase%>" class="brick <%= timeline[:name].downcase%>" style="background: <%= timeline[:color]%>">
+            <i class="icon-<%= timeline[:name].downcase%>"></i>
+            <%= timeline[:name]%>
+          </a>
+        </div>
+      <%end%>
+    </div>
+  </div>
+  <div class="footer">
+    MADE WITH LOVE
+    <div class="right">
+      <a href="javascript:void(0)" class="facebook-link icon-facebook"></a>
+      <a href="javascript:void(0)" class="twitter-link icon-twitter"></a>
+      <a href="javascript:void(0)" class="google-link icon-google"></a>
+      <a href="javascript:void(0)" class="pinterest-link icon-pinterest"></a>
+    </div>
+  </div>
+</div>
+<script>
+  shares = new Share('/')
+</script>

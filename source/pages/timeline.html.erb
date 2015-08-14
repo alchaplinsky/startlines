@@ -1,0 +1,43 @@
+<div class='background blured' style=""></div>
+<div class="content">
+  <div class="header" style="background: <%= timeline[:color]%>">
+    <div class="container row">
+      <a class="icon-options" href="/timelines"></a>
+      <div class="name"><%= timeline[:name]%></div>
+      <div class="likes">
+        <a href="javascript:void(0)" class="facebook-link icon-facebook"></a>
+        <a href="javascript:void(0)" class="twitter-link icon-twitter"></a>
+        <a href="javascript:void(0)" class="google-link icon-google"></a>
+        <a href="javascript:void(0)" class="pinterest-link icon-pinterest"></a>
+      </div>
+    </div>
+  </div>
+
+  <div id="main">
+    <article id="timeline">
+      <% timeline[:entries].each do |slide| %>
+        <section>
+          <div class="date" style="color: <%= timeline[:color]%>">
+            <%= Date.parse(slide[:date]).strftime('%d %B, %Y')%>
+          </div>
+          <div class="details">
+            <%= slide[:text]%>
+          </div>
+        </section>
+      <% end %>
+  	</article>
+  </div>
+
+  <div class="timeline">
+    <div class="container">
+      <div class="edge"></div>
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+$(document).ready(function(){
+  timeline = new Timeline(<%= MultiJson.dump(timeline[:entries]).html_safe%>, '<%=timeline[:color]%>')
+  shares = new Share('/timelines/<%= timeline[:name].downcase%>')
+});
+</script>

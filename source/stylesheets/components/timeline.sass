@@ -1,0 +1,54 @@
+.timeline
+  position: fixed
+  z-index: 3
+  box-sizing: border-box
+  bottom: 0
+  width: 100%
+  height: 80px
+  background: #fafafa
+  box-shadow: 3px 0 3px rgba(100,100,100,.4)
+  .container
+    position: relative
+    &:before, &:after
+      position: absolute
+      top: 14px
+      font-size: 12px
+    &:before
+      content: attr(data-start)
+      left: -75px
+    &:after
+      content: attr(data-end)
+      right: -70px
+  .edge
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAMCAMAAACdvocfAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRFzMzM////040VdgAAAAJ0Uk5T/wDltzBKAAAAEklEQVR42mJgYAQCBopJgAADAAbwADHy2qHzAAAAAElFTkSuQmCC)
+    position: absolute
+    top: 0
+    left: 0
+    width: 100%
+    height: 12px
+  .marker
+    position: absolute
+    display: inline-block
+    width: 12px
+    height: 12px
+    margin: 25px 20px 0 0
+    border-radius: 50%
+    cursor: pointer
+    opacity: .6
+    transition: transform .2s ease, opacity .2s ease
+    &:after
+      display: none
+      content: attr(data-date)
+      position: absolute
+      font-size: 11px
+      top: -25px
+      width: 100px
+    &:hover
+      opacity: 1
+      transform: scale(2)
+      &:after
+    &.current
+      opacity: 1
+      transform: scale(2)
+      &:after
+        display: block

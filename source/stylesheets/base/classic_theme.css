@@ -1,0 +1,23 @@
+/* Classic Theme */
+.classic section.bespoke-before {
+	transform: translate3d(-2700px, 0, 0);
+}
+.classic section.bespoke-before-2 {
+	transform: translate3d(-1800px, 0, 0);
+	opacity: 0.1;
+}
+.classic section.bespoke-before-1 {
+	transform: translate3d(-900px, 0, 0);
+	opacity: 0.3;
+}
+.classic section.bespoke-after {
+	transform: translate3d(2700px, 0, 0);
+}
+.classic section.bespoke-after-2 {
+	transform: translate3d(1800px, 0, 0);
+	opacity: 0.1;
+}
+.classic section.bespoke-after-1 {
+	transform: translate3d(900px, 0, 0);
+	opacity: 0.3;
+}
