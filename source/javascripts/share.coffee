@@ -3,7 +3,7 @@ class window.Share
   facebookUrl: 'https://www.facebook.com/sharer/sharer.php?u='
   pintetersUrl: 'http://pinterest.com/pin/create/link/?url='
   googleUrl: 'https://plus.google.com/share?url='
-  twitterUrl: 'https://twitter.com/intent/tweet?url='
+  twitterUrl: 'https://twitter.com/intent/tweet?status='
 
   constructor: (@url) ->
     $(document).on 'click', '.facebook-link', => @shareFacebook()
@@ -21,7 +21,7 @@ class window.Share
     @share(@googleUrl, 'Google+')
 
   shareTwitter: ->
-    @share(@twitterUrl, 'Twitter')
+    @share(@twitterUrl+'Explore the history of innovation with startup timelines ', 'Twitter')
 
   share: (url, title) ->
     window.open(url+@url, title, "height=400,width=550")
