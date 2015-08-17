@@ -22,7 +22,7 @@
       padding: 50px
       color: #fff
       text-decoration: none
-      transition: transform .4s ease
+      transition: transform .4s ease, padding .3s ease
       &:hover
         transform: scale(1.1)
       i
@@ -30,11 +30,15 @@
         font-size: 52px
         margin-bottom: 20px
         text-align: center
-      &.facebook
-        background: #3B5998
-      &.twitter
-        background: #55ACEE
-      &.google
-        background: #CC3732
-      &.instagram
-        background: #3F729B
+
+@media screen and (max-width: 840px)
+  .grid .cell
+    width: 33.3333%
+@media screen and (max-width: 640px)
+  .grid .cell
+    width: 50%
+    .brick
+      padding: 40px 35px
+@media screen and (max-width: 400px)
+  .grid .cell .brick
+    padding: 25px 20px

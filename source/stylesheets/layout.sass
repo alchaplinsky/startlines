@@ -61,6 +61,7 @@ body
 
 .container
   max-width: 1000px
+  min-width: 320px
   margin: 0 auto
 
 .content
@@ -98,3 +99,11 @@ body
     color: darken(#a69692, 10%)
     &:hover
       color: #a69692
+
+@media screen and (max-width: 500px)
+  .header .pinterest-link
+    display: none
+
+@media screen and (max-width: 400px)
+  .header .google-link
+    display: none

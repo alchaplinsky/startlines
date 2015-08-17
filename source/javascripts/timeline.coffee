@@ -6,6 +6,7 @@ class window.Timeline
     @start_date =  _.first(@dates)
     @end_date = moment()
     @scale = @end_date.diff(@start_date)/(@el.width() - 15)
+    @initMobileBehavior()
     @initSlides()
     @initTimeline()
     @initEvents()
@@ -19,6 +20,13 @@ class window.Timeline
     @slides.deck.on 'activate', (event) =>
       @markers.removeClass('current')
       $(@markers[event.index]).addClass('current')
+    $(window).on 'resize', => @initMobileBehavior()
+
+  initMobileBehavior: ->
+    if $(window).width() <= 840
+      margin = $('section').outerWidth()/2
+      $('section').css('margin-left', "-#{margin}px")
+
 
   initTimeline: ->
     @el.attr('data-start', @start_date.format('DD MMM, YYYY'))
