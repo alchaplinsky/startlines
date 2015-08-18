@@ -2,7 +2,7 @@
 <% content_for :description, 'Curious about starting and growing a startup? Learn about most innovative startups that changed the world by exploring startup timelines'%>
 <div class="container">
   <div class="logo">
-    <%= link_to '<i class="icon-atom"></i>', '/'%>
+    <%= link_to '<i class="icon-circular"></i>', '/'%>
   </div>
   <div class="grid">
     <h2>Explore Startups Timelines </h2>
@@ -17,6 +17,22 @@
       <%end%>
     </div>
   </div>
+  <div class="newsletter">
+      <div class="form">
+        <h2>Want to explore more?</h2>
+        <div class="error-container"></div>
+        <input type="email" id="email_field" placeholder="Subscribe for updates" />
+        <button class="button">Give me more</button>
+      </div>
+      <div class="error">
+        <h1>Oops, something went wrong</h1>
+        <h3>We were unable to submit your email.<br/>Try again later.</h3>
+      </div>
+      <div class="success">
+        <h1>You've got it!</h1>
+        <h3>Once we have a new stories to share<br/> we'll drop you a line.</h3>
+      </div>
+  </div>
   <div class="footer">
     CRAFTED WITH <i class="icon-heart"></i> by <a href="http://twitter.com/alchaplinsky" target="_blank">Alex Chaplinsky</a>
     <div class="right">
@@ -28,5 +44,6 @@
   </div>
 </div>
 <script>
-  shares = new Share('http://www.startlin.es/')
+  shares = new Share('http://www.startlin.es/');
+  newsletter = new Newsletter()
 </script>

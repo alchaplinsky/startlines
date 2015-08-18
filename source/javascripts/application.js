@@ -5,4 +5,5 @@
 //= require layout
 //= require slides
 //= require timeline
+//= require newsletter
 //= require share
