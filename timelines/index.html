@@ -13,15 +13,16 @@
     <meta name="keywords" content="IT, startup, timeline, growth, development" />
     <meta property="og:title" content="Explore Startup Timelines" />
     <meta property="og:type" content="website" />
-    <meta property="og:image" content="http://www.startlin.es//images/startlines-acbfb848.jpg" />
-    <link href="/stylesheets/application-2713364b.css" rel="stylesheet" />
-    <script src="/javascripts/application-7a097f0d.js"></script>
+    <meta property="og:image" content="http://www.startlin.es//images/startlines-af2e1732.jpg" />
+    <script src='https://cdn.firebase.com/js/client/2.2.1/firebase.js'></script>
+    <link href="/stylesheets/application-d3867f6b.css" rel="stylesheet" />
+    <script src="/javascripts/application-a9d94964.js"></script>
   </head>
 
   <body class="timelines timelines_index">
     <div class="container">
   <div class="logo">
-    <a href="/"><i class="icon-atom"></i></a>
+    <a href="/"><i class="icon-circular"></i></a>
   </div>
   <div class="grid">
     <h2>Explore Startups Timelines </h2>
@@ -100,6 +101,22 @@
         </div>
     </div>
   </div>
+  <div class="newsletter">
+      <div class="form">
+        <h2>Want to explore more?</h2>
+        <div class="error-container"></div>
+        <input type="email" id="email_field" placeholder="Subscribe for updates" />
+        <button class="button">Give me more</button>
+      </div>
+      <div class="error">
+        <h1>Oops, something went wrong</h1>
+        <h3>We were unable to submit your email.<br/>Try again later.</h3>
+      </div>
+      <div class="success">
+        <h1>You've got it!</h1>
+        <h3>Once we have a new stories to share<br/> we'll drop you a line.</h3>
+      </div>
+  </div>
   <div class="footer">
     CRAFTED WITH <i class="icon-heart"></i> by <a href="http://twitter.com/alchaplinsky" target="_blank">Alex Chaplinsky</a>
     <div class="right">
@@ -111,7 +128,8 @@
   </div>
 </div>
 <script>
-  shares = new Share('http://www.startlin.es/')
+  shares = new Share('http://www.startlin.es/');
+  newsletter = new Newsletter()
 </script>
 
   </body>
