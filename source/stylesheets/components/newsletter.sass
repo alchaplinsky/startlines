@@ -4,6 +4,8 @@
   h2
     text-align: center
     margin-bottom: 15px
+  .fields
+    text-align: center
   input[type="email"]
     border: 2px solid #f5b317
     outline: none
@@ -24,3 +26,15 @@
   .success, .error
     display: none
     text-align: center
+
+@media screen and (max-width: 480px)
+  .newsletter
+    input[type="email"]
+      width: 200px
+
+@media screen and (max-width: 360px)
+  .newsletter
+    padding: 0 10px
+    input[type="email"], .button
+      width: 100%
+      margin-bottom: 10px

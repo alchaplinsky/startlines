@@ -1,7 +1,6 @@
 class window.Newsletter
 
   constructor: ->
-    window.fb = @fb = new Firebase('https://startlines.firebaseio.com/emails')
     $('.button').on 'click', =>
       @onClickHandle()
 
@@ -17,6 +16,7 @@ class window.Newsletter
     re.test(email)
 
   submit: (email) ->
+    @fb = new Firebase('https://startlines.firebaseio.com/emails')
     @fb.push email, (error) =>
       if _.isEmpty error
         @showSuccess()
@@ -33,3 +33,4 @@ class window.Newsletter
   showSuccess: ->
     $('.newsletter .form').hide()
     $('.newsletter .success').fadeIn(300)
+    Firebase.goOffline()
