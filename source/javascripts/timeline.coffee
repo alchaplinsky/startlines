@@ -1,8 +1,8 @@
 class window.Timeline
 
-  constructor: (results, @color) ->
+  constructor: (dates, @color) ->
     @el = $('.timeline .container')
-    @dates = _.map results, (result) -> moment(result.date)
+    @dates = _.map dates, (date) -> moment(date, 'YYYY-MM-DD')
     @start_date =  _.first(@dates)
     @end_date = moment()
     @scale = @end_date.diff(@start_date)/(@el.width() - 15)

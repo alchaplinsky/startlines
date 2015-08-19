@@ -29,7 +29,12 @@
       <% end %>
   	</article>
   </div>
-
+  <div class="arrow-keys">
+    <span class="arr-up">&nbsp;</span>
+    <span class="arr-left">&larr;</span>
+    <span class="arr-down"> &nbsp;</span>
+    <span class="arr-right">&rarr;</span>
+  </div>
   <div class="timeline">
     <div class="container">
       <div class="edge"></div>
@@ -39,7 +44,7 @@
 
 <script type="text/javascript">
 $(document).ready(function(){
-  timeline = new Timeline(<%= MultiJson.dump(timeline[:entries]).html_safe%>, '<%=timeline[:color]%>')
+  timeline = new Timeline(<%= MultiJson.dump(timeline[:entries].map{|entry| entry[:date]}).html_safe%>, '<%=timeline[:color]%>')
   shares = new Share('http://www.startlin.es/timelines/<%= timeline[:name].downcase%>')
 });
 </script>

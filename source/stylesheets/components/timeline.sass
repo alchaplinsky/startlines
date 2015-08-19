@@ -51,3 +51,29 @@
       transform: scale(2)
       &:after
         display: block
+
+.arrow-keys
+  position: absolute
+  bottom: 95px
+  right: 20px
+  font-size: Arial
+  span
+    display: inline-block
+    border: 1px solid rgba(0,0,0,.4)
+    color: rgba(0,0,0,.5)
+    font-size: 13px
+    line-height: 18px
+    width: 20px
+    height: 20px
+    text-align: center
+    border-radius: 2px
+  .arr-up
+    display: block
+    margin: 0 auto 4px auto
+    border: 1px solid rgba(0,0,0,.15)
+  .arr-down
+    border: 1px solid rgba(0,0,0,.15)
+
+@media screen and (max-width: 768px)
+  .arrow-keys
+    display: none
