@@ -43,6 +43,7 @@
 </div>
 
 <script type="text/javascript">
+fbq('track', 'View <%= timeline[:name]%> timeline');
 $(document).ready(function(){
   timeline = new Timeline(<%= MultiJson.dump(timeline[:entries].map{|entry| entry[:date]}).html_safe%>, '<%=timeline[:color]%>')
   shares = new Share('http://www.startlin.es/timelines/<%= timeline[:name].downcase%>')
