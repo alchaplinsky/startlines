@@ -10,23 +10,38 @@
     border: 2px solid #ffc107
     border-radius: 2px
     outline: none
-    width: 285px
+    width: 300px
     padding: 10px
+    &[disabled]
+      background: #f7f7f7
   .button
     padding: 9px
     outline: none
+    width: 134px
     &:hover
       transform: none
       color: #000
       background: lighten(#ffc107, 15%)
     &:active
       border-color: lighten(#ffc107, 15%)
+    &.loading, &.loading:hover
+      animation: progress-bar-stripes 2s linear infinite
+      background: #ffe69d
+      background-image: linear-gradient(-45deg, rgba(255, 193, 7, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 193, 7, 0.15) 50%, rgba(255, 193, 7, 0.15) 75%, transparent 75%, transparent)
+      background-size: 25px 25px
+
   .error-container
     height: 20px
     color: #ffc107
   .success, .error
     display: none
     text-align: center
+
+@keyframes progress-bar-stripes
+  from
+    background-position: 25px 0
+  to
+    background-position: 0 0
 
 @media screen and (max-width: 480px)
   .newsletter

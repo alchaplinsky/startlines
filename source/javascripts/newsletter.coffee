@@ -16,12 +16,17 @@ class window.Newsletter
     re.test(email)
 
   submit: (email) ->
+    @showLoading()
     @fb = new Firebase('https://startlines.firebaseio.com/emails')
     @fb.push email, (error) =>
       if _.isEmpty error
         @showSuccess()
       else
         @showError()
+
+  showLoading: ->
+    $('.form .button').addClass('loading')
+    $('#email_field').prop('disabled', true)
 
   showValidationError: ->
     $('.error-container').html('Invalid email')
