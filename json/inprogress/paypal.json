@@ -1,0 +1,241 @@
+{
+  "name": "PayPal",
+  "color": "#1b3689",
+  "entries": [
+    {
+      "date": "1998-12-01",
+      "image": "",
+      "text": "Confinity, the company that would later launch the first version of PayPal, is founded by Max Levchin, Peter Thiel, and Luke Nosek. The company idea is due to Max Levchin, and Thiel is initially interested only in being an investor, but Levchin convinces Thiel to become CEO of the company."
+    },
+    {
+      "date": "1999-01-01",
+      "image": "",
+      "text": "X.com, the company that would later merge with Confinity to become PayPal, is launched by Elon Musk."
+    },
+    {
+      "date": "1999-07-24",
+      "image": "",
+      "text": "Confinity announces the launch of online payment service PayPal, intended to be usable via a web browser and via a Palm Pilot. At the launch party in July, Nokia Ventures uses PayPal to send $3 million in venture capital investment on-stage."
+    },
+    {
+      "date": "1999-09-08",
+      "image": "",
+      "text": "The product is launched to the public."
+    },
+    {
+      "date": "1999-11-01",
+      "image": "",
+      "text": "Confinity launches a fully functional PayPal website and the staff send emails to their friends offering $1 for signing up."
+    },
+    {
+      "date": "1999-12-01",
+      "image": "",
+      "text": "Financial services company X.com, headed by chairman Elon Musk and CEO Bill Harris, adds online payment to its online account service, and makes it their product focus."
+    },
+    {
+      "date": "1999-12-25",
+      "image": "",
+      "text": "Confinity identifies eBay as a promising area to acquire users, because of the high concentration of buyers and sellers and the absence of any standard payment system for them to use."
+    },
+    {
+      "date": "2000-03-01",
+      "image": "",
+      "text": "EBay announces Billpoint, its in-house payment service, in collaboration with Wells Fargo. This could pose a serious threat to PayPal, because eBay auctions are a major source of user acquisition for it."
+    },
+    {
+      "date": "2000-02-01",
+      "image": "",
+      "text": "Confinity and X.com merge, and the new entity is officially called X.com. Bill Harris remains CEO of the new entity, while Elon Musk remains Chairman. The top tier at Confinity receive vice-presidential titles at the new company."
+    },
+    {
+      "date": "2000-04-01",
+      "image": "",
+      "text": "Bill Harris is ousted from the CEO role. Musk takes over the role of CEO and Thiel becomes Chairman. The reason for Harris' departure appears to be his inability to handle the scaling issues posed by PayPal's rapid growth, as well as his continued focus on unproductive approaches such as striking deals with small and unreliable startups."
+    },
+    {
+      "date": "2000-06-01",
+      "image": "",
+      "text": "PayPal introduces paid accounts for buyers and sellers that require verification and offer guarantees against fraud."
+    },
+    {
+      "date": "2000-10-01",
+      "image": "",
+      "text": "Elon Musk steps down as CEO and Peter Thiel takes over as interim CEO. Musk continues to stay on the Board of Directors."
+    },
+    {
+      "date": "2000-10-15",
+      "image": "",
+      "text": "The company closes X.com's financial services in order to focus on the online payment system. The company also decisively switches away from the X.com brand, even though its official name continues to be X.com."
+    },
+    {
+      "date": "2000-11-01",
+      "image": "",
+      "text": "Max Levchin spearheads efforts to reduce fraud. This would prove to be one of PayPal's decisive sources of advantage, allowing the company to offer an affordable service to customers without hemorrhaging money. Innovations include one of the web's first commercial implementations of CAPTCHA (in the form of the Gausebeck-Levchin test) and a program called \"Igor\" that identified and froze online activity that appeared fraudulent."
+    },
+    {
+      "date": "2002-02-15",
+      "image": "",
+      "text": "PayPal has its initial public offering. The offering is for 5.4 million shares at a share price of $13 (determined the previous evening by Salomon Smith Barney, their investment bank), for a total of $70 million. The valuation of the company is about $800 million. On the launch date, the price of the shares peaks to $22 and closes at $20."
+    },
+    {
+      "date": "2002-07-08",
+      "image": "",
+      "text": "It is announced that eBay will acquire PayPal using an all-stock acquisition, for $1.5 billion."
+    },
+    {
+      "date": "2002-10-03",
+      "image": "",
+      "text": "eBay's acquisition of PayPal is formally completed."
+    },
+    {
+      "date": "2005-10-10",
+      "image": "",
+      "text": "PayPal acquires the VeriSign payment solution to expand its e-commerce business and provide added security support."
+    },
+    {
+      "date": "2007-11-20",
+      "image": "",
+      "text": "PayPal announced a partnership with MasterCard that led to the development and launch of the PayPal Secure Card service, a software that allows customers to make payments on websites that do not accept PayPal directly by generating a unique, single-use MasterCard number for each checkout."
+    },
+    {
+      "date": "2008-01-28",
+      "image": "",
+      "text": "PayPal acquires Fraud Sciences, a privately held Israeli start-up company with expertise in online risk tools, for $169 million, in order to enhance PayPal's proprietary fraud management systems."
+    },
+    {
+      "date": "2008-10-06",
+      "image": "",
+      "text": "PayPal acquires Bill Me Later, an online payments company offering transactional credit at over 9000 online merchants in the US."
+    },
+    {
+      "date": "2009-08-01",
+      "image": "",
+      "text": "PayPal launches Student Accounts for teens, allowing parents to set up a student account, transfer money into it, and obtain a debit card for student use. The program provides tools to teach teens how to spend money wisely and take responsibility for their actions."
+    },
+    {
+      "date": "2009-11-04",
+      "image": "",
+      "text": "PayPal opens its platform, allowing other services to get access to its code and to use its infrastructure in order to enable peer-to-peer online transactions."
+    },
+    {
+      "date": "2010-07-28",
+      "image": "",
+      "text": "PayPal removes the electronic withdrawal option for users in India."
+    },
+    {
+      "date": "2010-10-26",
+      "image": "",
+      "text": "PayPal unveils micropayments for digital goods, with Facebook as its first customer."
+    },
+    {
+      "date": "2011-01-28",
+      "image": "",
+      "text": "The Reserve Bank of India restricts PayPal payments to merchants to amounts under $100."
+    },
+    {
+      "date": "2011-06-27",
+      "image": "",
+      "text": "PayPal reaches 100 million users."
+    },
+    {
+      "date": "2011-09-25",
+      "image": "",
+      "text": "PayPal announces that it is processing $315 million in payments per day."
+    },
+    {
+      "date": "2012-01-06",
+      "image": "",
+      "text": "PayPal announces that its first in-store brick and mortar integration will be with Home Depot."
+    },
+    {
+      "date": "2012-03-15",
+      "image": "",
+      "text": "PayPal unveils PayPal Here, its new global payment platform for small and medium-sized businesses, with a swipe-free option for customers, developed in collaboration with card.io."
+    },
+    {
+      "date": "2012-04-04",
+      "image": "",
+      "text": "PayPal rebrands its services for small businesses as PayPal Payments and debuts a number of online, offline, and mobile payment options."
+    },
+    {
+      "date": "2012-05-30",
+      "image": "",
+      "text": "PayPal InStore is released in the UK with barcodes, but no NFC."
+    },
+    {
+      "date": "2012-06-19",
+      "image": "",
+      "text": "PayPal launches a new, redesigned, sleeker site."
+    },
+    {
+      "date": "2012-12-13",
+      "image": "",
+      "text": "PayPal launches a \"PayPal My Cash Card\" that people can buy with cash (at pharmacies and supermarkets that make it available) and then use to make online purchases."
+    },
+    {
+      "date": "2013-09-09",
+      "image": "",
+      "text": "PayPal debuts its new hardware platform, Beacon, a Bluetooth LE enabled device that facilitates hands-free checkins and payments."
+    },
+    {
+      "date": "2013-09-26",
+      "image": "",
+      "text": "PayPal acquires payments gateway company Braintree for $800 million USD in cash."
+    },
+    {
+      "date": "2013-11-27",
+      "image": "",
+      "text": "PayPal launches support for prepaid gift cards, just in time for the 2013 holiday shopping season."
+    },
+    {
+      "date": "2014-03-08",
+      "image": "",
+      "text": "PayPal rolls out its new \"Mobile First\" website globally."
+    },
+    {
+      "date": "2014-05-15",
+      "image": "",
+      "text": "The Google Play Store adds PayPal as a payment option, despite it being a direct competitor to Google Wallet. However, PayPal can only be used to buy apps and digital content, not devices and accessories."
+    },
+    {
+      "date": "2014-06-12",
+      "image": "",
+      "text": "PayPal launches PassPort, a service aimed at facilitating international sales by merchants."
+    },
+    {
+      "date": "2014-07-30",
+      "image": "",
+      "text": "PayPal renames its \"Bill Me Later\" service as PayPal Credit and expands PayPal Credit as well as PayPal Working Capital internationally."
+    },
+    {
+      "date": "2014-09-23",
+      "image": "",
+      "text": "PayPal enables Bitcoin transactions for merchants selling digital goods, claiming that it would earn transaction revenue through referral fees. Bitcoin's price rises rapidly in response to the announcement."
+    },
+    {
+      "date": "2014-09-30",
+      "image": "",
+      "text": "It is announced that PayPal will be split off from eBay. Both companies would get new CEOs as part of the deal, with eBay Marketplaces President Devin Wenig taking over at eBay, and PayPal President Dan Schulman presiding at PayPal."
+    },
+    {
+      "date": "2015-03-02",
+      "image": "",
+      "text": "PayPal acquires Paydiant, a Boston-based startup that makes mobile wallet technology that powers payment apps for businesses such as Subway, Harris Teeter, and Capital One, and more importantly MCX, a merchant exchange network developing a payment app called CurrentC."
+    },
+    {
+      "date": "2015-03-10",
+      "image": "",
+      "text": "PayPal acquired CyActive, a predictive malware detection startup based in Israel, and uses the acquisition to kickstart a security hub in Israel."
+    },
+    {
+      "date": "2015-06-03",
+      "image": "",
+      "text": "An as-of-yet unimplemented update to PayPal's terms of service is leaked by GHacks onto the Internet, the terms indicating that customers must agree to accept robocalls from PayPal at numbers not provided to PayPal, which may be procured by PayPal using \"alternate means.\" The leaked terms indicate a customer may accept the terms or close their account. PayPal later announced that the updated terms are intended to \"honor customers’ requests to decline to receive auto-dialed or prerecorded calls,\" causing further confusion and attention from the press."
+    },
+    {
+      "date": "2015-07-01",
+      "image": "",
+      "text": "PayPal agrees to buy Xoom, a San Francisco-based online money transfer technology and services company that went public in 2013, for $25 per share, or $890 million. Xoom's focus is on facilitating international money transfers."
+    }
+  ]
+}

@@ -2,6 +2,11 @@
   "name": "Airbnb",
   "color": "#FF5A60",
   "image": "http://m.todayonline.com/sites/default/files/styles/photo_gallery_image_lightbox/public/20114887.JPG",
+  "meta": {
+    "title": "Airbnb evolution timeline",
+    "description": "Explore history of Airbnb startup. How 3 guys got from renting air mattresses to a $10 billion dollar company.",
+    "keywords": "airbnb, startup, timeline, rent, airbed, company, success"
+  },
   "entries": [
     {
       "date": "2007-10-01",

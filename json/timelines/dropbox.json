@@ -1,6 +1,11 @@
 {
   "name": "Dropbox",
   "color": "#007EE5",
+  "meta": {
+    "title": "Dropbox founder Drew Houston story",
+    "description": "History of creation of Dropbox one of the hottest tech startups that keeps your files safe, synced, and easy to share",
+    "keywords": "dropbox, drew houston, startup, files, tech, timeline, history"
+  },
   "entries": [
     {
       "date": "2007-06-01",

@@ -1,5 +1,13 @@
-<% content_for :title, "Explore "+ timeline[:name]+ " timeline"%>
-<% content_for :description, 'Timeline of creating '+ timeline[:name]+ '. Full history from the start till now.'%>
+<% if timeline[:meta].present? %>
+  <% content_for :title, timeline[:meta][:title] %>
+  <% content_for :description, timeline[:meta][:description] %>
+  <% content_for :keywords, timeline[:meta][:keywords] %>
+<%else%>
+  <% content_for :title, "Explore "+ timeline[:name]+ " timeline" %>
+  <% content_for :description, 'Timeline of creating '+ timeline[:name]+ '. Full history from the start till now.'%>
+<%end%>
+
+
 <div class='background blured' style=""></div>
 <div class="content">
   <div class="header" style="background: <%= timeline[:color]%>">
@@ -43,7 +51,6 @@
 </div>
 
 <script type="text/javascript">
-fbq('track', 'View <%= timeline[:name]%> timeline');
 $(document).ready(function(){
   timeline = new Timeline(<%= MultiJson.dump(timeline[:entries].map{|entry| entry[:date]}).html_safe%>, '<%=timeline[:color]%>')
   shares = new Share('http://www.startlin.es/timelines/<%= timeline[:name].downcase%>')

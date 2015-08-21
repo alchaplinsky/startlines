@@ -2,6 +2,11 @@
   "name": "Facebook",
   "color": "#3B5998",
   "image": "http://www.letsintern.com/blog/wp-content/uploads/2014/07/facebook.jpg",
+  "meta": {
+    "title": "History Timeline of Facebook",
+    "description": "Timeline of creating and growing a Social Network since launch in February 2004 by Mark Zuckerberg till now ",
+    "keywords": "facebook, mark zuckerberg, timeline, social network, startup"
+  },
   "entries": [
     {
       "date": "2003-10-28",
