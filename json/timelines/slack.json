@@ -1,11 +1,19 @@
 {
   "name": "Slack",
   "color": "#56B68B",
+  "people": [
+    {
+      "image": "/images/people/butterfield.jpg",
+      "name": "Stewart Butterfield",
+      "title": "Founder of Slack",
+      "birthdate": "1973-11-30"
+    }
+  ],
   "entries": [
     {
       "date": "2013-08-01",
       "image": "",
-      "text": "Slack was launched in August 2013, and signed up 8000 customers within 24 hours of launch."
+      "text": "Slack was founded by <a href='' data-person='0'>Stewart Butterfield</a> ( with Eric Costello, Cal Henderson, and Serguei Mourachov) and launched in August 2013, and signed up 8000 customers within 24 hours of launch."
     },
     {
       "date": "2014-04-01",

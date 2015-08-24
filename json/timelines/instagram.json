@@ -1,11 +1,25 @@
 {
   "name": "Instagram",
   "color": "#3F729B",
+  "people": [
+    {
+      "image": "/images/people/systrom.jpg",
+      "name": "Kevin Systrom",
+      "title": "CEO and Co-Founder of Instagram",
+      "birthdate": "1983-11-30"
+    },
+    {
+      "image": "/images/people/krieger.jpg",
+      "name": "Mike Krieger",
+      "title": "Co-Founder of Instagram",
+      "birthdate": "1986-03-04"
+    }
+  ],
   "entries": [
     {
       "date": "2010-10-06",
       "image": "",
-      "text": "Instagram launches. The name \"Instagram\" is a portmanteau of \"instant camera\" and \"telegram\"."
+      "text": "Instagram was created by <a href='' data-person='0'>Kevin Systrom</a> and <a href='' data-person='1'>Mike Krieger</a>, and launched in October 2010 as a free mobile app. The name \"Instagram\" is a portmanteau of \"instant camera\" and \"telegram\"."
     },
     {
       "date": "2010-12-12",
