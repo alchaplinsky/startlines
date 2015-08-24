@@ -16,6 +16,9 @@
     <meta property="og:image" content="http://www.startlin.es/<%= image_path('startlines.jpg')%>" />
     <link rel="icon" type="image/png" href="/images/favicon.png" />
     <meta name="google-site-verification" content="PW-SxBcj7cCfBKXUXTmLkCVg1M83Te1f6OlzptbJofU" />
+    <style>
+      <%= yield_content :css%>
+    </style>
     <script src='https://cdn.firebase.com/js/client/2.2.1/firebase.js'></script>
     <script>
     !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?

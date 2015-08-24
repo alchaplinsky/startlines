@@ -6,11 +6,13 @@
   <% content_for :title, "Explore "+ timeline[:name]+ " timeline" %>
   <% content_for :description, 'Timeline of creating '+ timeline[:name]+ '. Full history from the start till now.'%>
 <%end%>
-
-
-<div class='background blured' style=""></div>
+<% content_for :css do %>
+  .header { background: <%= timeline[:color]%>;}
+  article .date, article a { color: <%= timeline[:color]%>;}
+<%end%>
+<div class='background blured'></div>
 <div class="content">
-  <div class="header" style="background: <%= timeline[:color]%>">
+  <div class="header">
     <div class="container row">
       <%= link_to '', '/timelines', class: 'icon-options'%>
       <div class="name"><%= timeline[:name]%></div>
@@ -27,7 +29,7 @@
     <article id="timeline">
       <% timeline[:entries].each do |slide| %>
         <section>
-          <div class="date" style="color: <%= timeline[:color]%>">
+          <div class="date">
             <%= Date.parse(slide[:date]).strftime('%d %B, %Y')%>
           </div>
           <div class="details">
@@ -50,9 +52,26 @@
   </div>
 </div>
 
+<script id="person" type="x-tmpl-mustache">
+  <div class="person">
+    <div class="left">
+      <img src="{{image}}" alt="{{name}}" />
+    </div>
+    <div class="last-col">
+      <strong>{{name}}</strong><br />
+      <small class="muted">{{title}}</small><br />
+      <small>{{age}} years old</small>
+    </div>
+  </div>
+</script>
+
 <script type="text/javascript">
 $(document).ready(function(){
-  timeline = new Timeline(<%= MultiJson.dump(timeline[:entries].map{|entry| entry[:date]}).html_safe%>, '<%=timeline[:color]%>')
+  timeline = new Timeline(
+    <%= MultiJson.dump(timeline[:entries].map{|entry| entry[:date]}).html_safe%>,
+    <%= MultiJson.dump(timeline[:people]).html_safe%>,
+    '<%=timeline[:color]%>'
+  )
   shares = new Share('http://www.startlin.es/timelines/<%= timeline[:name].downcase%>')
 });
 </script>

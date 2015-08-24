@@ -7,21 +7,53 @@
     "description": "Timeline of creating and growing a Social Network since launch in February 2004 by Mark Zuckerberg till now ",
     "keywords": "facebook, mark zuckerberg, timeline, social network, startup"
   },
+  "people": [
+    {
+      "image": "/images/people/zuckerberg.jpg",
+      "name": "Mark Zuckerberg",
+      "title": "Chairman and CEO of Facebook",
+      "birthdate": "1984-05-14"
+    },
+    {
+      "image": "/images/people/mockovitz.jpg",
+      "name": "Dustin Moskovitz",
+      "title": "Co-founder of Facebook (2004)",
+      "birthdate": "1984-05-22"
+    },
+    {
+      "image": "/images/people/saverin.jpg",
+      "name": "Eduardo Saverin",
+      "title": "Co-founder of Facebook",
+      "birthdate": "1982-03-19"
+    },
+    {
+      "image": "/images/people/thiel.jpg",
+      "name": "Peter Thiel",
+      "title": "President of Clarium Capital",
+      "birthdate": "1967-10-11"
+    },
+    {
+      "image": "/images/people/parker.jpg",
+      "name": "Sean Parker",
+      "title": "Entrepreneur, investor",
+      "birthdate": "1979-12-03"
+    }
+  ],
   "entries": [
     {
       "date": "2003-10-28",
       "image": "http://cdn.timesofisrael.com/uploads/2013/08/facebook.jpg",
-      "text": "Mark Zuckerberg releases Facemash, the predecessor to Facebook. It is described as a Harvard University version of Hot or Not."
+      "text": "<a href='' data-person='0'>Mark Zuckerberg</a> releases Facemash, the predecessor to Facebook. It is described as a Harvard University version of Hot or Not."
     },
     {
       "date": "2004-01-1",
       "image": "http://cdn.timesofisrael.com/uploads/2013/08/facebook.jpg",
-      "text": "In the beginning of January Mark Zuckerberg begins writing Facebook. And on January 11 Zuckerberg registers thefacebook.com domain."
+      "text": "In the beginning of January <a href='' data-person='0'>Mark Zuckerberg</a> begins writing Facebook. And on January 11 Zuckerberg registers thefacebook.com domain."
     },
     {
       "date": "2004-02-04",
       "image": "http://thenextweb.com/wp-content/blogs.dir/1/files/2011/09/Mark-Zuckerberg-Facebook-Wall-Graffiti.jpeg",
-      "text": "Mark Zuckerberg launches Facebook as a Harvard-only social network."
+      "text": "<a href='' data-person='0'>Mark Zuckerberg</a> launches Facebook as a Harvard-only social network."
     },
     {
       "date": "2004-03-01",
@@ -31,12 +63,12 @@
     {
       "date": "2004-04-13",
       "image": "http://rack.1.mshcdn.com/media/ZgkyMDE1LzA3LzAxLzNjL2ZhY2Vib29rb2ZmLjRjMjNhLmpwZwpwCXRodW1iCTk1MHg1MzQjCmUJanBn/06829d72/93e/facebook-office-logo.jpg",
-      "text": "Zuckerberg, Dustin Moskovitz, and Eduardo Saverin form Thefacebook.com LLC, a partnership."
+      "text": "<a href='' data-person='0'>Zuckerberg</a>, <a href='' data-person='1'>Dustin Moskovitz</a>, and <a href='' data-person='2'>Eduardo Saverin</a> form Thefacebook.com LLC, a partnership."
     },
     {
       "date": "2004-06-01",
       "image": "http://rack.1.mshcdn.com/media/ZgkyMDE1LzA3LzAxLzNjL2ZhY2Vib29rb2ZmLjRjMjNhLmpwZwpwCXRodW1iCTk1MHg1MzQjCmUJanBn/06829d72/93e/facebook-office-logo.jpg",
-      "text": "Facebook receives its first investment from Peter Thiel for US$500,000 and incorporates into a new company, and Sean Parker (early employee of Napster) becomes its president. Facebook moves its base of operations to Palo Alto, California."
+      "text": "Facebook receives its first investment from <a href='' data-person='3'>Peter Thiel</a> for US$500,000 and incorporates into a new company, and <a href='' data-person='4'>Sean Parker</a> (early employee of Napster) becomes its president. Facebook moves its base of operations to Palo Alto, California."
     },
     {
       "date": "2004-08-01",
@@ -111,7 +143,7 @@
     {
       "date": "2008-06-01",
       "image": "http://cdn.timesofisrael.com/uploads/2013/08/facebook.jpg",
-      "text": "Facebook settles both lawsuits, ConnectU vs Facebook, Mark Zuckerberg et al. and intellectual property theft, Wayne Chang et al. over The Winklevoss Chang Group's Social Butterfly project. The settlement effectively had Facebook acquiring ConnectU for $20 million in cash and over $1.2 million in shares, valued at $45 million based on $15 billion company valuation."
+      "text": "Facebook settles both lawsuits, ConnectU vs Facebook, <a href='' data-person='0'>Mark Zuckerberg</a> et al. and intellectual property theft, Wayne Chang et al. over The Winklevoss Chang Group's Social Butterfly project. The settlement effectively had Facebook acquiring ConnectU for $20 million in cash and over $1.2 million in shares, valued at $45 million based on $15 billion company valuation."
     },
     {
       "date": "2008-08-01",
@@ -176,7 +208,7 @@
     {
       "date": "2010-10-01",
       "image": "http://cdn.timesofisrael.com/uploads/2013/08/facebook.jpg",
-      "text": "The Social Network, a film about the beginnings of Facebook directed by David Fincher is released. The film is met with widespread critical acclaim as well as commercial success; however, Mark Zuckerberg says that the film is a largely inaccurate account of what happened."
+      "text": "The Social Network, a film about the beginnings of Facebook directed by David Fincher is released. The film is met with widespread critical acclaim as well as commercial success; however, <a href='' data-person='0'>Mark Zuckerberg</a> says that the film is a largely inaccurate account of what happened."
     },
     {
       "date": "2011-01-01",
@@ -346,12 +378,12 @@
     {
       "date": "2014-01-30",
       "image": "http://cdn.timesofisrael.com/uploads/2013/08/facebook.jpg",
-      "text": "On January 30, Facebook announces Facebook Paper, a separate iOS app that provides a newspaper-like or magazine-like experience for reading on the phone, scheduled for launch on February 3. Facebook also announces Facebook Creative Labs, an intra-company effort to have separate teams working on separate mobile apps that specialize in different facets related to the Facebook experience, rather than trying to make changes to Facebook's main web version, mobile version, or its iOS and Android apps, and says that Facebook Paper is the first product of Facebook Creative Labs. Facebook Paper receives mixed reviews, and some commentators note its similarity with Flipboard."
+      "text": "On January 30, Facebook announces Facebook Paper, a separate iOS app that provides a newspaper-like or magazine-like experience for reading on the phone, scheduled for launch on February 3. Facebook also announces Facebook Creative Labs, an intra-company effort to have separate teams working on separate mobile apps that specialize in different facets related to the Facebook experience."
     },
     {
       "date": "2014-02-04",
       "image": "http://cdn.timesofisrael.com/uploads/2013/08/facebook.jpg",
-      "text": "Facebook marks the ten-year anniversary of its launch (February 4, 2004), and Mark Zuckerberg writes a public post about why he is proud of Facebook so far. The Pew Research Center releases a report about increasing Facebook usage by adults to mark the occasion. Many other commentators write articles about Facebook to honor the occasion. On February 4, on the occasion of its tenth anniversary, Facebook introduces its Look Back feature that creates an automated video for each person looking back on the person's life as recorded on Facebook. On February 7, Facebook adds the ability to edit the Look Back videos."
+      "text": "Facebook marks the ten-year anniversary of its launch (February 4, 2004), and <a href='' data-person='0'>Mark Zuckerberg</a> writes a public post about why he is proud of Facebook so far. The Pew Research Center releases a report about increasing Facebook usage by adults to mark the occasion.  On February 4, on the occasion of its tenth anniversary, Facebook introduces its Look Back feature that creates an automated video for each person looking back on the person's life as recorded on Facebook."
     },
     {
       "date": "2014-02-13",
@@ -361,7 +393,7 @@
     {
       "date": "2014-02-19",
       "image": "http://cdn.timesofisrael.com/uploads/2013/08/facebook.jpg",
-      "text": "Facebook announces that it is acquiring the Sequoia Capital-backed multi-platform mobile messaging app WhatsApp for $16 billion USD ($4 billion in cash, $12 billion in Facebook shares) plus an additional $3 billion in restricted stock units to be granted to WhatsApp’s founders and employees that will vest over four years subsequent to closing. . According to the announcement, WhatsApp will continue to operate independently, Facebook will continue developing Facebook Messenger, and WhatsApp CEO Jan Koum will join the Facebook Board of Directors. On February 24, in a keynote address to the Mobile World Congress in Barcelona, Zuckerberg says that the WhatsApp acquisition is part of the Internet.org vision."
+      "text": "Facebook announces that it is acquiring the Sequoia Capital-backed multi-platform mobile messaging app WhatsApp for $16 billion USD ($4 billion in cash, $12 billion in Facebook shares) plus an additional $3 billion in restricted stock units to be granted to WhatsApp’s founders and employees that will vest over four years subsequent to closing."
     },
     {
       "date": "2014-03-03",
@@ -411,12 +443,12 @@
     {
       "date": "2014-09-15",
       "image": "http://cdn.timesofisrael.com/uploads/2013/08/facebook.jpg",
-      "text": "Facebook cracks down on the Facebook profiles of drag queens in San Francisco, asking them to switch to using their real names, and shutting down the accounts of those who refuse to comply. There is considerable pushback, including a planned protest at Facebook headquarters, that is delayed for a meeting with Facebook, but Facebook refuses to budge on its policy. Many people, particularly those in or sympathetic to the LGBTQ community, sign up for competing social network Ello, that does not enforce a real names policy, promises to remain \"ad-free and porn-friendly\", and aims to have a zero-tolerance policy for hate speech. On October 1, Facebook announced a clarification to its real name policy and said that drag queens could continue operating their accounts. The company clarified that people should use their authentic real-world names but need not use their legal names."
+      "text": "Facebook cracks down on the Facebook profiles of drag queens in San Francisco, asking them to switch to using their real names, and shutting down the accounts of those who refuse to comply. There is considerable pushback, including a planned protest at Facebook headquarters, that is delayed for a meeting with Facebook, but Facebook refuses to budge on its policy."
     },
     {
       "date": "2014-10-06",
       "image": "http://cdn.timesofisrael.com/uploads/2013/08/facebook.jpg",
-      "text": "Facebook officially completes the acquisition of WhatsApp, and WhatsApp CEO Jan Koum agrees to match Mark Zuckerberg's $1 salary."
+      "text": "Facebook officially completes the acquisition of WhatsApp, and WhatsApp CEO Jan Koum agrees to match <a href='' data-person='0'>Mark Zuckerberg</a>'s $1 salary."
     },
     {
       "date": "2014-10-23",
@@ -441,7 +473,7 @@
     {
       "date": "2014-12-11",
       "image": "http://cdn.timesofisrael.com/uploads/2013/08/facebook.jpg",
-      "text": "Facebook CEO Mark Zuckerberg holds his second Q&A, open to the public, about Facebook, where he discusses the dislike button and Facebook's role in promoting viewpoint diversity, helping people share more, and facilitating social and political transparency."
+      "text": "Facebook CEO <a href='' data-person='0'>Mark Zuckerberg</a> holds his second Q&A, open to the public, about Facebook, where he discusses the dislike button and Facebook's role in promoting viewpoint diversity, helping people share more, and facilitating social and political transparency."
     },
     {
       "date": "2015-01-05",
@@ -471,7 +503,7 @@
     {
       "date": "2015-03-25",
       "image": "http://cdn.timesofisrael.com/uploads/2013/08/facebook.jpg",
-      "text": "At the first day of the 2015 F8 conference (a conference for Facebook to make announcements about major product and service changes), the company makes a bunch of announcements, with the unifying theme being that the company wants to be an integrated bunch of apps, each fulfilling a somewhat different role. Currently, the company's leading apps include its main app, Messenger, and externally built and acquired apps such as Instagram and WhatsApp. Specific announcements include making Facebook Messenger more of a platform, a new real-time comments system, embeddable videos, spherical video, Parse for the Internet of Things, updates to ad exchange LiveRail, and analytics for apps."
+      "text": "At the first day of the 2015 F8 conference (a conference for Facebook to make announcements about major product and service changes), the company makes a bunch of announcements, with the unifying theme being that the company wants to be an integrated bunch of apps, each fulfilling a somewhat different role. Currently, the company's leading apps include its main app, Messenger, and externally built and acquired apps such as Instagram and WhatsApp."
     },
     {
       "date": "2015-03-26",
@@ -486,12 +518,12 @@
     {
       "date": "2015-04-22",
       "image": "http://cdn.timesofisrael.com/uploads/2013/08/facebook.jpg",
-      "text": "Facebook launches an Android app called Hello to instantly matches phone numbers of incoming and outgoing calls to Facebook profiles to show information about the caller/callee, block calls from commonly blocked numbers, and search for businesses to call, with initial rollout in the United States, Brazil, and Nigeria. There is no corresponding iOS app, because iOS does not allow apps to interact with phone calls. Commentators compare Facebook Hello to the native Android dialer app and to TrueCaller, an app with crowdsourced data."
+      "text": "Facebook launches an Android app called Hello to instantly matches phone numbers of incoming and outgoing calls to Facebook profiles to show information about the caller/callee, block calls from commonly blocked numbers, and search for businesses to call, with initial rollout in the United States, Brazil, and Nigeria. There is no corresponding iOS app, because iOS does not allow apps to interact with phone calls. "
     },
     {
       "date": "2015-05-12",
       "image": "http://cdn.timesofisrael.com/uploads/2013/08/facebook.jpg",
-      "text": "Facebook launches \"Instant Articles\" for Publishers. Publishers who use Instant Articles can opt in to have some of their articles shown to mobile users inside Facebook's app itself, without users having to leave the app and visit the customer's website. Initial launch partners include BuzzFeed, the New York Times, National Geographic and six others. The article as displayed on Facebook mimics the article on the website in terms of layout, and Instant Articles allows for correct attribution and analytics with tools such as Google Analytics, Omniture, and Comscore, in addition to publishers benefiting from Facebook's own analytics. Publishers can choose to have only a subset of their content available as Instant Articles, and Facebook handles the porting of the article to the Instant Article format itself. BuzzFeed praised Facebook for complying with its requests for compatibility with analytics tracking, and said the process was very collaborative throughout. Load times are claimed to be ten times faster than the mobile web. Publishers can keep all the ad revenue if using their own ads, but Facebook gets a 30% cut if the ads are shown by Facebook."
+      "text": "Facebook launches \"Instant Articles\" for Publishers. Publishers who use Instant Articles can opt in to have some of their articles shown to mobile users inside Facebook's app itself, without users having to leave the app and visit the customer's website. Initial launch partners include BuzzFeed, the New York Times, National Geographic and six others. The article as displayed on Facebook mimics the article on the website in terms of layout, and Instant Articles allows for correct attribution and analytics with tools such as Google Analytics, Omniture, and Comscore, in addition to publishers benefiting from Facebook's own analytics. "
     },
     {
       "date": "2015-05-29",

@@ -1,4 +1,6 @@
 //= require jquery
+//= require vendor/webui.popover
+//= require vendor/mustache
 //= require underscore
 //= require bespoke.js.js
 //= require momentjs
