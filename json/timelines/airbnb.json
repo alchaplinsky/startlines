@@ -7,16 +7,42 @@
     "description": "Explore history of Airbnb startup. How 3 guys got from renting air mattresses to a $10 billion dollar company.",
     "keywords": "airbnb, startup, timeline, rent, airbed, company, success"
   },
+  "people": [
+    {
+      "image": "/images/people/chesky.jpg",
+      "name": "Brian Chesky",
+      "title": "CEO and Co-founder of Airbnb",
+      "birthdate": "1981-08-29"
+    },
+    {
+      "image": "/images/people/gebbia.jpg",
+      "name": "Joe Gebbia",
+      "title": "Designer, Entrepreneur",
+      "birthdate": "1981-08-21"
+    },
+    {
+      "image": "/images/people/blecharczyk.jpg",
+      "name": "Nathan Blecharczyk",
+      "title": "Chief Technology Officer of Airbnb",
+      "birthdate": "1984-08-21"
+    },
+    {
+      "image": "/images/people/graham.jpg",
+      "name": "Paul Graham",
+      "title": "Co-founder of the Y Combinator",
+      "birthdate": "1964-11-13"
+    }
+  ],
   "entries": [
     {
       "date": "2007-10-01",
       "image": "",
-      "text": "Brian Chesky and Joe Gebbia create the initial concept for AirBed & Breakfast during the Industrial Design Conference held by Industrial Designers Society of America. The original site offers short-term living quarters, breakfast and a unique business networking opportunity for attendees who were unable to book a hotel in the saturated market. Chesky and Gebbia themselves use Airbnb to help meet the rent for their loft in San Francisco."
+      "text": "<a href='' data-person='0'>Brian Chesky</a> and <a href='' data-person='1'>Joe Gebbia</a> create the initial concept for AirBed & Breakfast during the Industrial Design Conference held by Industrial Designers Society of America. The original site offers short-term living quarters, breakfast and a unique business networking opportunity for attendees who were unable to book a hotel in the saturated market. Chesky and Gebbia themselves use Airbnb to help meet the rent for their loft in San Francisco."
     },
     {
       "date": "2008-02-01",
       "image": "",
-      "text": "Harvard University graduate and technical architect Nathan Blecharczyk joins as the third co-founder of AirBed & Breakfast."
+      "text": "Harvard University graduate and technical architect <a href='' data-person='2'>Nathan Blecharczyk</a> joins as the third co-founder of AirBed & Breakfast."
     },
     {
       "date": "2008-08-11",
@@ -31,7 +57,7 @@
     {
       "date": "2009-01-01",
       "image": "",
-      "text": "Airbnb is accepted into Y Combinator's Winter 2009 batch and receives $20,000 in funding. Y Combinator co-founder Paul Graham says that even though he is not a fan of Airbnb's idea, he is impressed by their creative methods for bootstrapping their funding situation by selling cereal."
+      "text": "Airbnb is accepted into Y Combinator's Winter 2009 batch and receives $20,000 in funding. Y Combinator co-founder <a href='' data-person='3'>Paul Graham</a> says that even though he is not a fan of Airbnb's idea, he is impressed by their creative methods for bootstrapping their funding situation by selling cereal."
     },
     {
       "date": "2009-03-01",
@@ -41,7 +67,7 @@
     {
       "date": "2010-06-21",
       "image": "",
-      "text": "In response to increasing overcrowding at his residence, that is doubling up as an Airbnb office, co-founder and CEO Brian Chesky decides to move out of his apartment and live using Airbnb for a few months."
+      "text": "In response to increasing overcrowding at his residence, that is doubling up as an Airbnb office, co-founder and CEO <a href='' data-person='0'>Brian Chesky</a> decides to move out of his apartment and live using Airbnb for a few months."
     },
     {
       "date": "2010-11-01",
@@ -56,7 +82,7 @@
     {
       "date": "2011-03-16",
       "image": "",
-      "text": "Venture capitalist Fred Wilson publishes a blog post saying that his firm's decision not to invest in Airbnb was a mistake. The next day, Y Combinator co-founder Paul Graham publishes (with permission) correspondence between himself and Fred Wilson about the possibility of Wilson investing in Airbnb."
+      "text": "Venture capitalist Fred Wilson publishes a blog post saying that his firm's decision not to invest in Airbnb was a mistake. The next day, Y Combinator co-founder <a href='' data-person='3'>Paul Graham</a> publishes (with permission) correspondence between himself and Fred Wilson about the possibility of Wilson investing in Airbnb."
     },
     {
       "date": "2011-05-25",
@@ -71,7 +97,7 @@
     {
       "date": "2011-06-29",
       "image": "",
-      "text": "A woman, writing online under the name EJ, wrote on her blog that she had rented her apartment out using Airbnb and found that it was completely trashed with many of her valuable personal items stolen. The post was picked up on Hacker News and by Michael Arrington for TechCrunch. Airbnb investor Paul Graham wrote a note defending Airbnb and critical of Arrington, which received media circulation and criticism. On August 1, Airbnb CEO Brian Chesky wrote a blog post apologizing for Airbnb's initially tepid response, and announcing a suite of features as part of the new Airbnb Safety Program: Airbnb Guarantee of $50,000 for hosts such as EJ who report property damage, a 24-hour customer hotline, a doubling of customer support, and more responsiveness to customer concerns."
+      "text": "A woman, writing online under the name EJ, wrote on her blog that she had rented her apartment out using Airbnb and found that it was completely trashed with many of her valuable personal items stolen. The post was picked up on Hacker News and by Michael Arrington for TechCrunch. Airbnb investor <a href='' data-person='3'>Paul Graham</a> wrote a note defending Airbnb and critical of Arrington, which received media circulation and criticism."
     },
     {
       "date": "2011-07-24",
@@ -79,9 +105,13 @@
       "text": "Airbnb raises $112 million in additional funding. The investment round is led by Andreessen Horowitz and other investors include DST Global Solutions and General Catalyst Partners."
     },
     {
+      "date": "2011-08-01",
+      "text": " Airbnb CEO <a href='' data-person='0'>Brian Chesky</a> wrote a blog post apologizing for Airbnb's initially tepid response to EJ, and announcing a suite of features as part of the new Airbnb Safety Program: Airbnb Guarantee of $50,000 for hosts such as EJ who report property damage, a 24-hour customer hotline, a doubling of customer support, and more responsiveness to customer concerns."
+    },
+    {
       "date": "2011-10-01",
       "image": "",
-      "text": "An email allegedly written by Chamath Palihapitiya to Airbnb CEO Brian Chesky, that was critical of the manner in which Airbnb was structuring its funding round, is leaked to Kara Swisher of AllThingsD. A follow-up reveals that new aspects of the deal are in development that might alleviate some of the concerns expressed by Palihapitiya, and he is reconsidering his decision not to invest in the funding round. He also expressed regret about the email being leaked, and he said that he was not responsible for the leak."
+      "text": "An email allegedly written by Chamath Palihapitiya to Airbnb CEO <a href='' data-person='0'>Brian Chesky</a>, that was critical of the manner in which Airbnb was structuring its funding round, is leaked to Kara Swisher of AllThingsD. A follow-up reveals that new aspects of the deal are in development that might alleviate some of the concerns expressed by Palihapitiya, and he is reconsidering his decision not to invest in the funding round. He also expressed regret about the email being leaked, and he said that he was not responsible for the leak."
     },
     {
       "date": "2011-10-01",
