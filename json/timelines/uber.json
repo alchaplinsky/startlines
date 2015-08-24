@@ -1,11 +1,25 @@
 {
   "name": "Uber",
   "color": "#252534",
+  "people": [
+    {
+      "image": "/images/people/kalanick.jpg",
+      "name": "Travis Kalanick",
+      "title": "Founder & CEO of Uber",
+      "birthdate": "1976-08-06"
+    },
+    {
+      "image": "/images/people/camp.jpg",
+      "name": "Garrett Camp",
+      "title": "Founder & Chairman at Uber",
+      "birthdate": "1978-10-04"
+    }
+  ],
   "entries": [
     {
       "date": "2009-03-01",
       "image": "",
-      "text": "Uber founded as UberCab. "
+      "text": "Uber was founded as \"UberCab\" by <a href='' data-person='0'>Travis Kalanick</a> and <a href='' data-person='1'>Garrett Camp</a> in 2009 and the app."
     },
     {
       "date": "2010-07-01",

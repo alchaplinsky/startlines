@@ -1,6 +1,26 @@
 {
   "name": "Twitter",
   "color": "#55ACEE",
+  "people": [
+    {
+      "image": "/images/people/dorsey.jpg",
+      "name": "Jack Dorsey",
+      "title": "Computer programmer, Entrepreneur",
+      "birthdate": "1976-11-19"
+    },
+    {
+      "image": "/images/people/williams.jpg",
+      "name": "Evan Williams",
+      "title": "Internet Entrepreneur",
+      "birthdate": "1972-03-31"
+    },
+    {
+      "image": "/images/people/stone.jpg",
+      "name": "Biz Stone",
+      "title": "Software engineer, Businessperson",
+      "birthdate": "1974-03-10"
+    }
+  ],
   "entries": [
     {
      "date": "2004-01-01",
@@ -15,7 +35,7 @@
     {
      "date": "2006-02-26",
      "image": "http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg",
-     "text": "Jack Dorsey, Noah Glass, Evan Williams and Biz Stone discuss the idea of using text messaging to share statuses, and decide to work on the project. The original idea is attributed to Jack Dorsey, and called the status concept."
+     "text": "<a href='' data-person='0'>Jack Dorsey</a>, Noah Glass, <a href='' data-person='1'>Evan Williams</a> and <a href='' data-person='2'>Biz Stone</a> discuss the idea of using text messaging to share statuses, and decide to work on the project. The original idea is attributed to <a href='' data-person='0'>Jack Dorsey</a>, and called the status concept."
     },
     {
      "date": "2006-03-01",
@@ -25,7 +45,7 @@
     {
      "date": "2006-03-21",
      "image": "http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg",
-     "text": "Twitter is officially set up and Jack Dorsey sends the first tweet."
+     "text": "Twitter is officially set up and <a href='' data-person='0'>Jack Dorsey</a> sends the first tweet."
     },
     {
      "date": "2006-07-15",
@@ -75,7 +95,7 @@
     {
      "date": "2008-10-16",
      "image": "http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg",
-     "text": "It is announced that Jack Dorsey has stepped down from the CEO role at Twitter, and Evan Williams takes over."
+     "text": "It is announced that <a href='' data-person='0'>Jack Dorsey</a> has stepped down from the CEO role at Twitter, and Evan Williams takes over."
     },
     {
      "date": "2009-02-13",
@@ -285,7 +305,7 @@
     {
      "date": "2015-06-11",
      "image": "http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3017331-poster-5-poster.jpg",
-     "text": "Dick Costolo steps down as CEO, co-founder Jack Dorsey returns as interim CEO. Costolo will remain on the Board. Shares are up 3% on the announcement."
+     "text": "Dick Costolo steps down as CEO, co-founder <a href='' data-person='0'>Jack Dorsey</a> returns as interim CEO. Costolo will remain on the Board. Shares are up 3% on the announcement."
     },
     {
      "date": "2015-06-17",
