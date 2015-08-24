@@ -16,6 +16,11 @@
     <meta property="og:image" content="http://www.startlin.es//images/startlines-af2e1732.jpg" />
     <link rel="icon" type="image/png" href="/images/favicon-c9011989.png" />
     <meta name="google-site-verification" content="PW-SxBcj7cCfBKXUXTmLkCVg1M83Te1f6OlzptbJofU" />
+    <style>
+        .header { background: #56B68B;}
+  article .date, article a { color: #56B68B;}
+
+    </style>
     <script src='https://cdn.firebase.com/js/client/2.2.1/firebase.js'></script>
     <script>
     !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
@@ -30,16 +35,14 @@
     <noscript><img height="1" width="1" style="display:none"
     src="https://www.facebook.com/tr?id=464168330414459&ev=PageView&noscript=1"
     /></noscript>
-    <link href="/stylesheets/application-03f5a989.css" rel="stylesheet" />
-    <script src="/javascripts/application-11900b27.js"></script>
+    <link href="/stylesheets/application-a3caeca7.css" rel="stylesheet" />
+    <script src="/javascripts/application-abdee4e9.js"></script>
   </head>
 
   <body class="timelines timelines_slack timelines_slack_index">
-    
-
-<div class='background blured' style=""></div>
+    <div class='background blured'></div>
 <div class="content">
-  <div class="header" style="background: #56B68B">
+  <div class="header">
     <div class="container row">
       <a class="icon-options" href="/timelines"></a>
       <div class="name">Slack</div>
@@ -55,7 +58,7 @@
   <div id="main">
     <article id="timeline">
         <section>
-          <div class="date" style="color: #56B68B">
+          <div class="date">
             01 August, 2013
           </div>
           <div class="details">
@@ -63,7 +66,7 @@
           </div>
         </section>
         <section>
-          <div class="date" style="color: #56B68B">
+          <div class="date">
             01 April, 2014
           </div>
           <div class="details">
@@ -71,7 +74,7 @@
           </div>
         </section>
         <section>
-          <div class="date" style="color: #56B68B">
+          <div class="date">
             01 October, 2014
           </div>
           <div class="details">
@@ -79,7 +82,7 @@
           </div>
         </section>
         <section>
-          <div class="date" style="color: #56B68B">
+          <div class="date">
             01 January, 2015
           </div>
           <div class="details">
@@ -87,7 +90,7 @@
           </div>
         </section>
         <section>
-          <div class="date" style="color: #56B68B">
+          <div class="date">
             01 February, 2015
           </div>
           <div class="details">
@@ -95,7 +98,7 @@
           </div>
         </section>
         <section>
-          <div class="date" style="color: #56B68B">
+          <div class="date">
             01 March, 2015
           </div>
           <div class="details">
@@ -103,7 +106,7 @@
           </div>
         </section>
         <section>
-          <div class="date" style="color: #56B68B">
+          <div class="date">
             18 March, 2015
           </div>
           <div class="details">
@@ -111,7 +114,7 @@
           </div>
         </section>
         <section>
-          <div class="date" style="color: #56B68B">
+          <div class="date">
             01 April, 2015
           </div>
           <div class="details">
@@ -119,7 +122,7 @@
           </div>
         </section>
         <section>
-          <div class="date" style="color: #56B68B">
+          <div class="date">
             01 July, 2015
           </div>
           <div class="details">
@@ -141,9 +144,26 @@
   </div>
 </div>
 
+<script id="person" type="x-tmpl-mustache">
+  <div class="person">
+    <div class="left">
+      <img src="{{image}}" alt="{{name}}" />
+    </div>
+    <div class="last-col">
+      <strong>{{name}}</strong><br />
+      <small class="muted">{{title}}</small><br />
+      <small>{{age}} years old</small>
+    </div>
+  </div>
+</script>
+
 <script type="text/javascript">
 $(document).ready(function(){
-  timeline = new Timeline(["2013-08-01","2014-04-01","2014-10-01","2015-01-01","2015-02-01","2015-03-01","2015-03-18","2015-04-01","2015-07-01"], '#56B68B')
+  timeline = new Timeline(
+    ["2013-08-01","2014-04-01","2014-10-01","2015-01-01","2015-02-01","2015-03-01","2015-03-18","2015-04-01","2015-07-01"],
+    null,
+    '#56B68B'
+  )
   shares = new Share('http://www.startlin.es/timelines/slack')
 });
 </script>
