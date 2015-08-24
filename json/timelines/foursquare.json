@@ -6,11 +6,25 @@
     "description": "Timeline of Foursquare foundation and growth. Search and discovery mobile app founded by Dennis Crowley and Naveen Selvadurai",
     "keywords": "foursquare, startup, application, mobile, places, timeline, history"
   },
+  "people": [
+    {
+      "image": "/images/people/crowley.jpg",
+      "name": "Dennis Crowley",
+      "title": "Co-founder of Dodgeball and Foursquare",
+      "birthdate": "1976-06-19"
+    },
+    {
+      "image": "/images/people/selvadurai.jpg",
+      "name": "Naveen Selvadurai",
+      "title": "Co-founder of Foursquare",
+      "birthdate": "1982-01-27"
+    }
+  ],
   "entries": [
     {
       "date": "2009-03-23",
       "image": "",
-      "text": "The service was created in late 2008 and launched in 2009 on March 23 by Dennis Crowley and Naveen Selvadurai."
+      "text": "The service was created in late 2008 and launched in 2009 on March 23 by <a href='' data-person='0'>Dennis Crowley</a> and <a href='' data-person='1'>Naveen SelvaduraiM</a>."
     },
     {
       "date": "2010-01-01",

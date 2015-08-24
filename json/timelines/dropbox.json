@@ -6,21 +6,30 @@
     "description": "History of creation of Dropbox one of the hottest tech startups that keeps your files safe, synced, and easy to share",
     "keywords": "dropbox, drew houston, startup, files, tech, timeline, history"
   },
+  "people": [
+    {
+      "image": "/images/people/houston.jpg",
+      "name": "Drew Houston",
+      "title": "Co-founder and CEO of Dropbox",
+      "birthdate": "1983-03-04"
+    },
+    {
+      "image": "/images/people/ferdowsi.jpg",
+      "name": "Arash Ferdowsi",
+      "title": "Co-Founder and CTO, Dropbox",
+      "birthdate": "1985-10-07"
+    }
+  ],
   "entries": [
     {
       "date": "2007-06-01",
       "image": "",
-      "text": "Drew Houston began making something for his personal use, but then realized that it could benefit others with the same problems. Houston founded Dropbox, Inc. in June 2007, and shortly thereafter secured seed funding from Y Combinator."
+      "text": "<a href='' data-person='0'>Drew Houston</a> began making something for his personal use, but then realized that it could benefit others with the same problems. Houston founded Dropbox, Inc. in June 2007, and shortly thereafter secured seed funding from Y Combinator."
     },
     {
       "date": "2008-09-08",
       "image": "",
-      "text": "Dropbox officially launched at 2008's TechCrunch50, an annual technology conference."
-    },
-    {
-      "date": "2008-09-08",
-      "image": "",
-      "text": "Dropbox officially launched at 2008's TechCrunch50, an annual technology conference. Owing to trademark disputes between Proxy, Inc. and Evenflow (Dropbox's parent company), Dropbox's official domain name was \"getdropbox.com\"."
+      "text": "Dropbox officially launched at 2008's TechCrunch50, an annual technology conference by MIT students <a href='' data-person='0'>Drew Houston</a> and <a href='' data-person='1'>Arash Ferdowsi</a>. Owing to trademark disputes between Proxy, Inc. and Evenflow (Dropbox's parent company), Dropbox's official domain name was \"getdropbox.com\"."
     },
     {
       "date": "2009-10-08",
