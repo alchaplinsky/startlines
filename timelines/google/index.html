@@ -36,7 +36,7 @@
     src="https://www.facebook.com/tr?id=464168330414459&ev=PageView&noscript=1"
     /></noscript>
     <link href="/stylesheets/application-a3caeca7.css" rel="stylesheet" />
-    <script src="/javascripts/application-abdee4e9.js"></script>
+    <script src="/javascripts/application-20c86030.js"></script>
   </head>
 
   <body class="timelines timelines_google timelines_google_index">
@@ -62,7 +62,7 @@
             01 January, 1996
           </div>
           <div class="details">
-            Larry Page and Sergey Brin, graduate students in computer science at Stanford University, begin working on BackRub, the precursor to Google Search. Page begins work alone initially, supported by a National Science Foundation Graduate Fellowship, and Brin joins him shortly thereafter. The project is an outgrowth of their work on the Stanford Digital Library Project. Web crawling begins in March.
+            <a href='' data-person='0'>Larry Page</a> and <a href='' data-person='1'>Sergey Brin</a>, graduate students in computer science at Stanford University, begin working on BackRub, the precursor to Google Search. Page begins work alone initially, supported by a National Science Foundation Graduate Fellowship, and Brin joins him shortly thereafter. The project is an outgrowth of their work on the Stanford Digital Library Project. Web crawling begins in March.
           </div>
         </section>
         <section>
@@ -843,7 +843,9 @@ Google quietly rolls out Panda 3.5 (April 19) and Panda 3.6 (April 27), with min
     <div class="last-col">
       <strong>{{name}}</strong><br />
       <small class="muted">{{title}}</small><br />
+      {{#age}}
       <small>{{age}} years old</small>
+      {{/age}}
     </div>
   </div>
 </script>
@@ -852,7 +854,7 @@ Google quietly rolls out Panda 3.5 (April 19) and Panda 3.6 (April 27), with min
 $(document).ready(function(){
   timeline = new Timeline(
     ["1996-01-01","1997-09-15","2000-05-09","2000-09-12","2000-10-01","2000-12-01","2001-07-01","2001-12-01","2002-09-01","2002-09-01","2003-02-01","2003-04-01","2003-05-01","2003-06-01","2003-07-01","2003-09-01","2003-11-01","2003-12-01","2004-01-01","2004-02-17","2004-10-01","2004-12-01","2005-01-01","2005-02-02","2005-05-01","2005-06-01","2005-06-01","2005-06-01","2005-09-01","2005-09-01","2005-12-01","2006-05-01","2007-05-16","2007-06-01","2008-04-01","2008-08-25","2009-02-01","2009-02-01","2009-08-10","2009-10-26","2009-12-07","2010-04-30","2010-09-08","2010-11-09","2010-12-01","2010-12-01","2011-01-01","2011-01-28","2011-01-30","2011-03-30","2011-04-11","2011-05-09","2011-06-02","2011-06-21","2011-07-23","2011-08-12","2011-08-16","2011-09-15","2011-09-30","2011-10-18","2011-11-03","2011-11-14","2011-11-18","2012-01-05","2012-01-10","2012-01-19","2012-02-27","2012-03-23","2012-04-24","2012-05-16","2012-05-25","2012-06-01","2012-08-10","2012-09-27","2012-09-27","2012-10-05","2012-11-21","2012-12-04","2012-03-13","2013-05-22","2013-08-06","2013-08-21","2013-10-04","2014-05-16","2014-05-20","2014-07-24","2014-08-06","2014-08-28","2014-09-23","2014-10-17","2014-10-21","2014-12-10","2014-12-22","2015-02-04","2015-04-21"],
-    null,
+    [{"image":"/images/people/page-ab834ffb.jpg","name":"Larry Page","title":"CEO of Alphabet, Co-Founder of Google","birthdate":"1973-03-26"},{"image":"/images/people/brin-dd24dbcf.jpg","name":"Sergey Brin","title":"Co-Founder of Google","birthdate":"1973-08-23"}],
     '#CC3732'
   )
   shares = new Share('http://www.startlin.es/timelines/google')

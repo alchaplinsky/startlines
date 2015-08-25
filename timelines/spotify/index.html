@@ -36,7 +36,7 @@
     src="https://www.facebook.com/tr?id=464168330414459&ev=PageView&noscript=1"
     /></noscript>
     <link href="/stylesheets/application-a3caeca7.css" rel="stylesheet" />
-    <script src="/javascripts/application-abdee4e9.js"></script>
+    <script src="/javascripts/application-20c86030.js"></script>
   </head>
 
   <body class="timelines timelines_spotify timelines_spotify_index">
@@ -62,7 +62,7 @@
             07 October, 2008
           </div>
           <div class="details">
-            The Spotify application launched on 7 October 2008. While free accounts remained available by invitation to manage the growth of the service, the launch opened paid subscriptions to everyone. At the same time, Spotify AB announced licensing deals with major music labels.
+            The Spotify was founded by <a href='' data-person='0'>Daniel Ek</a> and <a href='' data-person='1'>Martin Lorentzon</a> and application was launched on 7 October 2008. While free accounts remained available by invitation to manage the growth of the service, the launch opened paid subscriptions to everyone. At the same time, Spotify AB announced licensing deals with major music labels.
           </div>
         </section>
         <section>
@@ -296,7 +296,9 @@
     <div class="last-col">
       <strong>{{name}}</strong><br />
       <small class="muted">{{title}}</small><br />
+      {{#age}}
       <small>{{age}} years old</small>
+      {{/age}}
     </div>
   </div>
 </script>
@@ -305,7 +307,7 @@
 $(document).ready(function(){
   timeline = new Timeline(
     ["2008-10-07","2009-02-10","2009-03-04","2009-12-24","2010-01-28","2010-02-01","2010-05-18","2011-03-01","2011-03-25","2011-04-15","2011-06-17","2011-07-14","2011-11-30","2012-03-29","2012-08-01","2012-11-25","2013-03-19","2013-04-05","2013-04-16","2013-12-11","2014-03-06","2014-03-25","2014-06-01","2015-01-28","2015-04-01","2015-06-01","2015-07-01"],
-    null,
+    [{"image":"/images/people/ek-c47db1d6.jpg","name":"Daniel Ek","title":"Co-founder of Spotify","birthdate":"1983-02-21"},{"image":"/images/people/lorentzon-8b235ff9.jpg","name":"Martin Lorentzon","title":"Co-founder of Spotify","birthdate":"1969-04-01"}],
     '#2EBD59'
   )
   shares = new Share('http://www.startlin.es/timelines/spotify')

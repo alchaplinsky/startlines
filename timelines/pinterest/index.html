@@ -36,7 +36,7 @@
     src="https://www.facebook.com/tr?id=464168330414459&ev=PageView&noscript=1"
     /></noscript>
     <link href="/stylesheets/application-a3caeca7.css" rel="stylesheet" />
-    <script src="/javascripts/application-abdee4e9.js"></script>
+    <script src="/javascripts/application-20c86030.js"></script>
   </head>
 
   <body class="timelines timelines_pinterest timelines_pinterest_index">
@@ -62,7 +62,7 @@
             01 August, 2008
           </div>
           <div class="details">
-            Paul Sciarra quits his job at New York venture capital firm Radius Capital, and Ben Silbermann quits his job at Google, and the two together found Cold Brew Labs.
+            <a href='' data-person='0'>Paul Sciarra</a> quits his job at New York venture capital firm Radius Capital, and <a href='' data-person='1'>Ben Silbermann</a> quits his job at Google, and the two together found Cold Brew Labs.
           </div>
         </section>
         <section>
@@ -78,7 +78,7 @@
             01 November, 2009
           </div>
           <div class="details">
-            Pinterest is conceptualized by co-founders Ben Silbermann, Evan Sharp, and Paul Sciarra.
+            Pinterest is conceptualized by co-founders <a href='' data-person='1'>Ben Silbermann</a>, <a href='' data-person='2'>Evan Sharp</a>, and <a href='' data-person='0'>Paul Sciarra</a>.
           </div>
         </section>
         <section>
@@ -102,7 +102,7 @@
             15 March, 2010
           </div>
           <div class="details">
-            The company's investors and co-founder Ben Silbermann try to encourage a New York-based magazine publishing company to buy Pinterest but the publisher declines to meet with the founders.
+            The company's investors and co-founder <a href='' data-person='1'>Ben Silbermann</a> try to encourage a New York-based magazine publishing company to buy Pinterest but the publisher declines to meet with the founders.
           </div>
         </section>
         <section>
@@ -174,7 +174,7 @@
             13 March, 2012
           </div>
           <div class="details">
-            Pinterest co-founder Ben Silbermann appears on stage at the South by Southwest conference, and announces that revamped profile pages and other product improvements are on their way.
+            Pinterest co-founder <a href='' data-person='1'>Ben Silbermann</a> appears on stage at the South by Southwest conference, and announces that revamped profile pages and other product improvements are on their way.
           </div>
         </section>
         <section>
@@ -464,7 +464,9 @@
     <div class="last-col">
       <strong>{{name}}</strong><br />
       <small class="muted">{{title}}</small><br />
+      {{#age}}
       <small>{{age}} years old</small>
+      {{/age}}
     </div>
   </div>
 </script>
@@ -473,7 +475,7 @@
 $(document).ready(function(){
   timeline = new Timeline(
     ["2008-08-01","2009-01-01","2009-11-01","2010-01-01","2010-03-01","2010-03-15","2010-05-24","2010-05-31","2011-03-01","2011-05-07","2011-08-16","2011-10-07","2012-02-20","2012-03-01","2012-03-13","2012-03-23","2012-04-06","2012-02-01","2012-05-01","2012-05-17","2012-08-10","2012-08-14","2012-09-20","2012-10-14","2012-10-17","2013-01-03","2013-02-20","2013-03-20","2013-10-11","2013-10-23","2014-01-06","2014-04-24","2014-05-12","2014-05-15","2014-07-30","2014-08-26","2014-10-06","2014-12-28","2015-01-23","2015-01-27","2015-02-11","2015-03-16","2015-04-02","2015-04-03","2015-04-27","2015-05-04","2015-05-18","2015-06-02"],
-    null,
+    [{"image":"/images/people/sciarra-2fad5ebf.jpg","name":"Paul Sciarra","title":"Co-Founder of Pinterest","birthdate":""},{"image":"/images/people/silbermann-9e60556c.jpg","name":"Ben Silbermann","title":"CEO of Pinterest","birthdate":"1982-01-01"},{"image":"/images/people/sharp-6b8c1522.jpg","name":"Evan Sharp","title":"Co-Founder of Pinterest","birthdate":""}],
     '#CC2127'
   )
   shares = new Share('http://www.startlin.es/timelines/pinterest')
