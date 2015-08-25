@@ -1,11 +1,25 @@
 {
   "name": "Soundcloud",
   "color": "#F8630E",
+  "people": [
+    {
+      "image": "/images/people/ljung.jpg",
+      "name": "Alexander Ljung",
+      "title": "Co-founder of Soundcloud",
+      "birthdate": ""
+    },
+    {
+      "image": "/images/people/wahlforss.jpg",
+      "name": "Eric Wahlforss",
+      "title": "Co-founder of Soundcloud",
+      "birthdate": "1979-10-16"
+    }
+  ],
   "entries": [
     {
       "date": "2007-08-01",
       "image": "",
-      "text": "SoundCloud was originally founded in Stockholm, Sweden, but was established in Berlin in August 2007 by Swedish sound designer Ljung and Swedish artist Wahlforss."
+      "text": "SoundCloud was originally founded in Stockholm, Sweden, but was established in Berlin in August 2007 by Swedish sound designer <a href='' data-person='0'>Alexander Ljung</a> and Swedish artist <a href='' data-person='1'>Eric Wahlforss</a>."
     },
     {
       "date": "2007-10-01",

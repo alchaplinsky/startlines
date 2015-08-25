@@ -42,7 +42,8 @@ class window.Timeline
     getPerson = (e) =>
       index = $(e).data('person')
       person = @people[index]
-      person.age = moment().diff(moment(person.birthdate), 'years') if person.birthdate is not ''
+      person.age = moment().diff(moment(person.birthdate), 'years')
+      person.age = false if person.age is NaN
       template = $('#person').html()
       Mustache.render template, person
 
