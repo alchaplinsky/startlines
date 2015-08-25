@@ -1,11 +1,31 @@
 {
   "name": "Pinterest",
   "color": "#CC2127",
+  "people": [
+    {
+      "image": "/images/people/sciarra.jpg",
+      "name": "Paul Sciarra",
+      "title": "Co-Founder of Pinterest",
+      "birthdate": ""
+    },
+    {
+      "image": "/images/people/silbermann.jpg",
+      "name": "Ben Silbermann",
+      "title": "CEO of Pinterest",
+      "birthdate": "1982-01-01"
+    },
+    {
+      "image": "/images/people/sharp.jpg",
+      "name": "Evan Sharp",
+      "title": "Co-Founder of Pinterest",
+      "birthdate": ""
+    }
+  ],
   "entries": [
     {
       "date": "2008-08-01",
       "image": "",
-      "text": "Paul Sciarra quits his job at New York venture capital firm Radius Capital, and Ben Silbermann quits his job at Google, and the two together found Cold Brew Labs."
+      "text": "<a href='' data-person='0'>Paul Sciarra</a> quits his job at New York venture capital firm Radius Capital, and <a href='' data-person='1'>Ben Silbermann</a> quits his job at Google, and the two together found Cold Brew Labs."
     },
     {
       "date": "2009-01-01",
@@ -15,7 +35,7 @@
     {
       "date": "2009-11-01",
       "image": "",
-      "text": "Pinterest is conceptualized by co-founders Ben Silbermann, Evan Sharp, and Paul Sciarra."
+      "text": "Pinterest is conceptualized by co-founders <a href='' data-person='1'>Ben Silbermann</a>, <a href='' data-person='2'>Evan Sharp</a>, and <a href='' data-person='0'>Paul Sciarra</a>."
     },
     {
       "date": "2010-01-01",
@@ -30,7 +50,7 @@
     {
       "date": "2010-03-15",
       "image": "",
-      "text": "The company's investors and co-founder Ben Silbermann try to encourage a New York-based magazine publishing company to buy Pinterest but the publisher declines to meet with the founders."
+      "text": "The company's investors and co-founder <a href='' data-person='1'>Ben Silbermann</a> try to encourage a New York-based magazine publishing company to buy Pinterest but the publisher declines to meet with the founders."
     },
     {
       "date": "2010-05-24",
@@ -75,7 +95,7 @@
     {
       "date": "2012-03-13",
       "image": "",
-      "text": "Pinterest co-founder Ben Silbermann appears on stage at the South by Southwest conference, and announces that revamped profile pages and other product improvements are on their way."
+      "text": "Pinterest co-founder <a href='' data-person='1'>Ben Silbermann</a> appears on stage at the South by Southwest conference, and announces that revamped profile pages and other product improvements are on their way."
     },
     {
       "date": "2012-03-23",

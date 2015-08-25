@@ -42,7 +42,7 @@ class window.Timeline
     getPerson = (e) =>
       index = $(e).data('person')
       person = @people[index]
-      person.age = moment().diff(moment(person.birthdate), 'years')
+      person.age = moment().diff(moment(person.birthdate), 'years') if person.birthdate is not ''
       template = $('#person').html()
       Mustache.render template, person
 

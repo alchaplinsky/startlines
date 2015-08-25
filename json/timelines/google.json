@@ -1,11 +1,25 @@
 {
   "name": "Google",
   "color": "#CC3732",
+  "people": [
+    {
+      "image": "/images/people/page.jpg",
+      "name": "Larry Page",
+      "title": "CEO of Alphabet, Co-Founder of Google",
+      "birthdate": "1973-03-26"
+    },
+    {
+      "image": "/images/people/brin.jpg",
+      "name": "Sergey Brin",
+      "title": "Co-Founder of Google",
+      "birthdate": "1973-08-23"
+    }
+  ],
   "entries": [
     {
       "date": "1996-01-01",
       "image": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/7/21/1405956833229/c744014f-e7a5-4310-bf46-6ed18662b87e-2060x1236.jpeg",
-      "text": "Larry Page and Sergey Brin, graduate students in computer science at Stanford University, begin working on BackRub, the precursor to Google Search. Page begins work alone initially, supported by a National Science Foundation Graduate Fellowship, and Brin joins him shortly thereafter. The project is an outgrowth of their work on the Stanford Digital Library Project. Web crawling begins in March."
+      "text": "<a href='' data-person='0'>Larry Page</a> and <a href='' data-person='1'>Sergey Brin</a>, graduate students in computer science at Stanford University, begin working on BackRub, the precursor to Google Search. Page begins work alone initially, supported by a National Science Foundation Graduate Fellowship, and Brin joins him shortly thereafter. The project is an outgrowth of their work on the Stanford Digital Library Project. Web crawling begins in March."
     },
     {
       "date": "1997-09-15",
