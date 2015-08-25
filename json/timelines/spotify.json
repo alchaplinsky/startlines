@@ -2,11 +2,25 @@
   "name": "Spotify",
   "color": "#2EBD59",
   "image": "http://thenextweb.com/wp-content/blogs.dir/1/files/2011/07/Spotify1.jpg",
+  "people": [
+    {
+      "image": "/images/people/ek.jpg",
+      "name": "Daniel Ek",
+      "title": "Co-founder of Spotify",
+      "birthdate": "1983-02-21"
+    },
+    {
+      "image": "/images/people/lorentzon.jpg",
+      "name": "Martin Lorentzon",
+      "title": "Co-founder of Spotify",
+      "birthdate": "1969-04-01"
+    }
+  ],
   "entries": [
     {
       "date": "2008-10-07",
       "image": "",
-      "text": "The Spotify application launched on 7 October 2008. While free accounts remained available by invitation to manage the growth of the service, the launch opened paid subscriptions to everyone. At the same time, Spotify AB announced licensing deals with major music labels."
+      "text": "The Spotify was founded by <a href='' data-person='0'>Daniel Ek</a> and <a href='' data-person='1'>Martin Lorentzon</a> and application was launched on 7 October 2008. While free accounts remained available by invitation to manage the growth of the service, the launch opened paid subscriptions to everyone. At the same time, Spotify AB announced licensing deals with major music labels."
     },
     {
       "date": "2009-02-10",
