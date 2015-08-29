@@ -4,7 +4,7 @@ html, body
 
 body
   z-index: 2
-  background: #fff
+  background: #f7f7f7
   color: #333
   &.index
     color: #FFF
@@ -24,27 +24,62 @@ body
   background: rgba(9,9,9,.5)
 
 .logo
-  font-size: 28px
-  margin: 20px 0 0 25px
+  padding: 9px 0 7px 0
+  float: left
+  font-size: 1.4rem
   a
     text-decoration: none
     color: #333
     transition: color .2s ease
-    &:hover
-      color: #ffc107
   i
-    font-size: 32px
+    font-size: 22px
+    margin-right: 4px
     cursor: pointer
 
+.line
+  background: #f28238
+  height: 6px
+  position: relative
+  &:before, &:after
+    position: absolute
+    content: ''
+    display: block
+    height: 6px
+  &:before
+    left: 0
+    width: 40%
+    background: #e8341e
+  .color
+    position: relative
+    width: 35%
+    float: right
+    height: 6px
+    background: #7ac5af
+    &:before, &:after
+      position: absolute
+      content: ''
+      display: block
+      height: 6px
+    &:before
+      width: 25%
+      left: 0
+      background: #ffc107
+    &:after
+      width: 45%
+      right: 0
+      background: #00a1dd
+
 .header
-  position: fixed
   width: 100%
   z-index: 3
-  text-align: center
-  font-size: 1.4rem
-  color: #fff
-  padding: 10px
   font-weight: 500
+  background: #fff
+  box-shadow: 0 1px 2px rgba(100,100,100,.07)
+  &.brand
+    position: fixed
+    text-align: center
+    color: #fff
+    padding: 10px
   .container
     position: relative
   .icon-options

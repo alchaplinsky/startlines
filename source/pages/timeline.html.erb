@@ -7,12 +7,12 @@
   <% content_for :description, 'Timeline of creating '+ timeline[:name]+ '. Full history from the start till now.'%>
 <%end%>
 <% content_for :css do %>
-  .header { background: <%= timeline[:color]%>;}
+  .header.brand { background: <%= timeline[:color]%>;}
   article .date, article a { color: <%= timeline[:color]%>;}
 <%end%>
 <div class='background blured'></div>
 <div class="content">
-  <div class="header">
+  <div class="header brand">
     <div class="container row">
       <%= link_to '', '/timelines', class: 'icon-options'%>
       <div class="name"><%= timeline[:name]%></div>
