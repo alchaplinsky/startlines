@@ -1,6 +1,26 @@
 {
   "name": "Youtube",
   "background": "#CD201F",
+  "people": [
+    {
+      "image": "/images/people/hurley.jpg",
+      "name": "Chad Hurley",
+      "title": "Co-Founder & former CEO of YouTube",
+      "birthdate": "1977-01-24"
+    },
+    {
+      "image": "/images/people/chen.jpg",
+      "name": "Steve Chen",
+      "title": "Co-Founder of YouTube",
+      "birthdate": "1978-08-18"
+    },
+    {
+      "image": "/images/people/karim.jpg",
+      "name": "Jawed Karim",
+      "title": "Co-founder of YouTube",
+      "birthdate": "1979-10-28"
+    }
+  ],
   "meta": {
     "title": "History of YouTube. Timeline from the beginning till now.",
     "description": "Learn how YouTube was founded and how startup grew into the most popular online video website in the world.",
@@ -9,7 +29,7 @@
   "entries": [
     {
       "date":"2005-02-14",
-      "text":"YouTube was founded by Chad Hurley, Steve Chen, and Jawed Karim, who were all early employees of PayPal.  Chad Hurley registered the trademark, logo and domain name \"YouTube.com\" was activated. An earlier version of YouTube was a dating site called \"Tune in Hook Up\". YouTube's first headquarters sat above a pizzeria and Japanese restaurant in San Mateo, California."
+      "text":"YouTube was founded by <a href='' data-person='0'>Chad Hurley<a/>, <a href='' data-person='1'>Steve Chen</a>, and <a href='' data-person='2'>Jawed Karim</a>, who were all early employees of PayPal.  Chad Hurley registered the trademark, logo and domain name \"YouTube.com\" was activated. An earlier version of YouTube was a dating site called \"Tune in Hook Up\". YouTube's first headquarters sat above a pizzeria and Japanese restaurant in San Mateo, California."
     },
     {
       "date":"2005-04-23",

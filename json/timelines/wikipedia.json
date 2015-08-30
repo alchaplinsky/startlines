@@ -1,10 +1,24 @@
 {
   "name": "Wikipedia",
   "background": "#999",
+  "people": [
+    {
+      "image": "/images/people/wales.jpg",
+      "name": "Jimmy Wales",
+      "title": "Chairman of Wikimedia Foundation",
+      "birthdate": "1966-08-07"
+    },
+    {
+      "image": "/images/people/sanger.jpg",
+      "name": "Larry Sanger",
+      "title": "Co-founder of Wikipedia",
+      "birthdate": "1968-08-16"
+    }
+  ],
   "entries": [
     {
       "date":"2000-03-01",
-      "text":"The Nupedia project was started. Its articles were written by volunteer contributors.  It was founded by Jimmy Wales and underwritten by Bomis, with Larry Sanger as editor-in-chief.  It is mostly known now as the predecessor of Wikipedia."
+      "text":"The Nupedia project was started. Its articles were written by volunteer contributors.  It was founded by <a href='' data-person='0'>Jimmy Wales</a> and underwritten by Bomis, with <a href='' data-person='1'>Larry Sanger</a> as editor-in-chief.  It is mostly known now as the predecessor of Wikipedia."
     },
     {
       "date":"2001-01-01",
