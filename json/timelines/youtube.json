@@ -1,6 +1,11 @@
 {
   "name": "Youtube",
   "background": "#CD201F",
+  "meta": {
+    "title": "History of YouTube. Timeline from the beginning till now.",
+    "description": "Learn how YouTube was founded and how startup grew into the most popular online video website in the world.",
+    "keywords": "youtube, video, online, startup, Chad Hurley"
+  },
   "people": [
     {
       "image": "/images/people/hurley.jpg",
@@ -21,11 +26,6 @@
       "birthdate": "1979-10-28"
     }
   ],
-  "meta": {
-    "title": "History of YouTube. Timeline from the beginning till now.",
-    "description": "Learn how YouTube was founded and how startup grew into the most popular online video website in the world.",
-    "keywords": "youtube, video, online, startup, Chad Hurley"
-  },
   "entries": [
     {
       "date":"2005-02-14",

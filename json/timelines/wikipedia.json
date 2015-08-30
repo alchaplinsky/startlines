@@ -1,6 +1,11 @@
 {
   "name": "Wikipedia",
   "background": "#999",
+  "meta": {
+    "title": "The history of Wikipedia",
+    "description": "Wikipedia is a free encyclopedia, written collaboratively by the people who use it. Explore the history of largest non-profit Internet encyclopedia.",
+    "keywords": "wiki, wikipedia, encyclopedia, startup, Jimmy Wales"
+  },
   "people": [
     {
       "image": "/images/people/wales.jpg",
