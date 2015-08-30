@@ -1,6 +1,6 @@
 {
   "name": "Instagram",
-  "color": "#3F729B",
+  "background": "#3F729B",
   "people": [
     {
       "image": "/images/people/systrom.jpg",

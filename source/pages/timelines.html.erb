@@ -17,7 +17,7 @@
     <div class="row">
       <% @timelines.each do |timeline|%>
         <div class="cell">
-          <a href="/timelines/<%= timeline[:name].downcase%>" class="brick <%= timeline[:name].downcase%>" style="background: <%= timeline[:color]%>">
+          <a href="/timelines/<%= timeline[:name].downcase%>" class="brick <%= timeline[:name].downcase%>" style="background: <%= timeline[:background]%>">
             <i class="icon-<%= timeline[:name].downcase%>"></i>
             <%= timeline[:name]%>
           </a>

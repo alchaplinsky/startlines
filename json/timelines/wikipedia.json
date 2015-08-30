@@ -1,0 +1,326 @@
+{
+  "name": "Wikipedia",
+  "background": "#999",
+  "entries": [
+    {
+      "date":"2000-03-01",
+      "text":"The Nupedia project was started. Its articles were written by volunteer contributors.  It was founded by Jimmy Wales and underwritten by Bomis, with Larry Sanger as editor-in-chief.  It is mostly known now as the predecessor of Wikipedia."
+    },
+    {
+      "date":"2001-01-01",
+      "text":"Wikipedia began as a side-project of Nupedia. Nupedia was founded upon the use of highly qualified volunteer contributors and an elaborate multi-step peer review process."
+    },
+    {
+      "date":"2001-01-01",
+      "text":"The license for Nupedia was changed to GFDL. The GNU Free Documentation License is a free content license for software documentation."
+    },
+    {
+      "date":"2001-01-05",
+      "text":"The idea of a wiki-based complement appeared during theconversation between Larry M. Sanger and Ben Kovitz."
+    },
+    {
+      "date":"2001-01-11",
+      "text":"The name was suggested by Sanger. He saw Wikipedia as a a project to produce a  free content  encyclopedia that can be edited by anyone."
+    },
+    {
+      "date":"2001-01-12",
+      "text":"The wikipedia.com domain name was registered . There was considerable resistance on the part of Nupedia's editors and reviewers to the idea of associating Nupedia with a wiki-style website, soSanger suggested giving the new project its own name, Wikipedia. The next day The wikipedia.org domain name was registered."
+    },
+    {
+      "date":"2001-01-15",
+      "text":"Jimmy Wales and Larry Sanger launched Wikipedia.  However, its technological and conceptual underpinnings predate this.\nThe earliest known proposal for an online encyclopedia was made by Rick Gates in 1993."
+    },
+    {
+      "date":"2001-01-16",
+      "text":"The oldest article was created.  Before this Wales made Wikipedia's first edit, a test edit with the text \"Hello, World!\"."
+    },
+    {
+      "date":"2001-01-17",
+      "text":"The existence of the project was formally announced and an appeal for volunteers to engage in content creation was made to the Nupedia mailing list."
+    },
+    {
+      "date":"2001-01-25",
+      "text":"The first portable MediaWiki software went live on. MediaWiki is a free and open-source wiki application. It was developed by the Wikimedia Foundation and runs on many websites, including Wikipedia, Wiktionary and Wikimedia Commons. It is written in the PHP programming language and uses a backend database."
+    },
+    {
+      "date":"2001-02-12",
+      "text":"Wikipedia included 1000 articles."
+    },
+    {
+      "date":"2001-03-16",
+      "text":"For a non-English Wikipedia the first subdomain was created - deutsche.wikipedia.com followed after a few hours byCatalan.wikipedia.com."
+    },
+    {
+      "date":"2001-03-20",
+      "text":"The Japanese Wikipedia nihongo.wikipedia.com was created. And it has over 981,000 articles as of August 2015."
+    },
+    {
+      "date":"2001-05-11",
+      "text":"The French Wikipedia was launched  in a wave of new language versions that also included Chinese, Dutch, Esperanto, Hebrew, Italian, Portuguese, Russian, Spanish, and Swedish."
+    },
+    {
+      "date":"2001-07-01",
+      "text":"Wikipedia was firstly mentioned on the Slashdot website. The \"neutral point of view\" (NPOV) policy was officially formulated."
+    },
+    {
+      "date":"2001-09-01",
+      "text":"It was announced about  upcoming roll-out of Wikipedias for all major languages, the establishment of core standards, and a push for the translation of core pages for the new wikis."
+    },
+    {
+      "date":"2001-09-07",
+      "text":"Wikipedia included 10000 articles."
+    },
+    {
+      "date":"2001-09-20",
+      "text":"Its first major mainstream media coverage was in the New York Times. There was stated that Wikipedia (www.wikipedia.com) is one such site, a place where 100 or so volunteers have been working since January to compile a free encyclopedia. Using a relatively unknown and simple software tool called Wiki, they are involved in a kind of virtual barn-raising.        "
+    },
+    {
+      "date":"2001-10-30",
+      "text":"The content of the Wikipedia was released under an open license, the GNU FDL. As of July 15, 2009, Wikipedia has moved to a dual-licensing system that\n supersedes the previous GFDL only licensing. In short, this means that text licensed under the GFDL only can no longer be imported to Wikipedia, retroactive to November 1, 2008. "
+    },
+    {
+      "date":"2001-12-31",
+      "text":"It was announced about Afrikaans, Norwegian, and Serbian versions. "
+    },
+    {
+      "date":"2002-01-01",
+      "text":" 90% of all articles were in English."
+    },
+    {
+      "date":"2002-03-01",
+      "text":"Larry Sanger left both Nupedia and Wikipedia because of disagreemnets with Wales on how is best to manage open encyclopedias. Later In October 2006, Sanger started a similar encyclopedia to Wikipedia, Citizendium."
+    },
+    {
+      "date":"2002-08-30",
+      "text":"It was 40000 articles in Wikipedia."
+    },
+    {
+      "date":"2003-06-20",
+      "text":"The Wikimedia Foundation was founded. Wikipedia adopted its jigsaw world logo. After a while communications committee was formed."
+    },
+    {
+      "date":"2003-10-01",
+      "text":"The first Wikipedian social meeting was held in Munich."
+    },
+    {
+      "date":"2003-11-24",
+      "text":"Wikisource was created as a separate project on November 24, 2003, to host free textual sources."
+    },
+    {
+      "date":"2004-01-01",
+      "text":"Fewer than 50% articles were English, and this internationalization has continued to increase as the encyclopedia grows. "
+    },
+    {
+      "date":"2004-05-30",
+      "text":"The Template namespace with MediaWiki 1.3 was created. It allowed transclusion of standard texts."
+    },
+    {
+      "date":"2004-06-01",
+      "text":"|It was the first attempt to block Wikipedia. Thew ebsite being blocked in China for two weeks."
+    },
+    {
+      "date":"2004-09-07",
+      "text":"Wikimedia Commons was created  to host media files for Wikipedia in all languages."
+    },
+    {
+      "date":"2004-12-31",
+      "text":"The number of articles gained over 1 million in over 100 languages."
+    },
+    {
+      "date":"2005-06-26",
+      "text":"CSS style configuration sheets were introduced. From now on editors were able to insert CSS rules in wikitext for more flexible formatting of a page."
+    },
+    {
+      "date":"2005-10-01",
+      "text":"China  blocked Wikipedia for the second time. Firstly it blocked the site in June for two weeks."
+    },
+    {
+      "date":"2005-12-01",
+      "text":"A restriction of new article creation was put  to registered users."
+    },
+    {
+      "date":"2005-12-17",
+      "text":"The first major Wikipedia scandal occurred, when a well-known figure was found to have a vandalized biography which had gone unnoticed for months."
+    },
+    {
+      "date":"2006-03-01",
+      "text":"The English Wikipedia reached one million articles. One-millionth article was Jordanhill railway station."
+    },
+    {
+      "date":"2006-10-01",
+      "text":"Florence Nibart-Devouard became chair of the board of Wikimedia Foundation."
+    },
+    {
+      "date":"2007-01-29",
+      "text":"Wikipedia was rated as one of the top five global brands of 2006. Wikipedia had achieved sufficient volume and calls for an emphasis on quality."
+    },
+    {
+      "date":"2007-08-13",
+      "text":"There were over 5 million registered editor accounts."
+    },
+    {
+      "date":"2007-08-13",
+      "text":"Wikipedia gained 250 language editions contained a combined total of 7.5 million articles, totalling 1.74 billion words in approximately 250 languages."
+    },
+    {
+      "date":"2007-09-09",
+      "text":"The English Wikipedia reached its two-millionth article, El Hormiguero."
+    },
+    {
+      "date":"2008-04-01",
+      "text":"The 10-millionth Wikipedia article was created."
+    },
+    {
+      "date":"2008-12-01",
+      "text":" Wales stated that he made Wikipedia's first edit, a test edit with the text \"Hello, World!\""
+    },
+    {
+      "date":"2009-05-29",
+      "text":"Wikipedia content became licensed under Creative Commons after the Arbitration Committee of the English Wikipedia decided in May 2009 to restrict access to its site from Church of Scientology IP addresses, to prevent self-serving edits by Scientologists."
+    },
+    {
+      "date":"2009-08-17",
+      "text":"The three-millionth article was created on the English Wikipedia. It was Beate Eriksen."
+    },
+    {
+      "date":"2009-08-31",
+      "text":"All Wikipedia editions included  14 million articles."
+    },
+    {
+      "date":"2009-12-27",
+      "text":"One million articles on the German Wikipedia . It becamethe second edition after the English Wikipedia."
+    },
+    {
+      "date":"2010-03-24",
+      "text":"The European Wikipedia servers went offline due to an overheating problem. The problems started when Wikimedia servers overheated in the organization's European  data center and shut themselves off automatically."
+    },
+    {
+      "date":"2010-04-16",
+      "text":"Total edits in Wikimedia projects – 1 billionth edit screenshot."
+    },
+    {
+      "date":"2010-05-13",
+      "text":"The site released a new interface. New features included an updated logo, new navigation tools, and a link wizard."
+    },
+    {
+      "date":"2010-09-21",
+      "text":"The French Wikipedia reached one million articles. It became the third Wikipedia language edition."
+    },
+    {
+      "date":"2010-11-13",
+      "text":"The 2010 campaign was launched and it raised US$16 million."
+    },
+    {
+      "date":"2010-12-12",
+      "text":"The English Wikipedia exceed 3.5-million articles."
+    },
+    {
+      "date":"2011-04-02",
+      "text":"The English Wikipedia passed the 3.6-million-article mark."
+    },
+    {
+      "date":"2011-10-04",
+      "text":"The Italian Wikipedia became intentionally inaccessible in protest against the Italian Parliament's proposed DDL intercettazioni law."
+    },
+    {
+      "date":"2011-10-26",
+      "text":"Wikimedia announced the launch of Wikipedia Zero, an initiative to enable free mobile access to Wikipedia in developing countries through partnerships with mobile operators."
+    },
+    {
+      "date":"2011-11-07",
+      "text":"The German Wikipedia gained 100 million page edits."
+    },
+    {
+      "date":"2011-11-18",
+      "text":"The English Wikipedia reached 3.8 million articles."
+    },
+    {
+      "date":"2011-11-19",
+      "text":"Wikipedia's first Indian conference in Mumbai. It was aimed to expand Wikipedia website's growth in India."
+    },
+    {
+      "date":"2011-12-17",
+      "text":"The Dutch Wikipedia gained 1 million articles."
+    },
+    {
+      "date":"2012-01-16",
+      "text":" Wikipedia co-founder Jimmy Wales announced that the English Wikipedia would shut down for 24 hours on 18 January as part of a protest meant to call public attention to the proposed Stop Online Piracy Act and PROTECT IP Act, two anti-piracy laws under debate in the United States Congress."
+    },
+    {
+      "date":"2012-03-30",
+      "text":"The Wikimedia Foundation announced Wikidata, a universal platform for sharing data between all Wikipedia language editions."
+    },
+    {
+      "date":"2012-04-20",
+      "text":"Justin Knapp from Indianapolis, Indianamade over one million edits to Wikipedia."
+    },
+    {
+      "date":"2012-07-13",
+      "text":"The English Wikipedia reached its 4-millionth article, Izbat al-Burj."
+    },
+    {
+      "date":"2012-11-08",
+      "text":"Wikipedia was the world's sixth-most-popular website."
+    },
+    {
+      "date":"2012-11-10",
+      "text":"The 2012 campaign raised US$25 million from around 1.2 million donors."
+    },
+    {
+      "date":"2013-01-22",
+      "text":"The Italian Wikipedia exceed 1 million articles."
+    },
+    {
+      "date":"2013-05-11",
+      "text":"The Russian Wikipedia gained  million articles."
+    },
+    {
+      "date":"2013-05-16",
+      "text":"The Spanish Wikipedia gained  million articles."
+    },
+    {
+      "date":"2013-07-02",
+      "text":"The VisualEditor editing system was launched. An editor specifically designed for smartphones and other mobile devices was also launched."
+    },
+    {
+      "date":"2013-07-15",
+      "text":"The Swedish Wikipedia gained  million articles."
+    },
+    {
+      "date":"2013-07-24",
+      "text":"The PolishWikipedia gained  million articles."
+    },
+    {
+      "date":"2013-12-17",
+      "text":"The French Wikipedia exceeded 100 million page edits."
+    },
+    {
+      "date":"2014-03-01",
+      "text":"A print edition of the English Wikipedia, comprising 1,000 volumes and over 1,100,000 pages, was exhibited by German Wikipedia contributors."
+    },
+    {
+      "date":"2014-04-25",
+      "text":"The English Wikipedia reached the 4,500,000-article mark."
+    },
+    {
+      "date":"2014-06-08",
+      "text":"The Waray-Waray Wikipedia exceeded 1,000,000 articles."
+    },
+    {
+      "date":"2014-06-15",
+      "text":"The Vietnamese Wikipedia gained 1,000,000 articles."
+    },
+    {
+      "date":"2014-07-17",
+      "text":"The Cebuano Wikipedia gained 1,000,000 articles."
+    },
+    {
+      "date":"2014-12-20",
+      "text":"About 85.5% of all Wikipedia articles are contained within non-English Wikipedia versions."
+    },
+    {
+      "date":"2015-06-30",
+      "text":"Wikipedia is the sixth-most-popular site. On average, it receives a total of 10 billion global pageviews from around 495 million unique visitors every month,] including 85 million visitors from the United States alone."
+    }
+  ]
+}

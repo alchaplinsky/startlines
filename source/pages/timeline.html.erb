@@ -7,8 +7,8 @@
   <% content_for :description, 'Timeline of creating '+ timeline[:name]+ '. Full history from the start till now.'%>
 <%end%>
 <% content_for :css do %>
-  .header.brand { background: <%= timeline[:color]%>;}
-  article .date, article a { color: <%= timeline[:color]%>;}
+  .header.brand { background: <%= timeline[:background]%>;}
+  article .date, article a { color: <%= timeline[:background]%>;}
 <%end%>
 <div class='background blured'></div>
 <div class="content">
@@ -72,7 +72,7 @@ $(document).ready(function(){
   timeline = new Timeline(
     <%= MultiJson.dump(timeline[:entries].map{|entry| entry[:date]}).html_safe%>,
     <%= MultiJson.dump(timeline[:people]).html_safe%>,
-    '<%=timeline[:color]%>'
+    '<%=timeline[:background]%>'
   )
   shares = new Share('http://www.startlin.es/timelines/<%= timeline[:name].downcase%>')
 });

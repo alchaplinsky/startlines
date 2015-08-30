@@ -1,6 +1,6 @@
 {
   "name": "Google",
-  "color": "#CC3732",
+  "background": "#CC3732",
   "people": [
     {
       "image": "/images/people/page.jpg",
