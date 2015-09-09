@@ -1,6 +1,11 @@
 {
   "name": "Google",
   "background": "#CC3732",
+  "meta": {
+    "title": "History of Google search engine",
+    "description": "Google history timeline from founding by Larry Page and Sergey Brin to evolving into world's most powefull and valuable corporation.",
+    "keywords": "google, search, engine, Sergey Brin, Larry Page"
+  },
   "people": [
     {
       "image": "/images/people/page.jpg",

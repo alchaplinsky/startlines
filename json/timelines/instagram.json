@@ -1,6 +1,11 @@
 {
   "name": "Instagram",
   "background": "#3F729B",
+  "meta": {
+    "title": "Instagram story",
+    "description": "Instagram is one of the most successful startups in history. In 2 month only, after its launch it had 1 million users and it never stopped growing ever.",
+    "keywords": "instagram, photo, sharing, Kevin Systrom, Mike Krieger"
+  },
   "people": [
     {
       "image": "/images/people/systrom.jpg",

@@ -1,6 +1,11 @@
 {
   "name": "Pinterest",
   "background": "#CC2127",
+  "meta": {
+    "title": "Pinterest History",
+    "description": "History timeline of Pinterest founded by Ben Silbermann, Evan Sharp and Paul Sciarra - a visual discovery tool for finding ideas for all your interests.",
+    "keywords": "pinterest, ideas, history, timeline, Ben Silbermann, Evan Sharp, Paul Sciarra"
+  },
   "people": [
     {
       "image": "/images/people/sciarra.jpg",
