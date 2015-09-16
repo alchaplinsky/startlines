@@ -1,0 +1,109 @@
+{
+  "name": "Viber",
+  "background": "#8F5DB7",
+  "meta": {
+    "title": "History of Viber",
+    "description": "Viber instant messaging and Voice over IP, Viber Media company was founded by Marco and Magazinnik, who are friends from the Israel Defense Forces.  ",
+    "keywords": "viber, messanger, company, startup, history, voip, Israel, Belarus"
+  },
+  "people": [
+    {
+      "image": "/images/people/marco.jpg",
+      "name": "Talmon Marco",
+      "title": "CEO and founder of Viber",
+      "birthdate": ""
+    },
+    {
+      "image": "/images/people/magazinik.jpg",
+      "name": "Igor Magazinik",
+      "title": "Co-founder and CTO at Viber",
+      "birthdate": ""
+    }
+  ],
+  "entries": [
+    {
+      "date":"2010-12-02",
+      "text":"Viber was launched for iPhone in direct competition with Skype. Viber was founded by four Israeli and Belarusian partners: <a href='' data-person='0'>Talmon Marco</a>, <a href='' data-person='1'>Igor Magazinnik</a>, Sani Maroli and Ofer Smocha, with Marco as its CEO."
+    },
+    {
+      "date":"2010-12-02",
+      "text":"Viber got 100,000 users in the first 24 hours after launch."
+    },
+    {
+      "date":"2010-12-05",
+      "text":"Viber reached  million users."
+    },
+    {
+      "date":"2011-05-01",
+      "text":"A pre-release version for Android appeared. Android users knew Viber as an insecure instant messaging and Voice over IP (VoIP) app for smartphones developed by Viber Media."
+    },
+    {
+      "date":"2012-05-08",
+      "text":"Viber versions for BlackBerry and Windows Phone devices appeared. The Viber app  detects other Viber users when aap is loaded up, saving users from adding phone numbers or a pin, as it does with BlackBerry Messenger. Future updates to the Viber app will allow share photos and locations, and enjoy what the developer calls 'HD-quality' voice calling."
+    },
+    {
+      "date":"2012-07-19",
+      "text":"An unrestricted Viber version for Android was released. A pre-release version for Android was only restricted to 50,000 users."
+    },
+    {
+      "date":"2012-07-24",
+      "text":"Viber reached 90 million users. "
+    },
+    {
+      "date":"2012-07-24",
+      "text":"Group messaging service and HD Voice engine were added to both Android and iPhone applications."
+    },
+    {
+      "date":"2012-07-24",
+      "text":"Viber for Symbian, S40 and Bada was launched. The company is also adding free phone calls and group messaging to the Nokia Windows Phone 7 version of the app, apart from releasing a localization update for iOS. "
+    },
+    {
+      "date":"2012-07-24",
+      "text":"Viber for Nokia Lumia smartphones updated to v2.2. New features included making and receiving VoIP calls HD, sending free messages to Viber contacts, Creating group chats, setting a profile photo, notable improvements in the application interface."
+    },
+    {
+      "date":"2012-09-22",
+      "text":"HD quality phone calls were  available. Also hold group-messaging sessions appeared. But it was only available  for Windows phone \nusers with Nokia sets(due to the exclusive partnership with Nokia). "
+    },
+    {
+      "date":"2013-04-02",
+      "text":" Viber With Voice For Windows Phone 8 Has Been Released. One new interesting new feature has been added – now you can pin your conversations to the home screen via tiles (Live Tiles). For conversations that remain unpinned, users will get lock screen notifications."
+    },
+    {
+      "date":"2013-07-14",
+      "text":"Viber was attacked by Syrian Electronic Army (a pro-government group of computer hackers aligned with Syrian President Bashar al-Assad). Viber clarified that the hack only allowed access to two minor systems, a customer support panel and a support administration system."
+    },
+    {
+      "date":"2013-08-01",
+      "text":"Viber for Linux was released as a public beta. Initially, only 64-bit binaries were made available for download."
+    },
+    {
+      "date":"2013-12-01",
+      "text":" Viber officially launched Viber Out. Viber Out lets Viber users make calls to people who don’t have the Viber app, effectively mimicking a Skype Out feature by charging a low per-minute rate to mobile or landline numbers."
+    },
+    {
+      "date":"2014-02-13",
+      "text":"Japanese Internet Giant Rakuten acquired Viber for 900 million dollars. Viber Media is a Las Vegas and Cyprus-registered company with its development centers in Belarus and Israel. "
+    },
+    {
+      "date":"2014-08-01",
+      "text":"A final  Viber version for Linux was released. Linux features were HD quality voice calls; video calls (desktop to desktop only); text, photo and sticker messages; group  conversations ;full sync between the mobile and Linux clients ;transfer ongoing calls between devices; no registration or password required."
+    },
+    {
+      "date":"2014-11-04",
+      "text":"Viber scored 1 out of 7 points on the Electronic Frontier Foundation's secure messaging scorecard. Viber received a point for encryption during transit but lost points because communications are not encrypted with a key the provider doesn't  have access to, users can't verify contacts' identities, past messages are not secure if the encryption keys are stolen, the code is not open to independent review, the security design is not properly documented, and there has not been a recent independent security audit."
+    },
+    {
+      "date":"2015-08-01",
+      "text":"Viber grew to 280 million users in nearly 200 countries."
+    },
+    {
+      "date":"2015-08-05",
+      "text":"Viber update brought improved call UI and animated stickers to its iOS and Android applications. Among the main changes are a redesigned interface for video calls, with more options to trigger a new call from various places in the app, thereby making it a little easier to navigate."
+    },
+    {
+      "date":"2015-08-18",
+      "text":"Viber was the 4th and 5th most downloaded application on the Google Play Store and the Apple Store having been downloaded between 100 and 500 million times."
+    }
+  ]
+}
