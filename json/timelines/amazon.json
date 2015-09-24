@@ -1,0 +1,295 @@
+{
+  "name": "Amazon",
+  "background": "#232f3e",
+  "meta": {
+    "title": "Amazon History Timeline",
+    "description": "",
+    "keywords": "amazon, jeff bezos"
+  },
+  "people": [
+    {
+      "image": "/images/people/bezos.jpg",
+      "name": "Jeff Bezos",
+      "title": "Founder, Chairman & CEO of Amazon.com",
+      "birthdate": "1964-01-12"
+    }
+  ],
+  "entries": [
+    {
+      "date":"1994-07-05",
+      "text":"American entrepreneur Jeff Bezos first registers his fledgling company under the name Cadabra Inc. Bezos changed the name to Amazon a year later after a lawyer misheard its original name as \"cadaver\"."
+    },
+    {
+      "date":"1994-11-01",
+      "text":"Jeff Bezos registered Amazon. Bezos selected the name Amazon, because he mistakenly thought that the Amazon river was the \"biggest\" river in the world, and he planned to make his store the biggest in the world."
+    },
+    {
+      "date":"1995-07-16",
+      "text":"The company went online. But originally it was a website that only sold books.  The idea spurred off with discussion with John Ingram of Ingram Book. The first sold book was  Douglas Hofstadter's Fluid Concepts and Creative Analogies: Computer Models of the Fundamental Mechanisms of Thought."
+    },
+    {
+      "date":"1995-09-16",
+      "text":"Amazon sold to all 50 states and over 45 countries. Amazon's sales were up to $20,000/week."
+    },
+    {
+      "date":"1996-07-01",
+      "text":"Associate program established, which  allowed individuals with their own web sites to choose books of interest and place ads for them on their own sites, allowing visitors to purchase those books."
+    },
+    {
+      "date":"1997-05-12",
+      "text":"Barnes & Noble sues Amazon, alleging that Amazon's claim to be \"the world's largest bookstore\" is false. "
+    },
+    {
+      "date":"1997-05-15",
+      "text":" Amazon announced its stock market launch trading under the NASDAQ stock exchange symbol AMZN  at a price of US$18.00 per share."
+    },
+    {
+      "date":"1997-05-17",
+      "text":"The company goes public; Amazon.com becomes the first Internet retailer to secure one million customers.  "
+    },
+    {
+      "date":"1997-07-01",
+      "text":"Amazon.com formed partnerships with Yahoo, Inc. and America Online, Inc. Both companies agreed to give Amazon.com broad promotional capabilities on their sites, two of the most visited sites on the Web. As the success continued, Amazon also struck deals with many other popular sites, including Netscape, GeoCities, Excite, and AltaVista."
+    },
+    {
+      "date":"1997-09-01",
+      "text":"Bezos announced that Amazon.com would be opening an East Coast distribution center in New Castle, Delaware."
+    },
+    {
+      "date":"1998-01-01",
+      "text":"The company began to partially or totally take over a number of companies, including Junglee (a Web technology firm), Drugstore.com, Pets.com, HomeGrocer.com, Overstock.com and Della.com"
+    },
+    {
+      "date":"1998-02-01",
+      "text":"The Associates program had reached 30,000 members."
+    },
+    {
+      "date":"1998-03-01",
+      "text":"Customer accounts reached 2.26 million."
+    },
+    {
+      "date":"1998-04-27",
+      "text":"Telebook became Amazon's German online store. It was Germany's leading online bookstore."
+    },
+    {
+      "date":"1998-06-01",
+      "text":" Amazon.com enters the online music and video business. The music store was opened  with over 125,000 music titles available. "
+    },
+    {
+      "date":"1998-10-15",
+      "text":"Acquisition of Bookpages.co.uk, a UK online book retailer, which becomes Amazon UK."
+    },
+    {
+      "date":"1998-10-16",
+      "text":"Wal-Mart Stores, Inc. sued against the company charging it with stealing distribution and merchandising trade secrets by hiring Wal-Mart executives. The two business giants reached an out-of-court settlement eighteen months later, which legal analysts saw as a victory for  Amazon.com"
+    },
+    {
+      "date":"1999-01-01",
+      "text":"An online auction service entitled Amazon Auctions was launched."
+    },
+    {
+      "date":"1999-04-26",
+      "text":"Acquisition of a database company Alexa Internet "
+    },
+    {
+      "date":"2000-03-10",
+      "text":"The dotcom bubble reaches its peak on 10 March 2000, and Amazon becomes one of the most high-profile losers as its share price tumbles from a high of $106.69 on 10 December 1999 to $15.56 on 29 December 2000."
+    },
+    {
+      "date":"2000-07-19",
+      "text":"Amazon's logotype has featured a curved arrow leading from A to Z, representing that the company carries every product from A to Z, with the arrow shaped like a smile."
+    },
+    {
+      "date":"2001-01-01",
+      "text":" Amazon.com purchased the rights to CDNow and began operating the CDNow site, a move that gave little warning to CDNow customers. By this time, the CDNow operation was largely absent; the brand continued, but as a part of Amazon. "
+    },
+    {
+      "date":"2001-12-31",
+      "text":"The company focused on cutting costs. It laid off 1,300 employees and closed a distribution facility. Sales grew to $3.12 billion."
+    },
+    {
+      "date":"2001-12-31",
+      "text":"Amazon.com reports its first net profit during the fourth quarter."
+    },
+    {
+      "date":"2002-12-31",
+      "text":"The company launched its apparel store, which included clothing from retailers The Gap and Lands' End. Overall, the company reported a net loss of $149 million for the year, an improvement from the $567 million loss reported in 2001."
+    },
+    {
+      "date":"2004-04-15",
+      "text":"A secretive subsidiary of Amazon.com Inc. introduced an Internet search engine,highlighting the growing urgency among the Internet's biggest players to control the online search market before Google Inc. runs away with it."
+    },
+    {
+      "date":"2004-06-01",
+      "text":"In 2004 an alliance was formed with The Bombay Company, and Joyo.com (a Chinese ecommerce was) acquired."
+    },
+    {
+      "date":"2004-07-21",
+      "text":"Amazon.com, Inc.announced that it will open a software development centre in Edinburgh, Scotland. Amazon Development Centre, Scotland will focus on developing new and innovative website features to help Amazon's customers find and discover anything they want to buy online."
+    },
+    {
+      "date":"2004-09-01",
+      "text":"Amazon launched the Paris Hilton jewelry line. Amazon has created a special Paris Hilton Boutique, www.amazon.com/parishilton,\nwhere customers can see photographs of Hilton wearing the designs anddetailed product images and descriptions."
+    },
+    {
+      "date":"2004-11-09",
+      "text":"the launching of Amazon theatre. Customers can enjoy a series of world-class short films from Hollywood  icons Tony and Ridley Scott with star-studded cast members Minnie Driver, Daryl Hannah, Chris Noth and Blair Underwood exclusively on Amazon.com. "
+    },
+    {
+      "date":"2005-03-31",
+      "text":"FThe Burlington City, N.J., publisher of electronic books sold its 16,765 ordinary shares in MobiPocket.com SA to Amazon (NASDAQ: AMZN) in connection with Amazon's purchase of all MobiPocket's outstanding shares.ranklin Electronic Publishers Inc. sold its shares in a French software company to Amazon.com Inc. and retired 29 percent of its outstanding preferred stock."
+    },
+    {
+      "date":"2005-04-01",
+      "text":"MobiPocket.com, an e-book software company was acquired by Amazon.com. Mobipocket is one of the 3 main eBook formats based on the Open eBook specification."
+    },
+    {
+      "date":"2005-04-11",
+      "text":"Amazon purchased BookSurge, a book printing business based in Charleston, S.C., that specializes in so-called on-demand printing. BookSurge, which was privately held, is among a handful of companies spawned during the dot-com boom that rely on Internet technology to print a few books at a time, or even one at a time."
+    },
+    {
+      "date":"2005-11-01",
+      "text":"Amazon began testing Amazon Mechanical Turk, an application programming interface (API) allowing programs to dispatch tasks to human processors."
+    },
+    {
+      "date":"2006-03-01",
+      "text":"Amazon launched an online storage service called Amazon Simple Storage Service (Amazon S3).  An unlimited number of data objects, from 1 byte to 5 terabytes in size, can be stored in S3 and distributed via HTTP or BitTorrent. The service charges monthly fees for data stored and transferred."
+    },
+    {
+      "date":"2006-08-25",
+      "text":" Amazon announced an open beta test of Amazon EC2, which will go on to become the core component of its mammoth cloud-computing operation."
+    },
+    {
+      "date":"2007-01-01",
+      "text":"The website Joyo.com was revamped in 2007 as well and would now be Joyo/Amazon which also would enhance features and provide a fresh new look for the website."
+    },
+    {
+      "date":"2007-02-07",
+      "text":"Amazon Unbox is now available on TiVo which would provide TiVo subscribers access to thousands of new TV shows and movies."
+    },
+    {
+      "date":"2007-08-01",
+      "text":"Amazon announced AmazonFresh, a grocery service offering perishable and nonperishable foods. Customers could have orders delivered to their homes at dawn or during a specified daytime window. Delivery was initially restricted to residents of Mercer Island, Washington, and was later expanded to several ZIP codes in Seattle proper."
+    },
+    {
+      "date":"2007-09-25",
+      "text":"The launching public beta version of Amazon MP3. Amazon.com started selling good-quality unprotected MP3 music files for less than the cost of Apple's crippled iTunes."
+    },
+    {
+      "date":"2007-11-19",
+      "text":"The introduction of the very first Kindle, a series of e-book readers designed and marketed by Amazon.com. Amazon Kindle devices enable users to shop for, download, browse, and read e-books, newspapers, magazines and other digital media via wireless networking."
+    },
+    {
+      "date":"2008-01-31",
+      "text":"Amazon.com purchased Audible.com for $300 million. It bought this digital audio books provider, aiming to bolster its audio download offerings."
+    },
+    {
+      "date":"2008-08-02",
+      "text":"Other 2008 acquisitions include AbeBooks.com. AbeBooks has 135 employees worldwide, with 100 of those at its Victoria \nheadquarters. It has a second office in Dusseldorf, Germany."
+    },
+    {
+      "date":"2008-12-01",
+      "text":"The web services department of Amazon.com launched the release of Amazon EC2 for Windows as well and also introduced Public Data sets for AWS."
+    },
+    {
+      "date":"2009-01-07",
+      "text":"Amazon.com Launches Inauguration Store. The online retailer offers just about everything inauguration goers might need. There are Obama pins and T-shirts — even Obama action figures. Shoppers can buy all the books that the president-elect is said to enjoy. Then there's the section of cold-weather gear for those joining the throngs on the National Mall for the outdoor event."
+    },
+    {
+      "date":"2009-02-10",
+      "text":"Amazon announced the Kindle 2, the second generation device. It became available for purchase on February 23, 2009. The Kindle 2 features a text-to-speech option to read the text aloud, and 2 GB of internal memory of which 1.4 GB is user-accessible. By Amazon's estimates, the Kindle 2 can hold about 1,500 non-illustrated books. Unlike the first generation Kindle, Kindle 2 does not have a slot for SD memory cards"
+    },
+    {
+      "date":"2009-04-28",
+      "text":"Amazon.com acquired e-book software maker Lexcycle. Though the two companies make competing e-book reading software for the iPhone, for now, Lexcycle will operate as an independent subsidiary."
+    },
+    {
+      "date":"2009-06-16",
+      "text":"SnapTell, a startup that primarily focuses on image-recognition based mobile marketing, has been acquired by A9.com, Amazon’s search engine technology arm."
+    },
+    {
+      "date":"2009-07-22",
+      "text":" Amazon announced that it would buy Zappos for $940 million in a stock and cash deal. Owners of shares of Zappos were set to receive approximately 10 million Amazon.com shares, and employees would receive a separate $40 million  in cash and restricted stock units. "
+    },
+    {
+      "date":"2010-06-30",
+      "text":"Woot has been acquired by Amazon. Woot shot to popularity with their “one deal per day” idea. Similar timed deal ideas have since become very popular for sites like Gilt (for fashion) and Groupon (for food and activities). The company also has always had an interesting sense of humor and has not shied away from having deals on things as diverse as handguns."
+    },
+    {
+      "date":"2010-09-01",
+      "text":"Amazon introduced Amazon Mom, a program offering a free three-month trial of Amazon Prime for mothers ordering diapers and other baby items, and a counter to Diapers.com’s free shipping. Diapers.com, meanwhile, introduced same-day delivery in Manhattan and will offer 25,000 toys under the forthcoming yoyo.com, further challenging Amazon in the battle to sell to new moms."
+    },
+    {
+      "date":"2010-11-08",
+      "text":"Amazon announced that it has reached an agreement to acquire Quidsi, Inc., which operates Diapers.com, an online baby care specialty site, and Soap.com, an online site for everyday essentials. Amazon will pay $500 million in cash, and assume $45 million in debt and other obligations. Also in this year Amazon acquired  BuyVIP.com, Touchco.com and Amie Street."
+    },
+    {
+      "date":"2010-12-02",
+      "text":"The investment of $175 million in the deal site LivingSocial.com. LivingSocial will use this investment to maintain a steady drumbeat of worldwide launches and overall business growth while continuing to serve more than 10 million subscribers across the U.S., Canada, UK, Ireland and Australia in more than 120 locations. Because of LivingSocial’s rapid expansion, the company is currently booking revenues of more than $1 million a day on average and is projected to book well over $500 million in revenue in 2011."
+    },
+    {
+      "date":"2011-09-28",
+      "text":"Amazon introduced Silk, an all-new web browser powered by Amazon Web Services (AWS) and available exclusively on the \njust announced Kindle Fire. All of the browser subsystems were present on user's Kindle Fire as well as on the AWS cloud computing platform.\n"
+    },
+    {
+      "date":"2011-10-18",
+      "text":"Amazon.com announced a partnership with DC Comics for the exclusive digital rights to many popular comics, including Superman, Batman, Green Lantern, The Sandman, and Watchmen. The partnership has caused well-known bookstores like Barnes & Noble to remove these titles from their shelves."
+    },
+    {
+      "date":"2011-11-01",
+      "text":"Amazon introduced the Kindle Owners lending library. With Amazon Prime, Kindle owners can choose from more than 800,000 books\n to borrow for free with no due dates, including current and former best sellers."
+    },
+    {
+      "date":"2012-02-02",
+      "text":"The sports collectibles store was launched.  Its new Sports Collectibles Store offers more than two million fficially licensed items by the NFL, NBA, FIFA and Major League Baseball. Shoppers can search for collectibles by sport, year, team, price and type of item. "
+    },
+    {
+      "date":"2012-03-19",
+      "text":"The online retailer acquired Kiva Systems, a maker of robots that service warehouses, for $775 million in cash. Amazon, a customer of Kiva’s,bought the robotics company as it builds out its vast network of warehouses and tries to improve its margins."
+    },
+    {
+      "date":"2012-06-04",
+      "text":"Amazon bought small publisher Avalon Books and its backlist of 3,000 titles. Avalon's books fall mainly in the romance, mystery and Western genres."
+    },
+    {
+      "date":"2013-01-24",
+      "text":"Amazon announced that it is acquiring Ivona Software, a Polish-based specialist in voice technologies that competes with Nuance and is already used in the Kindle Fire for services covering text-to-speech, voice commands and “Explore by Touch.”"
+    },
+    {
+      "date":"2013-03-28",
+      "text":"Amazon has announced the acquisition of social reading service, Goodreads. Goodreads had raised $2.75 million in funding from the likes of True Ventures since launching in January 2007.The site had over 10 million members and had catalogued more than 360 million books, adding 22 million each month. Now, the site boasts over 16 million users."
+    },
+    {
+      "date":"2013-11-25",
+      "text":"Amazon.com announced a partnership with the United States Postal Service to begin delivering orders on Sundays. The service, included with Amazon’s standard shipping rates, initiated in metropolitan areas of Los Angeles and New York due to the high-volume and inability to deliver timely, with plans to expand into Dallas, Houston, New Orleans, and Phoenix"
+    },
+    {
+      "date":"2014-02-05",
+      "text":"Amazon has acquired a gaming studio called Double Helix Games. The Irvine, California-based company, founded in 2007 through the merger of two well-known game development shops, The Collective, Inc. and Shiny Entertainment, today employs 75 people who will now become Amazon employees and will continue to operate out of their Orange County home."
+    },
+    {
+      "date":"2014-04-10",
+      "text":"Amazon acquires Digital Comic Book Store Comixology.It offers upwards of 50,000 comics for sale. In 2013, the company launched a self-publishing platform for comics that allows comic creators to upload and sell their own work — a strategy which fits hand-in-hand with Amazon’s own self-publishing efforts for books."
+    },
+    {
+      "date":"2014-05-05",
+      "text":"Amazon unveiled partnership with Twitter. The agreement allows Twitter users to add items to their cart automatically without leaving the social media site."
+    },
+    {
+      "date":"2014-08-25",
+      "text":"Twitch has confirmed that Amazon has purchased it. Twitch is a popular game-streaming service. The final price was more than $1 billion."
+    },
+    {
+      "date":"2014-10-30",
+      "text":"Amazon Marketplace is the largest of its kind, followed by similar marketplaces from Sears, Rakuten and Newegg."
+    },
+    {
+      "date":"2015-01-19",
+      "text":"Online shopping giant Amazon announced plans to deliver movies produced for theaters across the U.S. and offer them on its Prime video service within two months of their release."
+    },
+    {
+      "date":"2015-01-22",
+      "text":"Amazon acquired Israeli Chip Maker Annapurna Labs for $350 million, a potentially bold move by the online retailer to develop the semiconductors that go into its devices."
+    }
+  ]
+}

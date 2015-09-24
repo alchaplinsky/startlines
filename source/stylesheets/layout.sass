@@ -97,6 +97,7 @@ body
     position: absolute
     top: 2px
     right: 0
+    +
 
 .container
   max-width: 1000px
@@ -154,6 +155,9 @@ body
     &:hover
       border-color: #333
       color: #333
+@media screen and (max-width: 768px)
+  .header .likes small
+    display: none
 
 @media screen and (max-width: 500px)
   .header .pinterest-link
