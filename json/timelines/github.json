@@ -1,0 +1,143 @@
+{
+  "name": "Github",
+  "background": "#333",
+  "meta": {
+    "title": "History of Github",
+    "description": "History of web-based Git repository hosting service GitHub. Revolution in how developers share their code, work and collaborate on opensource.",
+    "keywords": "git, github, repository, hosting, history, timeline"
+  },
+  "entries": [
+    {
+      "date":"2007-10-01",
+      "text":"Development of the GitHub platform began. And in a year there were four  full-time employees: Tom Preston-Werner, Chris Wanstrath, PJ Hyett, and Scott Chacon. And they topped 20,000 public repositories. GitHub, Inc. was originally known as Logical Awesome."
+    },
+    {
+      "date":"2008-02-08",
+      "text":"GitHub, a San Francisco company was founded as a way for open-source software writers in disparate locations to rapidly create new and better versions of their work. Work is stored, shared and discussed, based on the idea of a “pull request,” which is a suggestion to the group for some accretive element, like several lines of code, to be “pulled,” or added, to a project."
+    },
+    {
+      "date":"2008-04-10",
+      "text":"GitHub is a Web-based Git repository hosting service, which offers all of the distributed revision control and source code management (SCM) functionality of Git as well as adding its own features was launched. GitHub provides a Web-based graphical interface and desktop as well as mobile integration. It also provides access control and several collaboration features such as bug tracking, feature requests, task management, and wikis for every project. The site was launched by Tom Preston-Werner, Chris Wanstrath, and PJ Hyett after it had been made available for a few months prior as a beta period."
+    },
+    {
+      "date":"2009-02-24",
+      "text":"GitHub team members announced, in a talk at Yahoo! headquarters, that within the first year of being online, GitHub had accumulated over 46,000 public repositories, 17,000 of which were formed in the previous month alone. At that time, about 6,200 repositories had been forked at least once and 4,600 had been merged."
+    },
+    {
+      "date":"2009-07-05",
+      "text":"GitHub reached 100,000 users."
+    },
+    {
+      "date":"2009-07-27",
+      "text":"Tom Preston-Werner announced that GitHub had grown to host 90,000 unique public repositories, 12,000 having been forked at least once, for a total of 135,000 repositories."
+    },
+    {
+      "date":"2010-07-01",
+      "text":"Ruby and JavaScript are the most popular languages on GitHub, with 19 and 17 percent of the hosted code respectively, but there are currently projects in over 50 languages on the service: everything from Visual Basic to Go."
+    },
+    {
+      "date":"2010-07-25",
+      "text":"GitHub announced that it hosts 1 million repositories.  It  was confirmed by Scott Chacon, VP of Research and Development at GitHub. Approximately 60 percent of these projects are full repositories – that is, shared folders with code spread across multiple files – while the remaining 40 percent are “gists”, or short code snippets contained in a single file."
+    },
+    {
+      "date":"2010-09-09",
+      "text":" 97 Sunlight software projects hosted on GitHub. GitHub gets all the credit. Much of the service’s impressiveness comes from its underlying revision control system, Git."
+    },
+    {
+      "date":"2011-04-20",
+      "text":"There were 2 million repositories in GitHub."
+    },
+    {
+      "date":"2011-06-02",
+      "text":"Github became the most popular open source forge, having surpassed Sourceforge, Google Code and Microsoft's CodePlex in total number of commits."
+    },
+    {
+      "date":"2012-07-01",
+      "text":"GitHub received $100 million from the venture capital firm Andreessen Horowitz."
+    },
+    {
+      "date":"2012-07-09",
+      "text":"Peter Levine, general partner at GitHub's investor Andreessen Horowitz, stated that GitHub had been growing revenue at 300% annually since 2008 \"profitably nearly the entire way\"."
+    },
+    {
+      "date":"2012-08-01",
+      "text":" The code for \"We the People\" and the mobile apps, White House for iOS and White House for Android were released."
+    },
+    {
+      "date":"2012-12-28",
+      "text":"The number of users jumped to 2.8 million from 1.2 million. Companies pay to use GitHub, and it has become an exceptionally popular way for people to do all kinds of software work. The number of “repositories” — containing code, its documentation, images associated with a project or other work — increased to 4.6 million from 1.7 million last year."
+    },
+    {
+      "date":"2013-01-16",
+      "text":"GitHub reached 3 million users mark and was then hosting more than 5 million repositories."
+    },
+    {
+      "date":"2013-05-09",
+      "text":"The White House drafted and released the official Open Data Policy of the United States on the service. Project Open Data is a policy that instructs government agencies to “manage their data, and information more generally, as an asset from the  start.” And not just to manage it for monetary or political gain but to  manage it for the public good — the document says that government data should, wherever possible, be released “to the public in a way that makes it open, discoverable, and usable.”"
+    },
+    {
+      "date":"2013-05-23",
+      "text":"GitHub had 3.5 million users hosting some 6 million \"repositories\" of stored software projects. Some of those users are big players like Lockheed Martin, Twitter, Facebook and The White House; enterprise users include Fortune 500 companies, large government agencies and universities. Revenue has increased 300 percent annually since GitHub's founding in 2008, and the staff now numbers 158."
+    },
+    {
+      "date":"2013-07-19",
+      "text":"The newest feature of its business model is to rent out a version to companies they can use internally. GitHub was listed as one of the ways  to fix company’s stifling bureaucracy."
+    },
+    {
+      "date":"2013-08-07",
+      "text":"GitHub users work on seven million projects. You can find projects written in almost any programming language in existence, from common Web development languages like P.H.P. and JavaScript to the ancient low-level language Fortran, and even LOLCODE, an absurdist programming syntax jokingly assembled from LOLcat captions."
+    },
+    {
+      "date":"2013-12-23",
+      "text":"There were 10 million repositoriesin GitHub."
+    },
+    {
+      "date":"2014-03-17",
+      "text":"GitHub programmer Julie Ann Horvath alleged that Preston-Werner and his wife Theresa engaged in a pattern of harassment against her that led to her leaving the company. After an internal investigation, GitHub CEO and cofounder Chris Wanstrath issued a statement on the company blog personally apologizing to Horvath."
+    },
+    {
+      "date":"2014-05-16",
+      "text":"The second annual Crunchies announced that GitHub  is a winner in Best Bootstrapped Startup"
+    },
+    {
+      "date":"2014-07-17",
+      "text":"GitHub, Inc. introduced a layer of middle management. Before this Github didn't have middle managers, there was self-management."
+    },
+    {
+      "date":"2014-12-03",
+      "text":"Russia’s regulator RosComNadzor has blocked GitHub after the popular software and coding collaboration platform was found to be hosting content related to suicide. The “block” effectively amounts to an order to ISPs to restrict access to the site. And because GitHub works on HTTPS, providers can only comply by restricting access to the entire site, rather than individual pages."
+    },
+    {
+      "date":"2014-12-31",
+      "text":"GitHub was blocked in India (along with 31 other Websites) over pro-ISIS content posted by users. On 10 January 2015, GitHub was unblocked."
+    },
+    {
+      "date":"2015-03-26",
+      "text":"The largest DDoS (distributed denial of service) attack in github.com's history. The attack began around 2AM UTC on Thursday, March 26, and involved a wide combination of attack vectors. These included every vector  in previous attacks as well as some sophisticated new techniques that used the web browsers of unsuspecting, uninvolved people to flood github.com with high levels of traffic."
+    },
+    {
+      "date":"2015-03-30",
+      "text":"GitHub reports having over 9 million users and over 21.1 million repositories, making it the largest host of source code in the world."
+    },
+    {
+      "date":"2015-06-01",
+      "text":"GitHub opened an office in Japan. That is its first office outside of the U.S."
+    },
+    {
+      "date":"2015-07-25",
+      "text":"GitHub raised $250 million in funding in a round led by Sequoia Capital. The round valued the company at approximately $2 billion."
+    },
+    {
+      "date":"2015-09-01",
+      "text":"GitHub has 324 employees and 10 million users. Architects, musicians, city governments, builders and others are\ncurrently using GitHub to share and collaborate on projects beyond software code."
+    },
+    {
+      "date":"2015-09-01",
+      "text":"GitHub is adding users at the rate of 10,000 per weekday."
+    },
+    {
+      "date":"2015-10-02",
+      "After months of letting early adopters kick the tires, Git Large File Storage (Git LFS) has reached a 1.0 milestone and from now on is available to all repositories on GitHub.com."
+    }
+  ]
+}
