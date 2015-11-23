@@ -1,0 +1,103 @@
+{
+  "name": "Medium",
+  "background": "#00ab6b",
+  "meta": {
+    "title": "History of Medium.com",
+    "description": "History of Medium publishing platform, which is a system for reading and writing, a place where you can find and share knowledge, ideas, and stories.",
+    "keywords": "medium, blog, platform, publishing, media"
+  },
+  "entries": [
+    {
+      "date":"2012-04-01",
+      "text":"Something referred to as Medium was built. They had real code, a working product and a desire to ship something. At that time there were 3 designers: Dustin Senos, Leigh Taylor and Dann Petty. Dustin was doing double-duty as a developer and designer while Dann and Leigh focused on design. "
+    },
+    {
+      "date":"2012-08-12",
+      "text":"Medium, a blog-publishing platform, was founded by Twitter co-founders Evan Williams and Biz Stone. The platform has evolved into a hybrid of non-professional contributions and professional, paid contributions, an example of social journalism."
+    },
+    {
+      "date":"2012-11-15",
+      "text":"The platform software provides a full WYSIWYG user interface when editing online, with various options for formatting provided as the user runs over text. Once an entry is posted, it can be recommended and shared by other people, in a similar manner to Twitter."
+    },
+    {
+      "date":"2013-01-01",
+      "text":"The platform uses the system of recommendations to up vote the best articles and stories. The Tag system divides the stories into different categories to let the audiences choose. Users can create a new account using an email address or a Twitter, Facebook, or Google account."
+    },
+    {
+      "date":"2013-01-01",
+      "text":"Medium has been described as “a cross between Tumblr and Pinterest.” Like Tumblr, it relies on artfully constructed templates for its structural power; like Pinterest, it’s designed to be image-heavy. But those surface issues, while interesting, are less consequential than the underlying structure of Medium, which upends much of how we think about personal publishing online."
+    },
+    {
+      "date":"2013-04-01",
+      "text":"Medium has relaunched Matter, the British tech publication, as the focus of its publishing efforts, admitting for the first time that it is a publisher as well as a publishing platform. The original version of Matter, a British science and technology journalism startup has been quietly closed after the relaunch. Its former editor, Bobbie Johnson, previously  a Guardian reporter, remains involved with the project and still works  at Medium, but Matter will now be edited by Mark Lotto, formerly a senior editor at GQ."
+    },
+    {
+      "date":"2013-04-05",
+      "text":"30 staffers who previously were hired as Obvious employees are now working as full-time Medium employees."
+    },
+    {
+      "date":"2013-09-14",
+      "text":"The Physics arXiv Blog is moving to Medium.com. You can find the latest ideas in physics and astronomy at: https://medium.com/the-physics-arxiv-blog"
+    },
+    {
+      "date":"2013-11-01",
+      "text":"Medium touted TTR as “the only metric that matters.”"
+    },
+    {
+      "date":"2014-01-01",
+      "text":"The site has a new home page and simpler design. "
+    },
+    {
+      "date":"2014-12-21",
+      "text":"Medium is used by up to 17 million people a month, including President Obama and Elon Musk. It has become an impressive forum for essays on tech and design, book chapters - even poetry."
+    },
+    {
+      "date":"2014-12-01",
+      "text":"Venture-capital firm \"Greylock Partners\"   (and other investors) put $20 million in Medium."
+    },
+    {
+      "date":"2014-12-31",
+      "text":"Medium became a destination for noted writers and a publisher of original writing through its properties such as Re:form and designed-focused journalism."
+    },
+    {
+      "date":"2015-02-01",
+      "text":"Evan Williams defined Medium product as a publishing platform and Medium company as both a publisher and a platform. It also admitted that their effort is to build the best publishing platform."
+    },
+    {
+      "date":"2015-02-24",
+      "text":"Medium goes after Tumblr with changes. Medium is turning the tables and moving into Tumblr’s territory instead with a series of changes that encourage writers to share stories of any  length – even shorter posts and incomplete thoughts. Changes: no title required, simple formatting options, one click publishing into your stream."
+    },
+    {
+      "date":"2015-04-30",
+      "text":"Williams and Hansen, the head of Medium’s Content Labs, decided the platform’s main goal would be to prioritize and increase engagement across the publishing network. Specifically, to encourage more readers to create accounts and sign in to Medium."
+    },
+    {
+      "date":"2015-05-11",
+      "text":"According to The Next Web, Medium is the seventh best publishing platform. Top six are: A quick primer, WordPress, Squarespace, Posthaven and GhostKirby."
+    },
+    {
+      "date":"2015-05-21",
+      "text":"Evan Williams stated in his blog, that Medium is shifting  focus. The publishing platform is rejiggering itself as a social network for readers and writers — and reconsidering some of its publications and ideals in the process."
+    },
+    {
+      "date":"2015-06-02",
+      "text":"Financial problems at Medium caused to the shut-down of some of the site’s magazine-style micro-sites or publications, such as The Archipelago and Re:form (the latter of which was a joint venture with BMW that depended in part on sponsored content). Other “collections” have been merged, according to various reports, including Matter, which is effectively no longer considered its own site."
+    },
+    {
+      "date":"2015-06-24",
+      "text":"To celebrate the LGBTQ pride month of June, the company replaced normal Medium logo with one that reflects the rainbow colors of the LGBTQ flag."
+    },
+    {
+      "date":"2015-08-01",
+      "text":"Medium publishing platform was 625 by Alexa rank, which provides commercial web traffic data."
+    },
+    {
+      "date": "2015-10-07",
+      "text": "Medium 2.0 new log and app launch. From support for iOS 9 to easier editing and publishing to a totally fresh look and so much more, if you weren’t a Medium user before, this update might just bring you on board."
+    },
+    {
+      "date": "2015-10-08",
+      "text": "Medium announces the launch of Publishing API. With Publishing API, writers can now share their stories on Medium from anywhere. It’s easier than ever to plug into our network and build your audience here."
+    }
+  ]
+}
