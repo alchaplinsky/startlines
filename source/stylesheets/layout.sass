@@ -93,10 +93,6 @@ body
     transition: color .2s ease
     &:hover
       color: rgba(255,255,255,.9)
-  .likes
-    position: absolute
-    top: 2px
-    right: 0
 
 .container
   max-width: 960px
@@ -141,7 +137,7 @@ body
     color: #333
     &:hover
       color: #000
-  .facebook-link, .twitter-link, .google-link, .pinterest-link
+  .facebook-link, .twitter-link, .google-link, .linkedin-link
     color: #aaa
     display: inline-block
     border: 1px solid #aaa
@@ -154,22 +150,11 @@ body
     &:hover
       border-color: #333
       color: #333
-@media screen and (max-width: 768px)
-  .header .likes small
-    display: none
-
-@media screen and (max-width: 500px)
-  .header .pinterest-link
-    display: none
-
-@media screen and (max-width: 400px)
-  .header .google-link
-    display: none
 
 @media screen and (max-width: 480px)
   .footer
     padding: 20px 10px
-    .facebook-link, .twitter-link, .google-link, .pinterest-link
+    .facebook-link, .twitter-link, .google-link, .linkedin-link
       margin-right: 5px
   .mobile-off
     display: none

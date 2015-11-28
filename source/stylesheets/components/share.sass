@@ -1,0 +1,27 @@
+.share
+  position: fixed
+  top: 30%
+  width: 48px
+  z-index: 10
+  a
+    display: inline-block
+    height: 48px
+    width: 48px
+    text-align: center
+    line-height: 48px
+    font-size: 20px
+    color: #fff
+    box-shadow: 0 0 5px rgba(0,0,0,.3)
+    transition: width .3s ease
+    &.icon-facebook
+      background: #3b5998
+    &.icon-twitter
+      background: #00aced
+    &.icon-google
+      background: #CC3732
+    &.icon-linkedin
+      background: #007bb6
+    &:hover
+      width: 56px
+  .index &
+    display: none
